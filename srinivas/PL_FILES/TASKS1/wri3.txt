@@ -1,0 +1,5 @@
+A -this is oval
+E -this is oval
+I -this is oval
+O -this is oval
+U -this is oval

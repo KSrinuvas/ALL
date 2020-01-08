@@ -1,0 +1,43 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+##  Replace the charater by character
+my $txt = "asc asc asc";
+print "BEFORE tr : $txt\n";
+$txt =~ tr/s/b/;
+print"AFTER tr : $txt\n";
+
+my $txt1 = "abis is pen abat is glass bbbb aaaa";
+print"$txt1\n";
+$txt1 =~ tr/ab/th/;
+
+print"$txt1\n";
+
+
+my $txt2 = "abc abc cba cba bca abcxyz zaxbyc";
+
+print"$txt2\n";
+$txt2 =~ tr/cba/zyx/;
+
+print"$txt2\n";
+
+
+
+## 
+
+my %hash = ('a'=>'y','b'=>'z');
+
+my $txt3 = "abc bca acb cba";
+
+print"$txt3\n";
+
+$txt3 =~ s/[ab]/yz/;
+
+print"$txt3\n";
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+use strict;
+use warnings;
+ 
+my %map = (
+    a => 'z',
+    b => 'x',
+);
+
+
+my $str = "abc abc cad abb cad";
+print"$str\n";
+
+my $char = join '',keys %map;
+
+
+#$str =~ s/([$char])/$map{$1}/g;
+
+$str =~
+print"$str\n";
+
+

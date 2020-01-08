@@ -1,0 +1,9 @@
+Any file that has been opened by a program 
+must be closed when the program finishes using that file. 
+In most cases, the files need not be closed explicitly; 
+they are closed automatically 
+when File objects are terminated automatically.
+Source
+Internet
+Source
+Internet

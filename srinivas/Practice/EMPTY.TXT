@@ -1,0 +1,2476 @@
+$VAR1 = {
+          'msimcompare' => {
+                             'issued_total_licences' => '101',
+                             'used_total_licences' => '0'
+                           },
+          'odbviewer' => {
+                           'issued_total_licences' => '2',
+                           'used_total_licences' => '0'
+                         },
+          'netlist' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'qvrm' => {
+                      'used_total_licences' => '0',
+                      'issued_total_licences' => '101'
+                    },
+          'icgraphcde' => {
+                            'issued_total_licences' => '19',
+                            'used_total_licences' => '0'
+                          },
+          'icdpmana_c' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'viewdraw' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '3'
+                        },
+          'enter82' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'enterpr' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'falconitk_c' => {
+                             'issued_total_licences' => '1',
+                             'used_total_licences' => '0'
+                           },
+          'bsrehighspeed' => {
+                               'issued_total_licences' => '1',
+                               'used_total_licences' => '0'
+                             },
+          'pcbintlayout_c' => {
+                                'used_total_licences' => '3',
+                                'issued_total_licences' => '16',
+                                'user_licensesr' => {
+                                                      'jtalbert' => 1,
+                                                      'mborsch' => 1,
+                                                      'wangling' => 1
+                                                    }
+                              },
+          'dftadvisor' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '33'
+                          },
+          'calibrelv' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'edamntf' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'wgautobasic' => {
+                             'issued_total_licences' => '1',
+                             'used_total_licences' => '0'
+                           },
+          'flomcad' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'hypbswsighz_c' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '3'
+                             },
+          'catapultflowslec' => {
+                                  'issued_total_licences' => '1',
+                                  'used_total_licences' => '0'
+                                },
+          'vhamsusrhs' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'edasync' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'visualibis' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'embcomp' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'vistaarchitect_c' => {
+                                  'issued_total_licences' => '1',
+                                  'used_total_licences' => '0'
+                                },
+          'wgreport' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '1'
+                        },
+          'vistadsn_c' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'enter76' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'opsim_c' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'bsreautoroute' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '4'
+                             },
+          'infsyintf' => {
+                           'issued_total_licences' => '2',
+                           'used_total_licences' => '0'
+                         },
+          'LMCSwift_Net' => {
+                              'issued_total_licences' => '50300',
+                              'used_total_licences' => '0'
+                            },
+          'pcbba_c' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'netlistflow' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '3'
+                           },
+          'inftbiintf' => {
+                            'issued_total_licences' => '2',
+                            'used_total_licences' => '0'
+                          },
+          'pcbpowerpcb' => {
+                             'issued_total_licences' => '3',
+                             'used_total_licences' => '0'
+                           },
+          'calyieldenhance' => {
+                                 'used_total_licences' => '2',
+                                 'issued_total_licences' => '80',
+                                 'user_licensesr' => {
+                                                       'vegupta' => 2
+                                                     }
+                               },
+          'dxcdb' => {
+                       'issued_total_licences' => '3',
+                       'used_total_licences' => '0'
+                     },
+          'VT_AssertionsRuntime' => {
+                                      'issued_total_licences' => '50300',
+                                      'used_total_licences' => '0'
+                                    },
+          'testkomp' => {
+                          'issued_total_licences' => '300',
+                          'user_licensesr' => {
+                                                'ychen' => 2,
+                                                'nitinraj' => 1,
+                                                'cradu' => 1,
+                                                'chicheng' => 4,
+                                                'sswamy' => 8,
+                                                'schadala' => 4,
+                                                'glli' => 3,
+                                                'lewei' => 1,
+                                                'xcfeng' => 1,
+                                                'sdodda' => 1,
+                                                'vprakash' => 6,
+                                                'nraveend' => 29,
+                                                'gbrener' => 2,
+                                                'vimittal' => 4,
+                                                'hrajeswa' => 3,
+                                                'kenpham' => 1,
+                                                'ppears' => 1,
+                                                'kmisbahu' => 1,
+                                                'jbosco' => 19,
+                                                'saswamy' => 3,
+                                                'bagarwal' => 15,
+                                                'lindli' => 5,
+                                                'dzhang1' => 1,
+                                                'nithyak' => 4,
+                                                'hezhao' => 9,
+                                                'brxu' => 1,
+                                                'vwang1' => 1,
+                                                'shosur' => 12,
+                                                'agoli' => 2,
+                                                'avarma' => 3,
+                                                'kevinli' => 2,
+                                                'grguo' => 3,
+                                                'adeepak' => 1,
+                                                'rashukla' => 6,
+                                                'hawhuang' => 1,
+                                                'mreddypo' => 3
+                                              },
+                          'used_total_licences' => '168'
+                        },
+          'localev' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'edaprot' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'znmnsas' => {
+                         'issued_total_licences' => '41',
+                         'used_total_licences' => '0'
+                       },
+          'pcbfablinknt_c' => {
+                                'used_total_licences' => '0',
+                                'issued_total_licences' => '4'
+                              },
+          'wgascentl2' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'XTENSA_XCC_TIE' => {
+                                'used_total_licences' => '0',
+                                'issued_total_licences' => '20'
+                              },
+          'analyze' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'eldonet' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '18'
+                       },
+          'sptvipddr2' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'dmsconnector' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '3'
+                            },
+          'sptvipspi42' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '1'
+                           },
+          'SSS' => {
+                     'used_total_licences' => '0',
+                     'issued_total_licences' => '1'
+                   },
+          'lmsmgr_c' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '3'
+                        },
+          'sptvipahb' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'outodbx' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'aspire_c' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'certetb_c' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'enter90' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'wgmfgtboxa' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'calopcverify' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '1'
+                            },
+          'qpasim' => {
+                        'issued_total_licences' => '101',
+                        'used_total_licences' => '0'
+                      },
+          'phytestmgrnt' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '4'
+                            },
+          'lcpsfilter' => {
+                            'issued_total_licences' => '3',
+                            'used_total_licences' => '0'
+                          },
+          'msimcdebug' => {
+                            'issued_total_licences' => '101',
+                            'used_total_licences' => '0'
+                          },
+          'pnrxtan' => {
+                         'used_total_licences' => '26',
+                         'user_licensesr' => {
+                                               'xyhou' => 2,
+                                               'gchalapa' => 2,
+                                               'kkhilwan' => 1,
+                                               'yanwang1' => 1,
+                                               'lli2' => 1,
+                                               'vcui' => 1,
+                                               'kmallavr' => 1,
+                                               'drxu' => 1,
+                                               'zhjin' => 2,
+                                               'wjung' => 1,
+                                               'soyang' => 2,
+                                               'pduvvuru' => 1,
+                                               'aimmadi' => 1,
+                                               'sgunda' => 1,
+                                               'cgzhou' => 1,
+                                               'csong' => 1,
+                                               'cyali' => 1,
+                                               'vixiao' => 1,
+                                               'ligao' => 1,
+                                               'dcwang' => 1,
+                                               'fulee' => 1,
+                                               'lsarwiga' => 1
+                                             },
+                         'issued_total_licences' => '111'
+                       },
+          'edacdif' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'hyplswsiext_c' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '6'
+                             },
+          'hypimport_c' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '7'
+                           },
+          'papoulistlmpwr_c' => {
+                                  'issued_total_licences' => '1',
+                                  'used_total_licences' => '0'
+                                },
+          'bsreinteractive' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '8'
+                               },
+          'znramgen' => {
+                          'issued_total_licences' => '231',
+                          'used_total_licences' => '0'
+                        },
+          'lmspdsunt' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '3'
+                         },
+          'sptvipdgrf' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'enter75' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'hp2filter' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '2'
+                         },
+          'reqtracer_c' => {
+                             'issued_total_licences' => '1',
+                             'used_total_licences' => '0'
+                           },
+          'pnrdfm' => {
+                        'used_total_licences' => '0',
+                        'issued_total_licences' => '1'
+                      },
+          'enter81' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'ces' => {
+                     'issued_total_licences' => '43',
+                     'used_total_licences' => '0'
+                   },
+          'zngui' => {
+                       'user_licensesr' => {
+                                             'vbaisane' => 4,
+                                             'suxu' => 1,
+                                             'spai' => 2,
+                                             'amzhao' => 1,
+                                             'qfliu' => 1,
+                                             'linqin' => 1,
+                                             'gskantha' => 1,
+                                             'chyu' => 1,
+                                             'aazhang' => 1,
+                                             'rbartolo' => 1,
+                                             'fho' => 1,
+                                             'rbattu' => 1,
+                                             'asegaran' => 2,
+                                             'smittal' => 2,
+                                             'yuzhu' => 1,
+                                             'cponnama' => 1,
+                                             'kchamaku' => 2,
+                                             'mitchel' => 1,
+                                             'zgchi' => 1,
+                                             'shshaik' => 1,
+                                             'wwang5' => 1,
+                                             'mbadam' => 1,
+                                             'jjiang4' => 1,
+                                             'jdwyer' => 1,
+                                             'fmohamma' => 2,
+                                             'gmehta' => 1,
+                                             'svarma' => 1,
+                                             'tireland' => 1,
+                                             'ssarangi' => 1,
+                                             'pparakh' => 1,
+                                             'vsribha' => 1
+                                           },
+                       'issued_total_licences' => '231',
+                       'used_total_licences' => '39'
+                     },
+          'XT_ISS_COSIM' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '10'
+                            },
+          'calmdpview' => {
+                            'issued_total_licences' => '5',
+                            'used_total_licences' => '0'
+                          },
+          'erfxmgr' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'papoulis' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '1'
+                        },
+          'znautocheckcomp' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '60'
+                               },
+          'lmsuser' => {
+                         'user_licensesr' => {
+                                               'galagan' => 1
+                                             },
+                         'issued_total_licences' => '15',
+                         'used_total_licences' => '1'
+                       },
+          'edavrml' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'icxtaufw2_c' => {
+                             'issued_total_licences' => '1',
+                             'used_total_licences' => '0'
+                           },
+          'pnrdatabase' => {
+                             'issued_total_licences' => '400',
+                             'user_licensesr' => {
+                                                   'uprakash' => 1,
+                                                   'smiddi' => 11,
+                                                   'ppawan' => 1,
+                                                   'arnath' => 2,
+                                                   'kmallavr' => 1,
+                                                   'gnishant' => 1,
+                                                   'drxu' => 2,
+                                                   'vcui' => 1,
+                                                   'jksun' => 1,
+                                                   'lli2' => 1,
+                                                   'smuraris' => 1,
+                                                   'cherchen' => 6,
+                                                   'sbhamidi' => 1,
+                                                   'lewei' => 2,
+                                                   'fulee' => 8,
+                                                   'anuthi' => 4,
+                                                   'xfeng' => 1,
+                                                   'eergin' => 1,
+                                                   'naking' => 1,
+                                                   'yaxu' => 3,
+                                                   'bshao' => 1,
+                                                   'radamhal' => 1,
+                                                   'sgunda' => 9,
+                                                   'aswks' => 1,
+                                                   'cgzhou' => 2,
+                                                   'mengtie' => 1,
+                                                   'soyang' => 2,
+                                                   'aimmadi' => 5,
+                                                   'guliang' => 4,
+                                                   'yjli' => 1,
+                                                   'wjung' => 3,
+                                                   'zhjin' => 2,
+                                                   'sujshriv' => 2,
+                                                   'hmani' => 1,
+                                                   'jtan' => 4,
+                                                   'pexu' => 2,
+                                                   'skhode' => 1,
+                                                   'yanwang1' => 1,
+                                                   'vshivaku' => 6,
+                                                   'vegupta' => 1,
+                                                   'kkhilwan' => 1,
+                                                   'gchalapa' => 2,
+                                                   'xyhou' => 2,
+                                                   'vnethula' => 7,
+                                                   'mvijay' => 2,
+                                                   'lsarwiga' => 3,
+                                                   'yimwu' => 1,
+                                                   'bpaladug' => 2,
+                                                   'dcwang' => 1,
+                                                   'rmurillo' => 4,
+                                                   'vixiao' => 1,
+                                                   'ligao' => 2,
+                                                   'tiatian' => 2,
+                                                   'ntieu' => 1,
+                                                   'dxiao' => 1,
+                                                   'khuh' => 2,
+                                                   'zhqi' => 2,
+                                                   'csong' => 3,
+                                                   'cyali' => 6,
+                                                   'zli1' => 7,
+                                                   'pduvvuru' => 5,
+                                                   'averma' => 1
+                                                 },
+                             'used_total_licences' => '158'
+                           },
+          'pcbmech' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'calprintimage' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '1'
+                             },
+          'lmspdsu' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '3'
+                       },
+          'lmsmgrnt_c' => {
+                            'issued_total_licences' => '3',
+                            'used_total_licences' => '0'
+                          },
+          'XTENSA_ISS_CACHE' => {
+                                  'used_total_licences' => '0',
+                                  'issued_total_licences' => '20'
+                                },
+          'variantmgrsch' => {
+                               'issued_total_licences' => '3',
+                               'used_total_licences' => '0'
+                             },
+          'znmnocp' => {
+                         'issued_total_licences' => '41',
+                         'used_total_licences' => '0'
+                       },
+          'VT_Testbench' => {
+                              'user_licensesr' => {
+                                                    'vwang1' => 3,
+                                                    'sgirimaj' => 1,
+                                                    'jalexander' => 1,
+                                                    'jklong' => 1,
+                                                    'marmei' => 2,
+                                                    'pphan' => 4,
+                                                    'jdepenni' => 1,
+                                                    'petng' => 5,
+                                                    'ccpregress' => 7,
+                                                    'sbudumur' => 1,
+                                                    'sthiagar' => 3,
+                                                    'mthejasv' => 1,
+                                                    'pkoran' => 1
+                                                  },
+                              'issued_total_licences' => '50300',
+                              'used_total_licences' => '31'
+                            },
+          'sptvipddr3' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'znpsl' => {
+                       'used_total_licences' => '0',
+                       'issued_total_licences' => '121'
+                     },
+          'lchp2filter' => {
+                             'issued_total_licences' => '2',
+                             'used_total_licences' => '0'
+                           },
+          'znreplaysim' => {
+                             'used_total_licences' => '10',
+                             'user_licensesr' => {
+                                                   'rbartolo' => 1,
+                                                   'asegaran' => 2,
+                                                   'svarma' => 1,
+                                                   'smittal' => 2,
+                                                   'spai' => 2,
+                                                   'kchamaku' => 2
+                                                 },
+                             'issued_total_licences' => '60'
+                           },
+          'calibrehlvs' => {
+                             'used_total_licences' => '72',
+                             'issued_total_licences' => '211',
+                             'user_licensesr' => {
+                                                   'mchiang' => 1,
+                                                   'vkonagal' => 1,
+                                                   'suttam' => 9,
+                                                   'ekearney' => 1,
+                                                   'cyli' => 13,
+                                                   'skempf' => 3,
+                                                   'zhazhang' => 1,
+                                                   'schandak' => 1,
+                                                   'mvemu' => 1,
+                                                   'rkannay' => 1,
+                                                   'mdinh' => 33,
+                                                   'skurada' => 1,
+                                                   'csreedha' => 2,
+                                                   'ksugiyam' => 1,
+                                                   'vmerugu' => 1,
+                                                   'vramacha' => 1,
+                                                   'sahuynh' => 1
+                                                 }
+                           },
+          'zncw' => {
+                      'used_total_licences' => '0',
+                      'issued_total_licences' => '41'
+                    },
+          'mbistarchitect' => {
+                                'used_total_licences' => '0',
+                                'issued_total_licences' => '1'
+                              },
+          'hyptsview' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'cutdata' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'lbistarchitect_c' => {
+                                  'issued_total_licences' => '26',
+                                  'user_licensesr' => {
+                                                        'dzhang1' => 1
+                                                      },
+                                  'used_total_licences' => '1'
+                                },
+          'iceco' => {
+                       'used_total_licences' => '0',
+                       'issued_total_licences' => '17'
+                     },
+          'pnrpower' => {
+                          'used_total_licences' => '38',
+                          'issued_total_licences' => '400',
+                          'user_licensesr' => {
+                                                'sujshriv' => 2,
+                                                'zhjin' => 2,
+                                                'wjung' => 1,
+                                                'drxu' => 1,
+                                                'kmallavr' => 1,
+                                                'gnishant' => 1,
+                                                'yanwang1' => 1,
+                                                'lli2' => 1,
+                                                'vshivaku' => 6,
+                                                'kkhilwan' => 1,
+                                                'vcui' => 1,
+                                                'xyhou' => 2,
+                                                'gchalapa' => 2,
+                                                'fulee' => 1,
+                                                'dcwang' => 1,
+                                                'lsarwiga' => 1,
+                                                'ligao' => 1,
+                                                'vixiao' => 1,
+                                                'xfeng' => 1,
+                                                'eergin' => 1,
+                                                'cgzhou' => 1,
+                                                'sgunda' => 1,
+                                                'radamhal' => 1,
+                                                'cyali' => 1,
+                                                'csong' => 1,
+                                                'aimmadi' => 1,
+                                                'pduvvuru' => 1,
+                                                'soyang' => 2
+                                              }
+                        },
+          'genieartist' => {
+                             'issued_total_licences' => '3',
+                             'used_total_licences' => '0'
+                           },
+          'sptgui' => {
+                        'issued_total_licences' => '1',
+                        'used_total_licences' => '0'
+                      },
+          'genesis' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'iciroute' => {
+                          'issued_total_licences' => '17',
+                          'used_total_licences' => '0'
+                        },
+          'inp356d' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'sptvipocp' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'edaodbg' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'sptviphdmi' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'inpodbx' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'anarevw' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'edapads' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'infactcx' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '2'
+                        },
+          'XT_XCC_TIE' => {
+                            'used_total_licences' => '1',
+                            'issued_total_licences' => '10',
+                            'user_licensesr' => {
+                                                  'sdandu' => 1
+                                                }
+                          },
+          'znmnusb20' => {
+                           'issued_total_licences' => '41',
+                           'used_total_licences' => '0'
+                         },
+          'VCSPostProcDebugger_Net' => {
+                                         'issued_total_licences' => '50300',
+                                         'used_total_licences' => '0'
+                                       },
+          'pnrplace' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'zncompckl' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '151'
+                         },
+          'daicbundle_c' => {
+                              'issued_total_licences' => '13',
+                              'used_total_licences' => '0'
+                            },
+          'pnrsynchopt' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '10'
+                           },
+          'vhamsmod' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'zncompccl' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '231'
+                         },
+          'caldfmproperty' => {
+                                'issued_total_licences' => '115',
+                                'used_total_licences' => '0'
+                              },
+          'bsreautoactive' => {
+                                'used_total_licences' => '0',
+                                'issued_total_licences' => '8'
+                              },
+          'XT_XPLORER_SE' => {
+                               'issued_total_licences' => '10',
+                               'user_licensesr' => {
+                                                     'joqia' => 1
+                                                   },
+                               'used_total_licences' => '1'
+                             },
+          'pcbiges' => {
+                         'used_total_licences' => '1',
+                         'issued_total_licences' => '1'
+                       },
+          'VT_Assertions' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '50300'
+                             },
+          'wfmview' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '6'
+                       },
+          'calopcpro' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'sptvipi2c' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'enter80' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'fastscan' => {
+                          'user_licensesr' => {
+                                                'kevinli' => 1,
+                                                'bpiyade' => 2,
+                                                'lkarre' => 5,
+                                                'dlosli' => 1,
+                                                'hrajeswa' => 2,
+                                                'vimittal' => 1,
+                                                'ksobti' => 2,
+                                                'jalexander' => 2,
+                                                'sreddy' => 1,
+                                                'rashukla' => 2,
+                                                'kenpham' => 1,
+                                                'hawhuang' => 3,
+                                                'rsrirama' => 10,
+                                                'ppears' => 1,
+                                                'agill' => 3,
+                                                'anormato' => 4,
+                                                'nithyak' => 5,
+                                                'sswamy' => 1,
+                                                'nitinraj' => 1,
+                                                'jtorrey' => 1,
+                                                'mreese' => 2,
+                                                'sdodda' => 1,
+                                                'gopalakr' => 8,
+                                                'lewei' => 1,
+                                                'ploi' => 2,
+                                                'mjulapat' => 3,
+                                                'mmateja' => 1,
+                                                'vprakash' => 11,
+                                                'snarasim' => 1
+                                              },
+                          'issued_total_licences' => '200',
+                          'used_total_licences' => '79'
+                        },
+          'pcbintlayoutnt_c' => {
+                                  'issued_total_licences' => '16',
+                                  'used_total_licences' => '0'
+                                },
+          'onlndrc' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'inp274x' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'sptvipuart' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'msimhdlmix' => {
+                            'issued_total_licences' => '101',
+                            'used_total_licences' => '0'
+                          },
+          'phytestmgr' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '4'
+                          },
+          'zncompcdc' => {
+                           'issued_total_licences' => '110',
+                           'user_licensesr' => {
+                                                 'vsribha' => 2,
+                                                 'pparakh' => 1,
+                                                 'gavli' => 2,
+                                                 'tireland' => 2,
+                                                 'ssarangi' => 1,
+                                                 'fmohamma' => 2,
+                                                 'gmehta' => 1,
+                                                 'sskma' => 1,
+                                                 'jjiang4' => 1,
+                                                 'jdwyer' => 1,
+                                                 'wwang5' => 1,
+                                                 'mbadam' => 1,
+                                                 'etian' => 2,
+                                                 'zgchi' => 1,
+                                                 'shshaik' => 1,
+                                                 'prakkumar' => 1,
+                                                 'cponnama' => 1,
+                                                 'yuzhu' => 1,
+                                                 'mitchel' => 1,
+                                                 'fho' => 1,
+                                                 'aazhang' => 1,
+                                                 'rbattu' => 1,
+                                                 'chyu' => 1,
+                                                 'vbaisane' => 3,
+                                                 'amzhao' => 1,
+                                                 'suxu' => 1,
+                                                 'linqin' => 1,
+                                                 'qfliu' => 1,
+                                                 'gskantha' => 1
+                                               },
+                           'used_total_licences' => '36'
+                         },
+          'VCSTools_Net' => {
+                              'used_total_licences' => '1',
+                              'user_licensesr' => {
+                                                    'regrsys' => 1
+                                                  },
+                              'issued_total_licences' => '50300'
+                            },
+          'automat' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'edabdin' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'catapultlb_c' => {
+                              'issued_total_licences' => '1',
+                              'used_total_licences' => '0'
+                            },
+          'XT_ISS_TURBO' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '10'
+                            },
+          'pcbfablink_c' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '4'
+                            },
+          'znmnpcixprs' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '41'
+                           },
+          'dimedit' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'vistabase_c' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '1'
+                           },
+          'hdlart' => {
+                        'used_total_licences' => '0',
+                        'issued_total_licences' => '1'
+                      },
+          'znconfirm' => {
+                           'issued_total_licences' => '60',
+                           'used_total_licences' => '0'
+                         },
+          'pcbhispeed' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '4'
+                          },
+          'vhamsdev' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'infacteng_c' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '5'
+                           },
+          'icxprosim_c' => {
+                             'user_licensesr' => {
+                                                   'asegaran' => 1
+                                                 },
+                             'issued_total_licences' => '6',
+                             'used_total_licences' => '1'
+                           },
+          'wganalboxa' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'pcbmechnt' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'sptviplli' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'dxdatamanager' => {
+                               'issued_total_licences' => '3',
+                               'used_total_licences' => '0'
+                             },
+          'calmdpmapi' => {
+                            'issued_total_licences' => '3',
+                            'used_total_licences' => '0'
+                          },
+          'kitpack' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'designarchnt_c' => {
+                                'issued_total_licences' => '13',
+                                'used_total_licences' => '0'
+                              },
+          'pnrmcore' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '1'
+                        },
+          'pnreroute' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'outexcl' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'hypcpf' => {
+                        'used_total_licences' => '0',
+                        'issued_total_licences' => '1'
+                      },
+          'znhiercdcilm' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '110'
+                            },
+          'calwaiver' => {
+                           'used_total_licences' => '51',
+                           'issued_total_licences' => '199',
+                           'user_licensesr' => {
+                                                 'ngummi' => 2,
+                                                 'cyli' => 30,
+                                                 'nchava' => 2,
+                                                 'jiyee' => 17
+                                               }
+                         },
+          'infscintf' => {
+                           'issued_total_licences' => '3',
+                           'used_total_licences' => '0'
+                         },
+          'xelga' => {
+                       'issued_total_licences' => '1',
+                       'used_total_licences' => '0'
+                     },
+          'eldorfic' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'znmngbenet' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '41'
+                          },
+          'dxpdf' => {
+                       'issued_total_licences' => '3',
+                       'used_total_licences' => '0'
+                     },
+          'ftparasolver' => {
+                              'issued_total_licences' => '4',
+                              'used_total_licences' => '0'
+                            },
+          'calibrehdrc' => {
+                             'user_licensesr' => {
+                                                   'skempf' => 4,
+                                                   'benchan' => 1,
+                                                   'rseahra' => 5,
+                                                   'mpatidar' => 1,
+                                                   'mstampli' => 1,
+                                                   'eswanson' => 1,
+                                                   'hinguyen' => 1,
+                                                   'nchava' => 2,
+                                                   'gthomas' => 2,
+                                                   'mdinh' => 33,
+                                                   'skurada' => 10,
+                                                   'vegupta' => 4,
+                                                   'vemaheswa' => 1,
+                                                   'ngummi' => 3,
+                                                   'ndalvi' => 3,
+                                                   'nlance' => 1,
+                                                   'asingla' => 4,
+                                                   'cbatra' => 1,
+                                                   'cyali' => 2,
+                                                   'skaipa' => 4,
+                                                   'sjan' => 1,
+                                                   'pnarinde' => 1,
+                                                   'cyli' => 51,
+                                                   'abuch' => 1,
+                                                   'vveerepa' => 2,
+                                                   'puneetgu' => 2,
+                                                   'dchun' => 3,
+                                                   'mchung' => 9,
+                                                   'jipatel' => 1,
+                                                   'rkannay' => 43,
+                                                   'kirapak' => 7,
+                                                   'vmerugu' => 4,
+                                                   'lewei' => 1,
+                                                   'nnkumar' => 2,
+                                                   'tlin' => 12,
+                                                   'cgzhou' => 2,
+                                                   'rkoliset' => 9,
+                                                   'hprasad' => 3,
+                                                   'cmusumec' => 1,
+                                                   'kmandadi' => 5,
+                                                   'wjung' => 3,
+                                                   'cpeura' => 7,
+                                                   'chambers' => 2,
+                                                   'schandak' => 16,
+                                                   'jeluca' => 4,
+                                                   'ppedired' => 1,
+                                                   'jiyee' => 30,
+                                                   'gokrishn' => 10,
+                                                   'jgardiol' => 3,
+                                                   'csreedha' => 4,
+                                                   'bdatta' => 2,
+                                                   'psukhava' => 1,
+                                                   'csong' => 3,
+                                                   'skondapa' => 4,
+                                                   'lboda' => 3,
+                                                   'vkonagal' => 3,
+                                                   'skethire' => 2,
+                                                   'mvemu' => 7,
+                                                   'ksugiyam' => 1,
+                                                   'jiyang' => 4,
+                                                   'ebancala' => 1,
+                                                   'nmetla' => 2,
+                                                   'parlagad' => 1,
+                                                   'rthayana' => 4,
+                                                   'jjlindne' => 1,
+                                                   'ldong' => 2,
+                                                   'gsinghal' => 1,
+                                                   'jkalapur' => 1
+                                                 },
+                             'issued_total_licences' => '650',
+                             'used_total_licences' => '370'
+                           },
+          'zncwmbase' => {
+                           'issued_total_licences' => '142',
+                           'used_total_licences' => '0'
+                         },
+          'zncwcompiler' => {
+                              'issued_total_licences' => '41',
+                              'used_total_licences' => '0'
+                            },
+          'libcou' => {
+                        'issued_total_licences' => '1',
+                        'used_total_licences' => '0'
+                      },
+          'falconitknt_c' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '1'
+                             },
+          'calibreperc' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '10'
+                           },
+          'calopcsbar' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'pcbbant_c' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'txanalysis' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '101'
+                          },
+          'wgpcb' => {
+                       'issued_total_licences' => '1',
+                       'used_total_licences' => '0'
+                     },
+          'designarch_c' => {
+                              'used_total_licences' => '1',
+                              'issued_total_licences' => '13',
+                              'user_licensesr' => {
+                                                    'galagan' => 1
+                                                  }
+                            },
+          'infsykrnl' => {
+                           'issued_total_licences' => '2',
+                           'used_total_licences' => '0'
+                         },
+          'calibreqdb' => {
+                            'user_licensesr' => {
+                                                  'srakheja' => 1,
+                                                  'bchauhan' => 1,
+                                                  'ckappaga' => 6,
+                                                  'gchalapa' => 2,
+                                                  'ltelkar' => 1,
+                                                  'abuch' => 2,
+                                                  'vveerepa' => 1,
+                                                  'kmallavr' => 1,
+                                                  'iahmed' => 1,
+                                                  'vramacha' => 1,
+                                                  'cotto' => 2,
+                                                  'tmardi' => 1,
+                                                  'mhossain' => 1,
+                                                  'ndalvi' => 3,
+                                                  'brambabu' => 1,
+                                                  'ebancala' => 1,
+                                                  'mohossai' => 1,
+                                                  'taahmed' => 1,
+                                                  'mmahfuz' => 1,
+                                                  'kesun' => 1,
+                                                  'akt' => 1
+                                                },
+                            'issued_total_licences' => '241',
+                            'used_total_licences' => '31'
+                          },
+          'znformalseed' => {
+                              'used_total_licences' => '5',
+                              'issued_total_licences' => '60',
+                              'user_licensesr' => {
+                                                    'xinguan' => 1,
+                                                    'smittal' => 4
+                                                  }
+                            },
+          'FusionVantageLmcInterface' => {
+                                           'used_total_licences' => '0',
+                                           'issued_total_licences' => '50300'
+                                         },
+          'vistahce_c' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'znsim' => {
+                       'issued_total_licences' => '1',
+                       'used_total_licences' => '0'
+                     },
+          'znprove' => {
+                         'user_licensesr' => {
+                                               'xinguan' => 1,
+                                               'smittal' => 4,
+                                               'danyee' => 3,
+                                               'dan' => 2
+                                             },
+                         'issued_total_licences' => '60',
+                         'used_total_licences' => '10'
+                       },
+          'pnrdroute' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'xelga_c' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '8'
+                       },
+          'dfmkrnl' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'msimprofile' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '101'
+                           },
+          'edapcad' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'vistapower_c' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '1'
+                            },
+          'calmpcpro' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '3'
+                         },
+          'pnrmcoretiming' => {
+                                'issued_total_licences' => '100',
+                                'user_licensesr' => {
+                                                      'smiddi' => 8,
+                                                      'uprakash' => 1,
+                                                      'arnath' => 1,
+                                                      'drxu' => 2,
+                                                      'vcui' => 1,
+                                                      'lli2' => 1,
+                                                      'cherchen' => 5,
+                                                      'lewei' => 2,
+                                                      'fulee' => 5,
+                                                      'anuthi' => 4,
+                                                      'xfeng' => 1,
+                                                      'eergin' => 1,
+                                                      'naking' => 1,
+                                                      'yaxu' => 3,
+                                                      'cgzhou' => 2,
+                                                      'mengtie' => 1,
+                                                      'sgunda' => 8,
+                                                      'soyang' => 2,
+                                                      'aimmadi' => 1,
+                                                      'guliang' => 4,
+                                                      'zhjin' => 2,
+                                                      'pexu' => 2,
+                                                      'yanwang1' => 1,
+                                                      'kkhilwan' => 1,
+                                                      'gchalapa' => 2,
+                                                      'xyhou' => 1,
+                                                      'vnethula' => 7,
+                                                      'mvijay' => 2,
+                                                      'lsarwiga' => 1,
+                                                      'bpaladug' => 1,
+                                                      'dcwang' => 1,
+                                                      'rmurillo' => 2,
+                                                      'vixiao' => 1,
+                                                      'tiatian' => 1,
+                                                      'ligao' => 2,
+                                                      'ntieu' => 1,
+                                                      'khuh' => 2,
+                                                      'zhqi' => 1,
+                                                      'csong' => 2,
+                                                      'cyali' => 3,
+                                                      'zli1' => 7,
+                                                      'pduvvuru' => 2,
+                                                      'averma' => 1
+                                                    },
+                                'used_total_licences' => '100'
+                              },
+          'hypbswsiext_c' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '6'
+                             },
+          'hyplswsighz_c' => {
+                               'issued_total_licences' => '3',
+                               'used_total_licences' => '0'
+                             },
+          'sptvipcsi' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'yieldascandiag' => {
+                                'user_licensesr' => {
+                                                      'rtao' => 1,
+                                                      'rchitnan' => 2,
+                                                      'nmailava' => 1,
+                                                      'awang1' => 1,
+                                                      'wpyeong' => 1,
+                                                      'jacheng' => 4,
+                                                      'jcarosel' => 1
+                                                    },
+                                'issued_total_licences' => '45',
+                                'used_total_licences' => '11'
+                              },
+          'XTENSA_ISS_BASE' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '20'
+                               },
+          'VT_Coverage' => {
+                             'issued_total_licences' => '50300',
+                             'used_total_licences' => '0'
+                           },
+          'znsva' => {
+                       'used_total_licences' => '1',
+                       'user_licensesr' => {
+                                             'jxia' => 1
+                                           },
+                       'issued_total_licences' => '121'
+                     },
+          'XTENSA_SDK' => {
+                            'issued_total_licences' => '10',
+                            'user_licensesr' => {
+                                                  'sdandu' => 1,
+                                                  'joqia' => 1
+                                                },
+                            'used_total_licences' => '2'
+                          },
+          'bscanarchitect' => {
+                                'issued_total_licences' => '1',
+                                'used_total_licences' => '0'
+                              },
+          'fastscanmacro' => {
+                               'issued_total_licences' => '1',
+                               'used_total_licences' => '0'
+                             },
+          'eldoforhyp' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'icgraph' => {
+                         'used_total_licences' => '1',
+                         'user_licensesr' => {
+                                               'bobw' => 1
+                                             },
+                         'issued_total_licences' => '17'
+                       },
+          'chkopen' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'caldesignrev' => {
+                              'issued_total_licences' => '130',
+                              'user_licensesr' => {
+                                                    'nnkumar' => 1,
+                                                    'tdaum' => 1,
+                                                    'nmwez' => 1,
+                                                    'gnethra' => 1,
+                                                    'cgiles' => 2,
+                                                    'tsrithar' => 1,
+                                                    'cradu' => 1,
+                                                    'sahuynh' => 5,
+                                                    'cyli' => 1,
+                                                    'nwoodall' => 1,
+                                                    'pmunired' => 1,
+                                                    'vveerepa' => 2,
+                                                    'abuch' => 1,
+                                                    'tuoyu' => 1,
+                                                    'yanw' => 1,
+                                                    'vili' => 3,
+                                                    'skaipa' => 1,
+                                                    'weitay' => 1,
+                                                    'ttodesco' => 2,
+                                                    'mchung' => 1,
+                                                    'jpearce' => 1,
+                                                    'pelango' => 1,
+                                                    'puwang' => 1,
+                                                    'mfox' => 3,
+                                                    'judin' => 1,
+                                                    'kvineeth' => 1,
+                                                    'sbachchu' => 2,
+                                                    'mbourlan' => 1,
+                                                    'hinguyen' => 1,
+                                                    'bobw' => 5,
+                                                    'kjlee' => 1,
+                                                    'skempf' => 2,
+                                                    'rakamath' => 2,
+                                                    'mpatidar' => 1,
+                                                    'vegupta' => 2,
+                                                    'vemaheswa' => 2,
+                                                    'mdinh' => 2,
+                                                    'rgaddi' => 1,
+                                                    'kchoy' => 1,
+                                                    'godonogh' => 1,
+                                                    'wsantos' => 1,
+                                                    'rmccoy' => 1,
+                                                    'ksugiyam' => 1,
+                                                    'jiyang' => 2,
+                                                    'bmadden' => 1,
+                                                    'keholub' => 2,
+                                                    'spendru' => 1,
+                                                    'chlay' => 2,
+                                                    'jpatton' => 1,
+                                                    'msherrif' => 1,
+                                                    'brambabu' => 1,
+                                                    'norma' => 1,
+                                                    'jsrivath' => 1,
+                                                    'bengles' => 3,
+                                                    'kasper' => 1,
+                                                    'ccalkins' => 1,
+                                                    'dennyr' => 1,
+                                                    'sglickma' => 4,
+                                                    'rpietras' => 2,
+                                                    'alistair' => 1,
+                                                    'agoli' => 1,
+                                                    'jiyee' => 2,
+                                                    'bschnell' => 1,
+                                                    'gokrishn' => 2,
+                                                    'psukhava' => 2,
+                                                    'pturner' => 1,
+                                                    'rdupcak' => 1,
+                                                    'mgaetz' => 1,
+                                                    'suttam' => 3,
+                                                    'kmandadi' => 3,
+                                                    'wjung' => 2,
+                                                    'hprasad' => 1,
+                                                    'vkondepu' => 1,
+                                                    'denglish' => 1
+                                                  },
+                              'used_total_licences' => '112'
+                            },
+          'calibredrc' => {
+                            'used_total_licences' => '370',
+                            'issued_total_licences' => '650',
+                            'user_licensesr' => {
+                                                  'psukhava' => 1,
+                                                  'csong' => 3,
+                                                  'jgardiol' => 3,
+                                                  'csreedha' => 4,
+                                                  'bdatta' => 2,
+                                                  'gokrishn' => 10,
+                                                  'jiyee' => 30,
+                                                  'jeluca' => 4,
+                                                  'ppedired' => 1,
+                                                  'schandak' => 16,
+                                                  'chambers' => 2,
+                                                  'cpeura' => 7,
+                                                  'wjung' => 3,
+                                                  'kmandadi' => 5,
+                                                  'cmusumec' => 1,
+                                                  'hprasad' => 3,
+                                                  'jjlindne' => 1,
+                                                  'ldong' => 2,
+                                                  'jkalapur' => 1,
+                                                  'gsinghal' => 1,
+                                                  'rthayana' => 4,
+                                                  'nmetla' => 2,
+                                                  'parlagad' => 1,
+                                                  'ebancala' => 1,
+                                                  'jiyang' => 4,
+                                                  'ksugiyam' => 1,
+                                                  'mvemu' => 7,
+                                                  'skethire' => 2,
+                                                  'vkonagal' => 3,
+                                                  'lboda' => 3,
+                                                  'skondapa' => 4,
+                                                  'cbatra' => 1,
+                                                  'cyali' => 2,
+                                                  'asingla' => 4,
+                                                  'ndalvi' => 3,
+                                                  'nlance' => 1,
+                                                  'ngummi' => 3,
+                                                  'vegupta' => 4,
+                                                  'vemaheswa' => 1,
+                                                  'mdinh' => 33,
+                                                  'skurada' => 10,
+                                                  'gthomas' => 2,
+                                                  'nchava' => 2,
+                                                  'hinguyen' => 1,
+                                                  'eswanson' => 1,
+                                                  'mstampli' => 1,
+                                                  'mpatidar' => 1,
+                                                  'skempf' => 4,
+                                                  'rseahra' => 5,
+                                                  'benchan' => 1,
+                                                  'rkoliset' => 9,
+                                                  'cgzhou' => 2,
+                                                  'tlin' => 12,
+                                                  'lewei' => 1,
+                                                  'nnkumar' => 2,
+                                                  'kirapak' => 7,
+                                                  'vmerugu' => 4,
+                                                  'rkannay' => 43,
+                                                  'jipatel' => 1,
+                                                  'dchun' => 3,
+                                                  'mchung' => 9,
+                                                  'abuch' => 1,
+                                                  'puneetgu' => 2,
+                                                  'vveerepa' => 2,
+                                                  'cyli' => 51,
+                                                  'pnarinde' => 1,
+                                                  'skaipa' => 4,
+                                                  'sjan' => 1
+                                                }
+                          },
+          'wgascentlx' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'regassistopt_c' => {
+                                'issued_total_licences' => '1',
+                                'used_total_licences' => '0'
+                              },
+          'icxadvsim2_c' => {
+                              'issued_total_licences' => '1',
+                              'user_licensesr' => {
+                                                    'asegaran' => 1
+                                                  },
+                              'used_total_licences' => '1'
+                            },
+          'msimdataflow' => {
+                              'issued_total_licences' => '101',
+                              'user_licensesr' => {
+                                                    'svarma' => 1,
+                                                    'asegaran' => 2,
+                                                    'rbartolo' => 1,
+                                                    'spai' => 1,
+                                                    'kchamaku' => 1,
+                                                    'smittal' => 2
+                                                  },
+                              'used_total_licences' => '8'
+                            },
+          'VCSCompiler_Net' => {
+                                 'used_total_licences' => '58',
+                                 'user_licensesr' => {
+                                                       'sbudumur' => 1,
+                                                       'petng' => 5,
+                                                       'jdepenni' => 2,
+                                                       'pkoran' => 1,
+                                                       'sthiagar' => 3,
+                                                       'mthejasv' => 1,
+                                                       'vwang1' => 2,
+                                                       'orlvalid' => 1,
+                                                       'pdeepika' => 2,
+                                                       'sgirimaj' => 1,
+                                                       'jklong' => 1,
+                                                       'ccpregress' => 22,
+                                                       'stzhu' => 1,
+                                                       'dcdv2' => 1,
+                                                       'jajiang' => 1,
+                                                       'leezhang' => 1,
+                                                       'jpu' => 1,
+                                                       'jalexander' => 1,
+                                                       'grguo' => 1,
+                                                       'pphan' => 4,
+                                                       'linhan' => 1,
+                                                       'marmei' => 1
+                                                     },
+                                 'issued_total_licences' => '50300'
+                               },
+          'sptvipeth1g' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '1'
+                           },
+          'infscvlog' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '2'
+                         },
+          'pcbbaupgrade_c' => {
+                                'issued_total_licences' => '1',
+                                'used_total_licences' => '0'
+                              },
+          'edazpws' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'psplot' => {
+                        'issued_total_licences' => '18',
+                        'used_total_licences' => '0'
+                      },
+          'winnt40' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'geditor' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'pnrmcmm' => {
+                         'used_total_licences' => '138',
+                         'issued_total_licences' => '400',
+                         'user_licensesr' => {
+                                               'mvijay' => 2,
+                                               'vnethula' => 7,
+                                               'xyhou' => 2,
+                                               'gchalapa' => 2,
+                                               'yanwang1' => 1,
+                                               'kkhilwan' => 1,
+                                               'vshivaku' => 6,
+                                               'vegupta' => 1,
+                                               'skhode' => 1,
+                                               'pexu' => 2,
+                                               'jtan' => 4,
+                                               'hmani' => 1,
+                                               'zhjin' => 2,
+                                               'sujshriv' => 2,
+                                               'wjung' => 2,
+                                               'yjli' => 1,
+                                               'pduvvuru' => 2,
+                                               'averma' => 1,
+                                               'zli1' => 7,
+                                               'cyali' => 6,
+                                               'csong' => 2,
+                                               'zhqi' => 1,
+                                               'khuh' => 2,
+                                               'ntieu' => 1,
+                                               'dxiao' => 1,
+                                               'tiatian' => 1,
+                                               'vixiao' => 1,
+                                               'ligao' => 2,
+                                               'rmurillo' => 1,
+                                               'dcwang' => 1,
+                                               'bpaladug' => 1,
+                                               'lsarwiga' => 3,
+                                               'cherchen' => 6,
+                                               'smuraris' => 1,
+                                               'lli2' => 1,
+                                               'jksun' => 1,
+                                               'vcui' => 1,
+                                               'drxu' => 2,
+                                               'kmallavr' => 1,
+                                               'gnishant' => 1,
+                                               'arnath' => 2,
+                                               'uprakash' => 1,
+                                               'smiddi' => 11,
+                                               'guliang' => 4,
+                                               'aimmadi' => 5,
+                                               'soyang' => 2,
+                                               'cgzhou' => 2,
+                                               'sgunda' => 9,
+                                               'radamhal' => 1,
+                                               'bshao' => 1,
+                                               'yaxu' => 3,
+                                               'xfeng' => 1,
+                                               'anuthi' => 4,
+                                               'naking' => 1,
+                                               'fulee' => 5,
+                                               'lewei' => 2
+                                             }
+                       },
+          'shrlist' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'vistaperanlys_c' => {
+                                 'issued_total_licences' => '1',
+                                 'used_total_licences' => '0'
+                               },
+          'znautocheckfe' => {
+                               'issued_total_licences' => '60',
+                               'used_total_licences' => '0'
+                             },
+          'sptvippcie' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'eldoneths' => {
+                           'issued_total_licences' => '18',
+                           'used_total_licences' => '0'
+                         },
+          'VCSMXRunTime_Net' => {
+                                  'used_total_licences' => '0',
+                                  'issued_total_licences' => '300'
+                                },
+          'pcbhispeednt' => {
+                              'issued_total_licences' => '4',
+                              'used_total_licences' => '0'
+                            },
+          'znview' => {
+                        'issued_total_licences' => '231',
+                        'used_total_licences' => '0'
+                      },
+          'aditturbo' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'inftbisvkrnl' => {
+                              'issued_total_licences' => '2',
+                              'used_total_licences' => '0'
+                            },
+          'calibremt2cpu' => {
+                               'used_total_licences' => '30',
+                               'issued_total_licences' => '31',
+                               'user_licensesr' => {
+                                                     'skurada' => 4,
+                                                     'asingla' => 1,
+                                                     'mvemu' => 6,
+                                                     'psukhava' => 1,
+                                                     'skondapa' => 3,
+                                                     'vmerugu' => 4,
+                                                     'mpatidar' => 1,
+                                                     'gokrishn' => 3,
+                                                     'csreedha' => 2,
+                                                     'lboda' => 1,
+                                                     'vveerepa' => 2,
+                                                     'kmandadi' => 2
+                                                   }
+                             },
+          'sptvipscard' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '1'
+                           },
+          'icdpmdig_c' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'dxcse' => {
+                       'used_total_licences' => '0',
+                       'issued_total_licences' => '3'
+                     },
+          'falconfwnt_s' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '25'
+                            },
+          'calibrelvs' => {
+                            'user_licensesr' => {
+                                                  'taahmed' => 1,
+                                                  'csreedha' => 2,
+                                                  'vmerugu' => 1,
+                                                  'ksugiyam' => 1,
+                                                  'gokrishn' => 1,
+                                                  'psukhava' => 1,
+                                                  'vramacha' => 1,
+                                                  'sahuynh' => 1,
+                                                  'mchiang' => 1,
+                                                  'vkonagal' => 1,
+                                                  'wjung' => 1,
+                                                  'cyli' => 13,
+                                                  'ekearney' => 1,
+                                                  'suttam' => 9,
+                                                  'skempf' => 3,
+                                                  'schandak' => 1,
+                                                  'zhazhang' => 1,
+                                                  'rkannay' => 1,
+                                                  'mvemu' => 1,
+                                                  'skurada' => 1,
+                                                  'mdinh' => 33
+                                                },
+                            'issued_total_licences' => '211',
+                            'used_total_licences' => '76'
+                          },
+          'calibrelfdmt' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '25'
+                            },
+          'icassemble' => {
+                            'issued_total_licences' => '2',
+                            'used_total_licences' => '0'
+                          },
+          'inftbiekrnl' => {
+                             'issued_total_licences' => '2',
+                             'used_total_licences' => '0'
+                           },
+          'pcbigesnt' => {
+                           'used_total_licences' => '1',
+                           'issued_total_licences' => '1'
+                         },
+          'outpscr' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'aditspice' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'znformal' => {
+                          'used_total_licences' => '20',
+                          'issued_total_licences' => '60',
+                          'user_licensesr' => {
+                                                'spai' => 2,
+                                                'danyee' => 3,
+                                                'svarma' => 1,
+                                                'asegaran' => 2,
+                                                'rbartolo' => 1,
+                                                'xinguan' => 1,
+                                                'smittal' => 6,
+                                                'kchamaku' => 2,
+                                                'dan' => 2
+                                              }
+                        },
+          'calibrepercsp' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '10'
+                             },
+          'pcbboardstation' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '3'
+                               },
+          'out274x' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'amsicacc' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'mgswrite' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'sptvipeth100m' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '1'
+                             },
+          'hypLSW3DViaEMgin' => {
+                                  'issued_total_licences' => '3',
+                                  'used_total_licences' => '0'
+                                },
+          'analogmodelst' => {
+                               'used_total_licences' => '0',
+                               'issued_total_licences' => '1'
+                             },
+          'scdebug' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'vistagenmodlib_c' => {
+                                  'issued_total_licences' => '1',
+                                  'used_total_licences' => '0'
+                                },
+          'infactsdm' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '2'
+                         },
+          'msimpeswift' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '1'
+                           },
+          'XT_ISS_XTMP' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '10'
+                           },
+          'calworkbench' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '1'
+                            },
+          'amsicacb' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '1'
+                        },
+          'wgascentl4' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'dfmcbal' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'calnmopc' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '1'
+                        },
+          'VCSAMSRuntime_Net' => {
+                                   'issued_total_licences' => '50300',
+                                   'used_total_licences' => '0'
+                                 },
+          'eldokernel_c' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '3'
+                            },
+          'viewbase' => {
+                          'issued_total_licences' => '3',
+                          'used_total_licences' => '0'
+                        },
+          'simpilot_c' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'papoulishdlpwr_c' => {
+                                  'used_total_licences' => '0',
+                                  'issued_total_licences' => '1'
+                                },
+          'lmsusernt' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '15'
+                         },
+          'svverification' => {
+                                'used_total_licences' => '1',
+                                'issued_total_licences' => '101',
+                                'user_licensesr' => {
+                                                      'shecht' => 1
+                                                    }
+                              },
+          'XTENSA_ISS_PIPE' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '20'
+                               },
+          'inftbikrnl' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '2'
+                          },
+          'pcblibrarian_c' => {
+                                'issued_total_licences' => '5',
+                                'used_total_licences' => '0'
+                              },
+          'sptvipusb20' => {
+                             'issued_total_licences' => '1',
+                             'used_total_licences' => '0'
+                           },
+          'dxvariantmgr' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '3'
+                            },
+          'icshortchecker' => {
+                                'used_total_licences' => '0',
+                                'issued_total_licences' => '17'
+                              },
+          'calibrelfd' => {
+                            'issued_total_licences' => '10',
+                            'user_licensesr' => {
+                                                  'rkaye' => 2
+                                                },
+                            'used_total_licences' => '2'
+                          },
+          'vhamsrt' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'hdladbg' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'VCSAMSCompiler_Net' => {
+                                    'used_total_licences' => '0',
+                                    'issued_total_licences' => '50300'
+                                  },
+          'flextest' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '1'
+                        },
+          'pnrhier' => {
+                         'used_total_licences' => '4',
+                         'issued_total_licences' => '10',
+                         'user_licensesr' => {
+                                               'rmurillo' => 2,
+                                               'eergin' => 1,
+                                               'mengtie' => 1
+                                             }
+                       },
+          'admsrfic' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'XTENSA_ISS_XTMP' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '20'
+                               },
+          'lmspdsnt' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '1'
+                        },
+          'icbendmos' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'edacdnc' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'ictrace' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '2'
+                       },
+          'dxdatabook' => {
+                            'issued_total_licences' => '3',
+                            'used_total_licences' => '0'
+                          },
+          'sptvipaxi4' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'edamntc' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'calpsmgate' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'pcbexpedition' => {
+                               'issued_total_licences' => '3',
+                               'used_total_licences' => '0'
+                             },
+          'calibreci' => {
+                           'user_licensesr' => {
+                                                 'taahmed' => 1,
+                                                 'vramacha' => 1
+                                               },
+                           'issued_total_licences' => '35',
+                           'used_total_licences' => '2'
+                         },
+          'spttransformer' => {
+                                'issued_total_licences' => '1',
+                                'used_total_licences' => '0'
+                              },
+          'qvman' => {
+                       'used_total_licences' => '0',
+                       'issued_total_licences' => '101'
+                     },
+          'inpment' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'pcbbaupgradent_c' => {
+                                  'used_total_licences' => '0',
+                                  'issued_total_licences' => '1'
+                                },
+          'vhamsdevhs' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'mgsiwrite' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'iccompact' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '17'
+                         },
+          'flothermprepost' => {
+                                 'issued_total_licences' => '4',
+                                 'used_total_licences' => '0'
+                               },
+          'sptvipdsi' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'psfilter' => {
+                          'issued_total_licences' => '3',
+                          'used_total_licences' => '0'
+                        },
+          'xeautobasic' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '1'
+                           },
+          'catapultblpld_c' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '1'
+                               },
+          'calnmdpc' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '10'
+                        },
+          'msimcoverage' => {
+                              'issued_total_licences' => '101',
+                              'used_total_licences' => '0'
+                            },
+          'msimhdlsim' => {
+                            'issued_total_licences' => '101',
+                            'user_licensesr' => {
+                                                  'gskantha' => 4,
+                                                  'rakoo' => 2,
+                                                  'jchikhe' => 1,
+                                                  'vdevunur' => 1,
+                                                  'shecht' => 1
+                                                },
+                            'used_total_licences' => '9'
+                          },
+          'znhiercdc' => {
+                           'used_total_licences' => '8',
+                           'user_licensesr' => {
+                                                 'etian' => 2,
+                                                 'tireland' => 1,
+                                                 'gavli' => 2,
+                                                 'sskma' => 1,
+                                                 'prakkumar' => 1,
+                                                 'vsribha' => 1
+                                               },
+                           'issued_total_licences' => '110'
+                         },
+          'calibreadp' => {
+                            'user_licensesr' => {
+                                                  'schandak' => 1,
+                                                  'mchiang' => 1,
+                                                  'ekearney' => 1,
+                                                  'csreedha' => 4,
+                                                  'mvemu' => 2,
+                                                  'vmerugu' => 2,
+                                                  'skurada' => 2
+                                                },
+                            'issued_total_licences' => '35',
+                            'used_total_licences' => '13'
+                          },
+          'verifdataport' => {
+                               'issued_total_licences' => '241',
+                               'used_total_licences' => '0'
+                             },
+          'VT_CoverageRuntime' => {
+                                    'used_total_licences' => '0',
+                                    'issued_total_licences' => '50300'
+                                  },
+          'calyieldserver' => {
+                                'used_total_licences' => '53',
+                                'issued_total_licences' => '170',
+                                'user_licensesr' => {
+                                                      'skurada' => 4,
+                                                      'gchalapa' => 2,
+                                                      'cpeura' => 1,
+                                                      'ckappaga' => 6,
+                                                      'schandak' => 1,
+                                                      'bchauhan' => 1,
+                                                      'mvemu' => 4,
+                                                      'kmallavr' => 1,
+                                                      'skaipa' => 2,
+                                                      'skondapa' => 2,
+                                                      'abuch' => 1,
+                                                      'vveerepa' => 1,
+                                                      'puneetgu' => 1,
+                                                      'lboda' => 2,
+                                                      'cyli' => 3,
+                                                      'ndalvi' => 3,
+                                                      'rkoliset' => 9,
+                                                      'jkalapur' => 1,
+                                                      'tmardi' => 1,
+                                                      'gokrishn' => 2,
+                                                      'kesun' => 1,
+                                                      'vmerugu' => 2,
+                                                      'csreedha' => 2
+                                                    }
+                              },
+          'out356d' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'lmspds' => {
+                        'used_total_licences' => '0',
+                        'issued_total_licences' => '1'
+                      },
+          'znsearch' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '60'
+                        },
+          'sptvipslmb' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'edaview' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'calsvrfencrypt' => {
+                                'used_total_licences' => '0',
+                                'issued_total_licences' => '1'
+                              },
+          'ices' => {
+                      'used_total_licences' => '0',
+                      'issued_total_licences' => '1'
+                    },
+          'msimviewer' => {
+                            'used_total_licences' => '19',
+                            'issued_total_licences' => '336',
+                            'user_licensesr' => {
+                                                  'rbartolo' => 1,
+                                                  'svarma' => 1,
+                                                  'spai' => 2,
+                                                  'gskantha' => 6,
+                                                  'jchikhe' => 1,
+                                                  'rakoo' => 2,
+                                                  'vdevunur' => 1,
+                                                  'smittal' => 2,
+                                                  'kchamaku' => 2,
+                                                  'bblagoje' => 1
+                                                }
+                          },
+          'hypfasteyes' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '1'
+                           },
+          'catapultsl_c' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '1'
+                            },
+          'icxfp2_c' => {
+                          'used_total_licences' => '0',
+                          'issued_total_licences' => '1'
+                        },
+          'catapultoppwr_c' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '1'
+                               },
+          'subpano' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'sptvipeth10g' => {
+                              'issued_total_licences' => '1',
+                              'used_total_licences' => '0'
+                            },
+          'sptvipspi' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'calinteractive' => {
+                                'used_total_licences' => '63',
+                                'issued_total_licences' => '240',
+                                'user_licensesr' => {
+                                                      'weins' => 1,
+                                                      'bmichael' => 1,
+                                                      'tnewsom' => 1,
+                                                      'jgage' => 1,
+                                                      'mbenoit' => 1,
+                                                      'lcastil' => 1,
+                                                      'aluckey' => 1,
+                                                      'julchan' => 1,
+                                                      'zteng' => 1,
+                                                      'cgandood' => 2,
+                                                      'ccleveng' => 1,
+                                                      'chalin' => 1,
+                                                      'psilla' => 1,
+                                                      'thurst' => 1,
+                                                      'mohossai' => 1,
+                                                      'joasun' => 1,
+                                                      'swadone' => 1,
+                                                      'lfinkel' => 1,
+                                                      'mmahfuz' => 1,
+                                                      'akt' => 1,
+                                                      'ccastro' => 1,
+                                                      'mhossain' => 1,
+                                                      'lsheng' => 1,
+                                                      'sganuga' => 1,
+                                                      'aarakawa' => 1,
+                                                      'chuwang' => 2,
+                                                      'aholesov' => 1,
+                                                      'mgaetz' => 1,
+                                                      'kbouchar' => 1,
+                                                      'rdobias' => 1,
+                                                      'cyli' => 1,
+                                                      'flentz' => 1,
+                                                      'hpearce' => 1,
+                                                      'ltelkar' => 2,
+                                                      'mpendlet' => 1,
+                                                      'cmatheis' => 2,
+                                                      'iahmed' => 1,
+                                                      'arthurw' => 1,
+                                                      'dkuppasa' => 1,
+                                                      'vpabba' => 2,
+                                                      'rloar' => 1,
+                                                      'hgrande' => 1,
+                                                      'yanyang' => 2,
+                                                      'nbeaufor' => 1,
+                                                      'jress' => 1,
+                                                      'parvathy' => 1,
+                                                      'weiliche' => 2,
+                                                      'spendru' => 1,
+                                                      'ywang' => 1,
+                                                      'rlee' => 2,
+                                                      'mdyareng' => 1,
+                                                      'stmartin' => 1,
+                                                      'hachigui' => 1,
+                                                      'bismayil' => 1,
+                                                      'icordos' => 1
+                                                    }
+                              },
+          'msimsystemc' => {
+                             'issued_total_licences' => '101',
+                             'used_total_licences' => '0'
+                           },
+          'sptvipusb' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'secureip' => {
+                          'issued_total_licences' => '1',
+                          'used_total_licences' => '0'
+                        },
+          'sptvipeth' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'accusim2kernent' => {
+                                 'issued_total_licences' => '1',
+                                 'used_total_licences' => '0'
+                               },
+          'hdscertetb_c' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '1'
+                            },
+          'znmnambaaxi' => {
+                             'used_total_licences' => '0',
+                             'issued_total_licences' => '41'
+                           },
+          'infsckrnl' => {
+                           'issued_total_licences' => '2',
+                           'used_total_licences' => '0'
+                         },
+          'icgraphbasic' => {
+                              'issued_total_licences' => '1',
+                              'used_total_licences' => '0'
+                            },
+          'sptvipapb3' => {
+                            'used_total_licences' => '0',
+                            'issued_total_licences' => '1'
+                          },
+          'vistaescppc440_c' => {
+                                  'issued_total_licences' => '1',
+                                  'used_total_licences' => '0'
+                                },
+          'pcblibrariannt_c' => {
+                                  'issued_total_licences' => '5',
+                                  'used_total_licences' => '0'
+                                },
+          'drltmgr' => {
+                         'issued_total_licences' => '1',
+                         'used_total_licences' => '0'
+                       },
+          'hpplot' => {
+                        'used_total_licences' => '0',
+                        'issued_total_licences' => '2'
+                      },
+          'yieldaedtdiag' => {
+                               'issued_total_licences' => '45',
+                               'user_licensesr' => {
+                                                     'nmailava' => 1,
+                                                     'awang1' => 1,
+                                                     'jacheng' => 4,
+                                                     'jcarosel' => 1,
+                                                     'wpyeong' => 1
+                                                   },
+                               'used_total_licences' => '8'
+                             },
+          'XT_ISS_BASE' => {
+                             'issued_total_licences' => '10',
+                             'used_total_licences' => '0'
+                           },
+          'sptvipace' => {
+                           'used_total_licences' => '0',
+                           'issued_total_licences' => '1'
+                         },
+          'sptvipemmc' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'hdlacompiler' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '1'
+                            },
+          'zncompcsl' => {
+                           'used_total_licences' => '3',
+                           'issued_total_licences' => '231',
+                           'user_licensesr' => {
+                                                 'mapicket' => 2,
+                                                 'jxia' => 1
+                                               }
+                         },
+          'accusim2xl' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'icrules' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '7'
+                       },
+          'verilogacomp' => {
+                              'used_total_licences' => '0',
+                              'issued_total_licences' => '1'
+                            },
+          'znsynthnl' => {
+                           'issued_total_licences' => '291',
+                           'user_licensesr' => {
+                                                 'vsribha' => 1,
+                                                 'yuzhu' => 1,
+                                                 'tireland' => 1,
+                                                 'gavli' => 2,
+                                                 'jxia' => 1,
+                                                 'prakkumar' => 1,
+                                                 'etian' => 1,
+                                                 'sskma' => 1
+                                               },
+                           'used_total_licences' => '9'
+                         },
+          'catapultlbfarm_c' => {
+                                  'issued_total_licences' => '5',
+                                  'used_total_licences' => '0'
+                                },
+          'outhpgl' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'falconfw_s' => {
+                            'issued_total_licences' => '25',
+                            'user_licensesr' => {
+                                                  'mborsch' => 1,
+                                                  'jtalbert' => 1,
+                                                  'wangling' => 1,
+                                                  'galagan' => 1
+                                                },
+                            'used_total_licences' => '4'
+                          },
+          'sptvipocp22' => {
+                             'issued_total_licences' => '1',
+                             'used_total_licences' => '0'
+                           },
+          'variantmgrpads' => {
+                                'issued_total_licences' => '3',
+                                'used_total_licences' => '0'
+                              },
+          'ezwforhlynx' => {
+                             'issued_total_licences' => '1',
+                             'used_total_licences' => '0'
+                           },
+          'calyieldanalyze' => {
+                                 'user_licensesr' => {
+                                                       'puneetgu' => 1,
+                                                       'cyli' => 3,
+                                                       'csreedha' => 2,
+                                                       'lboda' => 2,
+                                                       'vmerugu' => 2,
+                                                       'gokrishn' => 2,
+                                                       'skondapa' => 2,
+                                                       'skaipa' => 2,
+                                                       'schandak' => 1,
+                                                       'rkoliset' => 9,
+                                                       'jkalapur' => 1,
+                                                       'mvemu' => 4,
+                                                       'skurada' => 4,
+                                                       'cpeura' => 1
+                                                     },
+                                 'issued_total_licences' => '80',
+                                 'used_total_licences' => '36'
+                               },
+          'eldopsf' => {
+                         'issued_total_licences' => '3',
+                         'used_total_licences' => '0'
+                       },
+          'mtiverification' => {
+                                 'used_total_licences' => '0',
+                                 'issued_total_licences' => '101'
+                               },
+          'panelop' => {
+                         'used_total_licences' => '0',
+                         'issued_total_licences' => '1'
+                       },
+          'sptvipaxi' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         },
+          'verilogart' => {
+                            'issued_total_licences' => '1',
+                            'used_total_licences' => '0'
+                          },
+          'sptvipi2s' => {
+                           'issued_total_licences' => '1',
+                           'used_total_licences' => '0'
+                         }
+        };

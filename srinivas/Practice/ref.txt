@@ -1,0 +1,6 @@
+this is a cat
+that is a dog
+there are my friends
+that is my pen
+this is my appending line
+append the data using >> mode

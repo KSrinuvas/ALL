@@ -1,0 +1,30 @@
+total 108
+-rw-rw-r-- 1 srm srm    1 Aug  5 10:23 aa.pl
+-rw-rw-r-- 1 srm srm  843 Aug  5 10:23 aeiou.pl
+-rwxr-xr-x 1 srm srm  389 Aug  5 10:32 basic_cal.pl
+-rw-rw-r-- 1 srm srm  315 Aug  2 15:12 cmd.pl
+-rw-rw-r-- 1 srm srm  489 Aug  2 09:07 con.pl
+-rw-rw-r-- 1 srm srm  723 May 22 17:35 convertions.pl
+-rw-rw-r-- 1 srm srm 1360 Aug  1 17:55 count.pl
+-rw-rw-r-- 1 srm srm  169 Aug  2 16:21 exp.pl
+-rw-rw-r-- 1 srm srm  441 Aug  2 15:33 fact.pl
+-rw-rw-r-- 1 srm srm   12 Aug  1 18:38 file1.txt
+-rw-rw-r-- 1 srm srm   12 Aug  1 18:38 file2.txt
+-rw-rw-r-- 1 srm srm   20 Aug  1 18:53 file3.txt
+-rw-rw-r-- 1 srm srm  575 Aug  2 09:09 filehand1.pl
+-rw-rw-r-- 1 srm srm  289 Aug  2 09:09 filehand.pl
+-rw-rw-r-- 1 srm srm  169 Aug  2 14:21 file_ha.pl
+-rw-rw-r-- 1 srm srm 2145 Aug  1 17:20 fla.pl
+-rw-rw-r-- 1 srm srm  311 Aug  2 11:54 form.pl
+-rw-rw-r-- 1 srm srm  296 Aug  2 15:06 getop.pl
+-rw-rw-r-- 1 srm srm   52 Aug  2 09:10 let.txt
+-rw-rw-r-- 1 srm srm    0 Aug  5 11:46 listing
+-rw-rw-r-- 1 srm srm  144 Aug  5 10:59 newfile
+-rw-rw-r-- 1 srm srm  340 Aug  1 18:22 next5num.pl
+-rw-rw-r-- 1 srm srm  319 Aug  2 09:15 num.pl
+-rw-rw-r-- 1 srm srm   10 Aug  1 18:10 ovels.txt
+-rw-rw-r-- 1 srm srm  287 Aug  2 11:08 pp1.pl
+-rw-rw-r-- 1 srm srm  202 Aug  2 11:32 pp2.pl
+-rw-rw-r-- 1 srm srm  711 Aug  2 10:38 pp.pl
+-rw-rw-r-- 1 srm srm  665 May  4 18:43 referance.pl
+/home/srm/srinivas/PL_FILES/PRACTICE

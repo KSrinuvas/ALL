@@ -1,0 +1,4 @@
+this is a text file
+to write the file
+this file data is very important
+okokok

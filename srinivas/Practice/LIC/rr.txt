@@ -1,0 +1,1610 @@
+vistadsn_c	used_total_licences	0
+vistadsn_c	issued_total_licences	1
+calibredrc	issued_total_licences	650
+calibredrc users ndalvi 3
+calibredrc users jeluca 4
+calibredrc users chambers 2
+calibredrc users mstampli 1
+calibredrc users mdinh 33
+calibredrc users kmandadi 5
+calibredrc users mpatidar 1
+calibredrc users abuch 1
+calibredrc users gokrishn 10
+calibredrc users skethire 2
+calibredrc users nlance 1
+calibredrc users csreedha 4
+calibredrc users nmetla 2
+calibredrc users ebancala 1
+calibredrc users cbatra 1
+calibredrc users dchun 3
+calibredrc users mchung 9
+calibredrc users jipatel 1
+calibredrc users bdatta 2
+calibredrc users schandak 16
+calibredrc users cyli 51
+calibredrc users skondapa 4
+calibredrc users rkoliset 9
+calibredrc users gthomas 2
+calibredrc users vveerepa 2
+calibredrc users jjlindne 1
+calibredrc users vkonagal 3
+calibredrc users vemaheswa 1
+calibredrc users skurada 10
+calibredrc users skaipa 4
+calibredrc users mvemu 7
+calibredrc users cyali 2
+calibredrc users skempf 4
+calibredrc users cpeura 7
+calibredrc users nnkumar 2
+calibredrc users benchan 1
+calibredrc users gsinghal 1
+calibredrc users wjung 3
+calibredrc users jiyang 4
+calibredrc users asingla 4
+calibredrc users cgzhou 2
+calibredrc users kirapak 7
+calibredrc users sjan 1
+calibredrc users rthayana 4
+calibredrc users jiyee 30
+calibredrc users ngummi 3
+calibredrc users jgardiol 3
+calibredrc users lewei 1
+calibredrc users ppedired 1
+calibredrc users pnarinde 1
+calibredrc users ldong 2
+calibredrc users ksugiyam 1
+calibredrc users csong 3
+calibredrc users cmusumec 1
+calibredrc users vegupta 4
+calibredrc users rkannay 43
+calibredrc users lboda 3
+calibredrc users puneetgu 2
+calibredrc users eswanson 1
+calibredrc users nchava 2
+calibredrc users hprasad 3
+calibredrc users tlin 12
+calibredrc users rseahra 5
+calibredrc users psukhava 1
+calibredrc users parlagad 1
+calibredrc users hinguyen 1
+calibredrc users vmerugu 4
+calibredrc users jkalapur 1
+calibredrc	used_total_licences	370
+mgsiwrite	issued_total_licences	1
+mgsiwrite	used_total_licences	0
+znsearch	used_total_licences	0
+znsearch	issued_total_licences	60
+inftbisvkrnl	issued_total_licences	2
+inftbisvkrnl	used_total_licences	0
+visualibis	used_total_licences	0
+visualibis	issued_total_licences	1
+znhiercdcilm	issued_total_licences	110
+znhiercdcilm	used_total_licences	0
+bsrehighspeed	used_total_licences	0
+bsrehighspeed	issued_total_licences	1
+outodbx	issued_total_licences	1
+outodbx	used_total_licences	0
+fastscan	used_total_licences	79
+fastscan users sreddy 1
+fastscan users jtorrey 1
+fastscan users bpiyade 2
+fastscan users mreese 2
+fastscan users rsrirama 10
+fastscan users nithyak 5
+fastscan users hrajeswa 2
+fastscan users ploi 2
+fastscan users sswamy 1
+fastscan users ppears 1
+fastscan users anormato 4
+fastscan users vprakash 11
+fastscan users mjulapat 3
+fastscan users gopalakr 8
+fastscan users dlosli 1
+fastscan users jalexander 2
+fastscan users lewei 1
+fastscan users lkarre 5
+fastscan users agill 3
+fastscan users ksobti 2
+fastscan users vimittal 1
+fastscan users mmateja 1
+fastscan users rashukla 2
+fastscan users kevinli 1
+fastscan users hawhuang 3
+fastscan users snarasim 1
+fastscan users sdodda 1
+fastscan users kenpham 1
+fastscan users nitinraj 1
+fastscan	issued_total_licences	200
+xelga	issued_total_licences	1
+xelga	used_total_licences	0
+calinteractive	used_total_licences	63
+calinteractive users mgaetz 1
+calinteractive users lcastil 1
+calinteractive users rdobias 1
+calinteractive users vpabba 2
+calinteractive users parvathy 1
+calinteractive users stmartin 1
+calinteractive users mmahfuz 1
+calinteractive users kbouchar 1
+calinteractive users ltelkar 2
+calinteractive users akt 1
+calinteractive users yanyang 2
+calinteractive users bismayil 1
+calinteractive users mdyareng 1
+calinteractive users zteng 1
+calinteractive users weiliche 2
+calinteractive users chuwang 2
+calinteractive users psilla 1
+calinteractive users arthurw 1
+calinteractive users dkuppasa 1
+calinteractive users rloar 1
+calinteractive users flentz 1
+calinteractive users icordos 1
+calinteractive users ccastro 1
+calinteractive users aarakawa 1
+calinteractive users joasun 1
+calinteractive users aluckey 1
+calinteractive users cgandood 2
+calinteractive users swadone 1
+calinteractive users ccleveng 1
+calinteractive users cmatheis 2
+calinteractive users lsheng 1
+calinteractive users mpendlet 1
+calinteractive users rlee 2
+calinteractive users sganuga 1
+calinteractive users weins 1
+calinteractive users aholesov 1
+calinteractive users hachigui 1
+calinteractive users cyli 1
+calinteractive users thurst 1
+calinteractive users hgrande 1
+calinteractive users mbenoit 1
+calinteractive users lfinkel 1
+calinteractive users mohossai 1
+calinteractive users jgage 1
+calinteractive users ywang 1
+calinteractive users bmichael 1
+calinteractive users julchan 1
+calinteractive users hpearce 1
+calinteractive users mhossain 1
+calinteractive users jress 1
+calinteractive users chalin 1
+calinteractive users spendru 1
+calinteractive users nbeaufor 1
+calinteractive users tnewsom 1
+calinteractive users iahmed 1
+calinteractive	issued_total_licences	240
+inp274x	used_total_licences	0
+inp274x	issued_total_licences	1
+znreplaysim	issued_total_licences	60
+znreplaysim	used_total_licences	10
+znreplaysim users svarma 1
+znreplaysim users asegaran 2
+znreplaysim users spai 2
+znreplaysim users smittal 2
+znreplaysim users rbartolo 1
+znreplaysim users kchamaku 2
+hpplot	used_total_licences	0
+hpplot	issued_total_licences	2
+bsreautoroute	issued_total_licences	4
+bsreautoroute	used_total_licences	0
+fastscanmacro	issued_total_licences	1
+fastscanmacro	used_total_licences	0
+icxprosim_c	issued_total_licences	6
+icxprosim_c users asegaran 1
+icxprosim_c	used_total_licences	1
+znmnusb20	issued_total_licences	41
+znmnusb20	used_total_licences	0
+outpscr	issued_total_licences	1
+outpscr	used_total_licences	0
+certetb_c	used_total_licences	0
+certetb_c	issued_total_licences	1
+znsynthnl	issued_total_licences	291
+znsynthnl users etian 1
+znsynthnl users yuzhu 1
+znsynthnl users jxia 1
+znsynthnl users prakkumar 1
+znsynthnl users gavli 2
+znsynthnl users tireland 1
+znsynthnl users vsribha 1
+znsynthnl users sskma 1
+znsynthnl	used_total_licences	9
+enter75	issued_total_licences	1
+enter75	used_total_licences	0
+VT_Assertions	used_total_licences	0
+VT_Assertions	issued_total_licences	50300
+inpodbx	issued_total_licences	1
+inpodbx	used_total_licences	0
+lmsuser	issued_total_licences	15
+lmsuser users galagan 1
+lmsuser	used_total_licences	1
+sptvipusb	issued_total_licences	1
+sptvipusb	used_total_licences	0
+icxadvsim2_c users asegaran 1
+icxadvsim2_c	used_total_licences	1
+icxadvsim2_c	issued_total_licences	1
+ces	issued_total_licences	43
+ces	used_total_licences	0
+embcomp	issued_total_licences	1
+embcomp	used_total_licences	0
+pcbigesnt	used_total_licences	1
+pcbigesnt	issued_total_licences	1
+pcbexpedition	used_total_licences	0
+pcbexpedition	issued_total_licences	3
+XT_XCC_TIE users sdandu 1
+XT_XCC_TIE	used_total_licences	1
+XT_XCC_TIE	issued_total_licences	10
+msimhdlmix	used_total_licences	0
+msimhdlmix	issued_total_licences	101
+calmdpview	used_total_licences	0
+calmdpview	issued_total_licences	5
+catapultflowslec	used_total_licences	0
+catapultflowslec	issued_total_licences	1
+enter82	used_total_licences	0
+enter82	issued_total_licences	1
+pcbintlayout_c	issued_total_licences	16
+pcbintlayout_c users jtalbert 1
+pcbintlayout_c users mborsch 1
+pcbintlayout_c users wangling 1
+pcbintlayout_c	used_total_licences	3
+amsicacc	issued_total_licences	1
+amsicacc	used_total_licences	0
+calibrehlvs users ksugiyam 1
+calibrehlvs users mdinh 33
+calibrehlvs users skempf 3
+calibrehlvs users cyli 13
+calibrehlvs users mvemu 1
+calibrehlvs users schandak 1
+calibrehlvs users rkannay 1
+calibrehlvs users suttam 9
+calibrehlvs users csreedha 2
+calibrehlvs users vkonagal 1
+calibrehlvs users vmerugu 1
+calibrehlvs users zhazhang 1
+calibrehlvs users skurada 1
+calibrehlvs users ekearney 1
+calibrehlvs users mchiang 1
+calibrehlvs users sahuynh 1
+calibrehlvs users vramacha 1
+calibrehlvs	used_total_licences	72
+calibrehlvs	issued_total_licences	211
+pnrdfm	issued_total_licences	1
+pnrdfm	used_total_licences	0
+pcblibrariannt_c	issued_total_licences	5
+pcblibrariannt_c	used_total_licences	0
+icxtaufw2_c	used_total_licences	0
+icxtaufw2_c	issued_total_licences	1
+calworkbench	issued_total_licences	1
+calworkbench	used_total_licences	0
+catapultoppwr_c	used_total_licences	0
+catapultoppwr_c	issued_total_licences	1
+edacdnc	issued_total_licences	1
+edacdnc	used_total_licences	0
+sptvippcie	used_total_licences	0
+sptvippcie	issued_total_licences	1
+sptvipeth10g	issued_total_licences	1
+sptvipeth10g	used_total_licences	0
+msimcompare	used_total_licences	0
+msimcompare	issued_total_licences	101
+calibrepercsp	used_total_licences	0
+calibrepercsp	issued_total_licences	10
+inftbikrnl	used_total_licences	0
+inftbikrnl	issued_total_licences	2
+znconfirm	used_total_licences	0
+znconfirm	issued_total_licences	60
+anarevw	used_total_licences	0
+anarevw	issued_total_licences	1
+ictrace	used_total_licences	0
+ictrace	issued_total_licences	2
+msimpeswift	issued_total_licences	1
+msimpeswift	used_total_licences	0
+pcbiges	issued_total_licences	1
+pcbiges	used_total_licences	1
+lmspdsunt	issued_total_licences	3
+lmspdsunt	used_total_licences	0
+pcblibrarian_c	used_total_licences	0
+pcblibrarian_c	issued_total_licences	5
+XT_ISS_COSIM	used_total_licences	0
+XT_ISS_COSIM	issued_total_licences	10
+psfilter	used_total_licences	0
+psfilter	issued_total_licences	3
+xeautobasic	issued_total_licences	1
+xeautobasic	used_total_licences	0
+ices	issued_total_licences	1
+ices	used_total_licences	0
+analyze	used_total_licences	0
+analyze	issued_total_licences	1
+aditspice	issued_total_licences	1
+aditspice	used_total_licences	0
+msimdataflow	used_total_licences	8
+msimdataflow users svarma 1
+msimdataflow users asegaran 2
+msimdataflow users spai 1
+msimdataflow users smittal 2
+msimdataflow users rbartolo 1
+msimdataflow users kchamaku 1
+msimdataflow	issued_total_licences	101
+bsreautoactive	used_total_licences	0
+bsreautoactive	issued_total_licences	8
+edaodbg	used_total_licences	0
+edaodbg	issued_total_licences	1
+inftbiintf	used_total_licences	0
+inftbiintf	issued_total_licences	2
+iceco	used_total_licences	0
+iceco	issued_total_licences	17
+catapultblpld_c	used_total_licences	0
+catapultblpld_c	issued_total_licences	1
+msimcoverage	issued_total_licences	101
+msimcoverage	used_total_licences	0
+wganalboxa	used_total_licences	0
+wganalboxa	issued_total_licences	1
+verilogart	used_total_licences	0
+verilogart	issued_total_licences	1
+mtiverification	issued_total_licences	101
+mtiverification	used_total_licences	0
+infactcx	issued_total_licences	2
+infactcx	used_total_licences	0
+ezwforhlynx	used_total_licences	0
+ezwforhlynx	issued_total_licences	1
+panelop	issued_total_licences	1
+panelop	used_total_licences	0
+calwaiver	issued_total_licences	199
+calwaiver	used_total_licences	51
+calwaiver users jiyee 17
+calwaiver users ngummi 2
+calwaiver users cyli 30
+calwaiver users nchava 2
+hypcpf	used_total_licences	0
+hypcpf	issued_total_licences	1
+eldoneths	issued_total_licences	18
+eldoneths	used_total_licences	0
+znmngbenet	used_total_licences	0
+znmngbenet	issued_total_licences	41
+eldonet	used_total_licences	0
+eldonet	issued_total_licences	18
+sptvipcsi	issued_total_licences	1
+sptvipcsi	used_total_licences	0
+sptvipahb	issued_total_licences	1
+sptvipahb	used_total_licences	0
+iccompact	used_total_licences	0
+iccompact	issued_total_licences	17
+dmsconnector	used_total_licences	0
+dmsconnector	issued_total_licences	3
+inftbiekrnl	issued_total_licences	2
+inftbiekrnl	used_total_licences	0
+calibreqdb	issued_total_licences	241
+calibreqdb	used_total_licences	31
+calibreqdb users vramacha 1
+calibreqdb users gchalapa 2
+calibreqdb users mohossai 1
+calibreqdb users ckappaga 6
+calibreqdb users mhossain 1
+calibreqdb users ebancala 1
+calibreqdb users cotto 2
+calibreqdb users kmallavr 1
+calibreqdb users iahmed 1
+calibreqdb users vveerepa 1
+calibreqdb users tmardi 1
+calibreqdb users kesun 1
+calibreqdb users brambabu 1
+calibreqdb users mmahfuz 1
+calibreqdb users srakheja 1
+calibreqdb users abuch 2
+calibreqdb users ltelkar 1
+calibreqdb users taahmed 1
+calibreqdb users akt 1
+calibreqdb users ndalvi 3
+calibreqdb users bchauhan 1
+caldfmproperty	used_total_licences	0
+caldfmproperty	issued_total_licences	115
+winnt40	issued_total_licences	1
+winnt40	used_total_licences	0
+icbendmos	issued_total_licences	1
+icbendmos	used_total_licences	0
+icdpmdig_c	used_total_licences	0
+icdpmdig_c	issued_total_licences	1
+hypLSW3DViaEMgin	used_total_licences	0
+hypLSW3DViaEMgin	issued_total_licences	3
+admsrfic	issued_total_licences	1
+admsrfic	used_total_licences	0
+sptvipocp22	used_total_licences	0
+sptvipocp22	issued_total_licences	1
+papoulistlmpwr_c	used_total_licences	0
+papoulistlmpwr_c	issued_total_licences	1
+znramgen	issued_total_licences	231
+znramgen	used_total_licences	0
+wgmfgtboxa	issued_total_licences	1
+wgmfgtboxa	used_total_licences	0
+zncw	issued_total_licences	41
+zncw	used_total_licences	0
+pcbpowerpcb	used_total_licences	0
+pcbpowerpcb	issued_total_licences	3
+libcou	used_total_licences	0
+libcou	issued_total_licences	1
+calibrelv	used_total_licences	0
+calibrelv	issued_total_licences	1
+VT_CoverageRuntime	issued_total_licences	50300
+VT_CoverageRuntime	used_total_licences	0
+pcbintlayoutnt_c	issued_total_licences	16
+pcbintlayoutnt_c	used_total_licences	0
+falconfwnt_s	issued_total_licences	25
+falconfwnt_s	used_total_licences	0
+falconitk_c	used_total_licences	0
+falconitk_c	issued_total_licences	1
+sptviphdmi	issued_total_licences	1
+sptviphdmi	used_total_licences	0
+calibreperc	used_total_licences	0
+calibreperc	issued_total_licences	10
+VCSMXRunTime_Net	issued_total_licences	300
+VCSMXRunTime_Net	used_total_licences	0
+cutdata	used_total_licences	0
+cutdata	issued_total_licences	1
+VCSAMSRuntime_Net	used_total_licences	0
+VCSAMSRuntime_Net	issued_total_licences	50300
+ftparasolver	issued_total_licences	4
+ftparasolver	used_total_licences	0
+txanalysis	used_total_licences	0
+txanalysis	issued_total_licences	101
+sptvipeth1g	used_total_licences	0
+sptvipeth1g	issued_total_licences	1
+kitpack	issued_total_licences	1
+kitpack	used_total_licences	0
+vistagenmodlib_c	used_total_licences	0
+vistagenmodlib_c	issued_total_licences	1
+edaview	issued_total_licences	1
+edaview	used_total_licences	0
+pcbmech	issued_total_licences	1
+pcbmech	used_total_licences	0
+pcbfablinknt_c	used_total_licences	0
+pcbfablinknt_c	issued_total_licences	4
+sptvipace	used_total_licences	0
+sptvipace	issued_total_licences	1
+vhamsdev	issued_total_licences	1
+vhamsdev	used_total_licences	0
+edaprot	issued_total_licences	1
+edaprot	used_total_licences	0
+calopcverify	used_total_licences	0
+calopcverify	issued_total_licences	1
+sptvipuart	used_total_licences	0
+sptvipuart	issued_total_licences	1
+pnrpower	issued_total_licences	400
+pnrpower users ligao 1
+pnrpower users xfeng 1
+pnrpower users wjung 1
+pnrpower users csong 1
+pnrpower users lsarwiga 1
+pnrpower users cyali 1
+pnrpower users zhjin 2
+pnrpower users vcui 1
+pnrpower users pduvvuru 1
+pnrpower users radamhal 1
+pnrpower users gnishant 1
+pnrpower users sujshriv 2
+pnrpower users fulee 1
+pnrpower users sgunda 1
+pnrpower users gchalapa 2
+pnrpower users yanwang1 1
+pnrpower users kmallavr 1
+pnrpower users lli2 1
+pnrpower users drxu 1
+pnrpower users kkhilwan 1
+pnrpower users aimmadi 1
+pnrpower users dcwang 1
+pnrpower users vixiao 1
+pnrpower users vshivaku 6
+pnrpower users soyang 2
+pnrpower users cgzhou 1
+pnrpower users xyhou 2
+pnrpower users eergin 1
+pnrpower	used_total_licences	38
+sptvipemmc	issued_total_licences	1
+sptvipemmc	used_total_licences	0
+icxfp2_c	used_total_licences	0
+icxfp2_c	issued_total_licences	1
+hdscertetb_c	used_total_licences	0
+hdscertetb_c	issued_total_licences	1
+znmnsas	issued_total_licences	41
+znmnsas	used_total_licences	0
+calyieldserver	used_total_licences	53
+calyieldserver users kmallavr 1
+calyieldserver users skaipa 2
+calyieldserver users vmerugu 2
+calyieldserver users skurada 4
+calyieldserver users jkalapur 1
+calyieldserver users ckappaga 6
+calyieldserver users gchalapa 2
+calyieldserver users puneetgu 1
+calyieldserver users vveerepa 1
+calyieldserver users tmardi 1
+calyieldserver users csreedha 2
+calyieldserver users abuch 1
+calyieldserver users rkoliset 9
+calyieldserver users skondapa 2
+calyieldserver users lboda 2
+calyieldserver users kesun 1
+calyieldserver users gokrishn 2
+calyieldserver users bchauhan 1
+calyieldserver users schandak 1
+calyieldserver users mvemu 4
+calyieldserver users cyli 3
+calyieldserver users ndalvi 3
+calyieldserver users cpeura 1
+calyieldserver	issued_total_licences	170
+wgascentl2	used_total_licences	0
+wgascentl2	issued_total_licences	1
+edacdif	issued_total_licences	1
+edacdif	used_total_licences	0
+localev	used_total_licences	0
+localev	issued_total_licences	1
+infscvlog	used_total_licences	0
+infscvlog	issued_total_licences	2
+znview	issued_total_licences	231
+znview	used_total_licences	0
+icdpmana_c	used_total_licences	0
+icdpmana_c	issued_total_licences	1
+msimviewer	used_total_licences	19
+msimviewer users gskantha 6
+msimviewer users spai 2
+msimviewer users smittal 2
+msimviewer users svarma 1
+msimviewer users rakoo 2
+msimviewer users kchamaku 2
+msimviewer users bblagoje 1
+msimviewer users rbartolo 1
+msimviewer users jchikhe 1
+msimviewer users vdevunur 1
+msimviewer	issued_total_licences	336
+znsim	issued_total_licences	1
+znsim	used_total_licences	0
+lmspds	issued_total_licences	1
+lmspds	used_total_licences	0
+dxcdb	issued_total_licences	3
+dxcdb	used_total_licences	0
+edapads	used_total_licences	0
+edapads	issued_total_licences	1
+secureip	issued_total_licences	1
+secureip	used_total_licences	0
+edabdin	issued_total_licences	1
+edabdin	used_total_licences	0
+icgraphbasic	issued_total_licences	1
+icgraphbasic	used_total_licences	0
+msimhdlsim	issued_total_licences	101
+msimhdlsim users vdevunur 1
+msimhdlsim users jchikhe 1
+msimhdlsim users rakoo 2
+msimhdlsim users gskantha 4
+msimhdlsim users shecht 1
+msimhdlsim	used_total_licences	9
+hdlacompiler	used_total_licences	0
+hdlacompiler	issued_total_licences	1
+pcbfablink_c	issued_total_licences	4
+pcbfablink_c	used_total_licences	0
+eldokernel_c	issued_total_licences	3
+eldokernel_c	used_total_licences	0
+yieldascandiag	used_total_licences	11
+yieldascandiag users rtao 1
+yieldascandiag users jacheng 4
+yieldascandiag users rchitnan 2
+yieldascandiag users nmailava 1
+yieldascandiag users wpyeong 1
+yieldascandiag users awang1 1
+yieldascandiag users jcarosel 1
+yieldascandiag	issued_total_licences	45
+erfxmgr	issued_total_licences	1
+erfxmgr	used_total_licences	0
+bscanarchitect	used_total_licences	0
+bscanarchitect	issued_total_licences	1
+zngui	issued_total_licences	231
+zngui	used_total_licences	39
+zngui users jjiang4 1
+zngui users qfliu 1
+zngui users gmehta 1
+zngui users tireland 1
+zngui users jdwyer 1
+zngui users mbadam 1
+zngui users pparakh 1
+zngui users chyu 1
+zngui users rbartolo 1
+zngui users wwang5 1
+zngui users amzhao 1
+zngui users spai 2
+zngui users yuzhu 1
+zngui users mitchel 1
+zngui users linqin 1
+zngui users vsribha 1
+zngui users cponnama 1
+zngui users zgchi 1
+zngui users asegaran 2
+zngui users shshaik 1
+zngui users ssarangi 1
+zngui users rbattu 1
+zngui users kchamaku 2
+zngui users fmohamma 2
+zngui users vbaisane 4
+zngui users suxu 1
+zngui users fho 1
+zngui users gskantha 1
+zngui users smittal 2
+zngui users aazhang 1
+zngui users svarma 1
+regassistopt_c	issued_total_licences	1
+regassistopt_c	used_total_licences	0
+VT_AssertionsRuntime	issued_total_licences	50300
+VT_AssertionsRuntime	used_total_licences	0
+outexcl	issued_total_licences	1
+outexcl	used_total_licences	0
+pcbmechnt	issued_total_licences	1
+pcbmechnt	used_total_licences	0
+simpilot_c	issued_total_licences	1
+simpilot_c	used_total_licences	0
+calopcsbar	issued_total_licences	1
+calopcsbar	used_total_licences	0
+XT_ISS_TURBO	used_total_licences	0
+XT_ISS_TURBO	issued_total_licences	10
+msimcdebug	used_total_licences	0
+msimcdebug	issued_total_licences	101
+znmnambaaxi	issued_total_licences	41
+znmnambaaxi	used_total_licences	0
+falconitknt_c	used_total_licences	0
+falconitknt_c	issued_total_licences	1
+designarch_c	issued_total_licences	13
+designarch_c users galagan 1
+designarch_c	used_total_licences	1
+znautocheckcomp	used_total_licences	0
+znautocheckcomp	issued_total_licences	60
+lmspdsnt	used_total_licences	0
+lmspdsnt	issued_total_licences	1
+XTENSA_ISS_CACHE	issued_total_licences	20
+XTENSA_ISS_CACHE	used_total_licences	0
+lmspdsu	issued_total_licences	3
+lmspdsu	used_total_licences	0
+pnrplace	used_total_licences	0
+pnrplace	issued_total_licences	1
+icrules	used_total_licences	0
+icrules	issued_total_licences	7
+pcbbant_c	issued_total_licences	1
+pcbbant_c	used_total_licences	0
+dxpdf	issued_total_licences	3
+dxpdf	used_total_licences	0
+sptvipscard	issued_total_licences	1
+sptvipscard	used_total_licences	0
+pnrsynchopt	used_total_licences	0
+pnrsynchopt	issued_total_licences	10
+SSS	issued_total_licences	1
+SSS	used_total_licences	0
+onlndrc	used_total_licences	0
+onlndrc	issued_total_licences	1
+pnrdatabase	issued_total_licences	400
+pnrdatabase	used_total_licences	158
+pnrdatabase users wjung 3
+pnrdatabase users ligao 2
+pnrdatabase users cherchen 6
+pnrdatabase users smuraris 1
+pnrdatabase users smiddi 11
+pnrdatabase users pduvvuru 5
+pnrdatabase users zhjin 2
+pnrdatabase users yaxu 3
+pnrdatabase users sbhamidi 1
+pnrdatabase users yimwu 1
+pnrdatabase users cyali 6
+pnrdatabase users arnath 2
+pnrdatabase users rmurillo 4
+pnrdatabase users gnishant 1
+pnrdatabase users sujshriv 2
+pnrdatabase users pexu 2
+pnrdatabase users naking 1
+pnrdatabase users lli2 1
+pnrdatabase users jtan 4
+pnrdatabase users anuthi 4
+pnrdatabase users kmallavr 1
+pnrdatabase users bshao 1
+pnrdatabase users yjli 1
+pnrdatabase users mengtie 1
+pnrdatabase users aimmadi 5
+pnrdatabase users drxu 2
+pnrdatabase users cgzhou 2
+pnrdatabase users soyang 2
+pnrdatabase users guliang 4
+pnrdatabase users tiatian 2
+pnrdatabase users vegupta 1
+pnrdatabase users xfeng 1
+pnrdatabase users ppawan 1
+pnrdatabase users csong 3
+pnrdatabase users lsarwiga 3
+pnrdatabase users khuh 2
+pnrdatabase users uprakash 1
+pnrdatabase users zhqi 2
+pnrdatabase users ntieu 1
+pnrdatabase users lewei 2
+pnrdatabase users zli1 7
+pnrdatabase users vcui 1
+pnrdatabase users radamhal 1
+pnrdatabase users bpaladug 2
+pnrdatabase users averma 1
+pnrdatabase users skhode 1
+pnrdatabase users sgunda 9
+pnrdatabase users gchalapa 2
+pnrdatabase users hmani 1
+pnrdatabase users fulee 8
+pnrdatabase users mvijay 2
+pnrdatabase users yanwang1 1
+pnrdatabase users vixiao 1
+pnrdatabase users dxiao 1
+pnrdatabase users dcwang 1
+pnrdatabase users kkhilwan 1
+pnrdatabase users jksun 1
+pnrdatabase users aswks 1
+pnrdatabase users eergin 1
+pnrdatabase users xyhou 2
+pnrdatabase users vnethula 7
+pnrdatabase users vshivaku 6
+pnrdroute	used_total_licences	0
+pnrdroute	issued_total_licences	1
+calnmdpc	issued_total_licences	10
+calnmdpc	used_total_licences	0
+opsim_c	used_total_licences	0
+opsim_c	issued_total_licences	1
+calnmopc	issued_total_licences	1
+calnmopc	used_total_licences	0
+sptvipeth100m	issued_total_licences	1
+sptvipeth100m	used_total_licences	0
+dimedit	issued_total_licences	1
+dimedit	used_total_licences	0
+analogmodelst	issued_total_licences	1
+analogmodelst	used_total_licences	0
+zncompccl	used_total_licences	0
+zncompccl	issued_total_licences	231
+netlistflow	used_total_licences	0
+netlistflow	issued_total_licences	3
+xelga_c	used_total_licences	0
+xelga_c	issued_total_licences	8
+eldopsf	used_total_licences	0
+eldopsf	issued_total_licences	3
+dxdatamanager	used_total_licences	0
+dxdatamanager	issued_total_licences	3
+qvrm	used_total_licences	0
+qvrm	issued_total_licences	101
+VCSAMSCompiler_Net	issued_total_licences	50300
+VCSAMSCompiler_Net	used_total_licences	0
+sptvipi2s	used_total_licences	0
+sptvipi2s	issued_total_licences	1
+calibremt2cpu	used_total_licences	30
+calibremt2cpu users vveerepa 2
+calibremt2cpu users mvemu 6
+calibremt2cpu users csreedha 2
+calibremt2cpu users psukhava 1
+calibremt2cpu users kmandadi 2
+calibremt2cpu users mpatidar 1
+calibremt2cpu users skondapa 3
+calibremt2cpu users gokrishn 3
+calibremt2cpu users asingla 1
+calibremt2cpu users vmerugu 4
+calibremt2cpu users skurada 4
+calibremt2cpu users lboda 1
+calibremt2cpu	issued_total_licences	31
+psplot	issued_total_licences	18
+psplot	used_total_licences	0
+verifdataport	used_total_licences	0
+verifdataport	issued_total_licences	241
+vistapower_c	issued_total_licences	1
+vistapower_c	used_total_licences	0
+edavrml	used_total_licences	0
+edavrml	issued_total_licences	1
+edamntf	used_total_licences	0
+edamntf	issued_total_licences	1
+enter80	issued_total_licences	1
+enter80	used_total_licences	0
+calpsmgate	used_total_licences	0
+calpsmgate	issued_total_licences	1
+calmdpmapi	issued_total_licences	3
+calmdpmapi	used_total_licences	0
+calibreci users taahmed 1
+calibreci users vramacha 1
+calibreci	used_total_licences	2
+calibreci	issued_total_licences	35
+hyptsview	used_total_licences	0
+hyptsview	issued_total_licences	1
+amsicacb	issued_total_licences	1
+amsicacb	used_total_licences	0
+vistahce_c	used_total_licences	0
+vistahce_c	issued_total_licences	1
+drltmgr	used_total_licences	0
+drltmgr	issued_total_licences	1
+enterpr	issued_total_licences	1
+enterpr	used_total_licences	0
+hdladbg	used_total_licences	0
+hdladbg	issued_total_licences	1
+calprintimage	issued_total_licences	1
+calprintimage	used_total_licences	0
+sptvipspi	issued_total_licences	1
+sptvipspi	used_total_licences	0
+XT_ISS_XTMP	used_total_licences	0
+XT_ISS_XTMP	issued_total_licences	10
+sptvipocp	issued_total_licences	1
+sptvipocp	used_total_licences	0
+lcpsfilter	used_total_licences	0
+lcpsfilter	issued_total_licences	3
+edamntc	used_total_licences	0
+edamntc	issued_total_licences	1
+zncompcdc	issued_total_licences	110
+zncompcdc	used_total_licences	36
+zncompcdc users fmohamma 2
+zncompcdc users vbaisane 3
+zncompcdc users suxu 1
+zncompcdc users fho 1
+zncompcdc users gskantha 1
+zncompcdc users aazhang 1
+zncompcdc users etian 2
+zncompcdc users vsribha 2
+zncompcdc users linqin 1
+zncompcdc users cponnama 1
+zncompcdc users zgchi 1
+zncompcdc users shshaik 1
+zncompcdc users rbattu 1
+zncompcdc users ssarangi 1
+zncompcdc users chyu 1
+zncompcdc users prakkumar 1
+zncompcdc users wwang5 1
+zncompcdc users amzhao 1
+zncompcdc users mitchel 1
+zncompcdc users yuzhu 1
+zncompcdc users sskma 1
+zncompcdc users jjiang4 1
+zncompcdc users qfliu 1
+zncompcdc users gmehta 1
+zncompcdc users tireland 2
+zncompcdc users mbadam 1
+zncompcdc users jdwyer 1
+zncompcdc users pparakh 1
+zncompcdc users gavli 2
+sptvipslmb	issued_total_licences	1
+sptvipslmb	used_total_licences	0
+flothermprepost	used_total_licences	0
+flothermprepost	issued_total_licences	4
+iciroute	issued_total_licences	17
+iciroute	used_total_licences	0
+mbistarchitect	issued_total_licences	1
+mbistarchitect	used_total_licences	0
+netlist	used_total_licences	0
+netlist	issued_total_licences	1
+FusionVantageLmcInterface	issued_total_licences	50300
+FusionVantageLmcInterface	used_total_licences	0
+calyieldanalyze	issued_total_licences	80
+calyieldanalyze users vmerugu 2
+calyieldanalyze users skaipa 2
+calyieldanalyze users skurada 4
+calyieldanalyze users lboda 2
+calyieldanalyze users jkalapur 1
+calyieldanalyze users gokrishn 2
+calyieldanalyze users skondapa 2
+calyieldanalyze users rkoliset 9
+calyieldanalyze users cpeura 1
+calyieldanalyze users csreedha 2
+calyieldanalyze users puneetgu 1
+calyieldanalyze users schandak 1
+calyieldanalyze users mvemu 4
+calyieldanalyze users cyli 3
+calyieldanalyze	used_total_licences	36
+automat	used_total_licences	0
+automat	issued_total_licences	1
+dfmkrnl	issued_total_licences	1
+dfmkrnl	used_total_licences	0
+accusim2xl	issued_total_licences	1
+accusim2xl	used_total_licences	0
+bsreinteractive	used_total_licences	0
+bsreinteractive	issued_total_licences	8
+calmpcpro	used_total_licences	0
+calmpcpro	issued_total_licences	3
+sptvipaxi	used_total_licences	0
+sptvipaxi	issued_total_licences	1
+caldesignrev	issued_total_licences	130
+caldesignrev	used_total_licences	112
+caldesignrev users cgiles 2
+caldesignrev users ksugiyam 1
+caldesignrev users ccalkins 1
+caldesignrev users cradu 1
+caldesignrev users brambabu 1
+caldesignrev users sglickma 4
+caldesignrev users agoli 1
+caldesignrev users rgaddi 1
+caldesignrev users vegupta 2
+caldesignrev users kchoy 1
+caldesignrev users wsantos 1
+caldesignrev users pturner 1
+caldesignrev users rdupcak 1
+caldesignrev users tuoyu 1
+caldesignrev users hprasad 1
+caldesignrev users nwoodall 1
+caldesignrev users spendru 1
+caldesignrev users psukhava 2
+caldesignrev users tdaum 1
+caldesignrev users sahuynh 5
+caldesignrev users hinguyen 1
+caldesignrev users dennyr 1
+caldesignrev users rmccoy 1
+caldesignrev users bobw 5
+caldesignrev users skempf 2
+caldesignrev users rpietras 2
+caldesignrev users nnkumar 1
+caldesignrev users suttam 3
+caldesignrev users wjung 2
+caldesignrev users jiyang 2
+caldesignrev users mgaetz 1
+caldesignrev users sbachchu 2
+caldesignrev users denglish 1
+caldesignrev users vili 3
+caldesignrev users vkondepu 1
+caldesignrev users jpearce 1
+caldesignrev users jsrivath 1
+caldesignrev users gnethra 1
+caldesignrev users jiyee 2
+caldesignrev users kvineeth 1
+caldesignrev users cyli 1
+caldesignrev users nmwez 1
+caldesignrev users weitay 1
+caldesignrev users kjlee 1
+caldesignrev users pelango 1
+caldesignrev users vveerepa 2
+caldesignrev users tsrithar 1
+caldesignrev users bmadden 1
+caldesignrev users msherrif 1
+caldesignrev users norma 1
+caldesignrev users mbourlan 1
+caldesignrev users vemaheswa 2
+caldesignrev users alistair 1
+caldesignrev users skaipa 1
+caldesignrev users pmunired 1
+caldesignrev users keholub 2
+caldesignrev users judin 1
+caldesignrev users mdinh 2
+caldesignrev users kasper 1
+caldesignrev users kmandadi 3
+caldesignrev users mpatidar 1
+caldesignrev users jpatton 1
+caldesignrev users abuch 1
+caldesignrev users gokrishn 2
+caldesignrev users ttodesco 2
+caldesignrev users mfox 3
+caldesignrev users rakamath 2
+caldesignrev users chlay 2
+caldesignrev users puwang 1
+caldesignrev users godonogh 1
+caldesignrev users mchung 1
+caldesignrev users bschnell 1
+caldesignrev users bengles 3
+caldesignrev users yanw 1
+vistaperanlys_c	issued_total_licences	1
+vistaperanlys_c	used_total_licences	0
+pnrmcmm users jksun 1
+pnrmcmm users kkhilwan 1
+pnrmcmm users dcwang 1
+pnrmcmm users dxiao 1
+pnrmcmm users vixiao 1
+pnrmcmm users vshivaku 6
+pnrmcmm users xyhou 2
+pnrmcmm users vnethula 7
+pnrmcmm users hmani 1
+pnrmcmm users fulee 5
+pnrmcmm users gchalapa 2
+pnrmcmm users sgunda 9
+pnrmcmm users skhode 1
+pnrmcmm users yanwang1 1
+pnrmcmm users mvijay 2
+pnrmcmm users ntieu 1
+pnrmcmm users zhqi 1
+pnrmcmm users uprakash 1
+pnrmcmm users bpaladug 1
+pnrmcmm users averma 1
+pnrmcmm users vcui 1
+pnrmcmm users zli1 7
+pnrmcmm users radamhal 1
+pnrmcmm users lewei 2
+pnrmcmm users xfeng 1
+pnrmcmm users vegupta 1
+pnrmcmm users tiatian 1
+pnrmcmm users khuh 2
+pnrmcmm users lsarwiga 3
+pnrmcmm users csong 2
+pnrmcmm users drxu 2
+pnrmcmm users aimmadi 5
+pnrmcmm users bshao 1
+pnrmcmm users yjli 1
+pnrmcmm users guliang 4
+pnrmcmm users soyang 2
+pnrmcmm users cgzhou 2
+pnrmcmm users gnishant 1
+pnrmcmm users sujshriv 2
+pnrmcmm users rmurillo 1
+pnrmcmm users kmallavr 1
+pnrmcmm users anuthi 4
+pnrmcmm users jtan 4
+pnrmcmm users pexu 2
+pnrmcmm users naking 1
+pnrmcmm users lli2 1
+pnrmcmm users smuraris 1
+pnrmcmm users cherchen 6
+pnrmcmm users cyali 6
+pnrmcmm users arnath 2
+pnrmcmm users zhjin 2
+pnrmcmm users yaxu 3
+pnrmcmm users pduvvuru 2
+pnrmcmm users smiddi 11
+pnrmcmm users ligao 2
+pnrmcmm users wjung 2
+pnrmcmm	used_total_licences	138
+pnrmcmm	issued_total_licences	400
+edasync	used_total_licences	0
+edasync	issued_total_licences	1
+viewdraw	issued_total_licences	3
+viewdraw	used_total_licences	0
+hypbswsiext_c	used_total_licences	0
+hypbswsiext_c	issued_total_licences	6
+geditor	issued_total_licences	1
+geditor	used_total_licences	0
+calibrelfd	issued_total_licences	10
+calibrelfd users rkaye 2
+calibrelfd	used_total_licences	2
+msimsystemc	issued_total_licences	101
+msimsystemc	used_total_licences	0
+pnrhier	used_total_licences	4
+pnrhier users eergin 1
+pnrhier users rmurillo 2
+pnrhier users mengtie 1
+pnrhier	issued_total_licences	10
+sptvipaxi4	used_total_licences	0
+sptvipaxi4	issued_total_licences	1
+znmnocp	issued_total_licences	41
+znmnocp	used_total_licences	0
+VCSCompiler_Net	issued_total_licences	50300
+VCSCompiler_Net	used_total_licences	58
+VCSCompiler_Net users marmei 1
+VCSCompiler_Net users pphan 4
+VCSCompiler_Net users dcdv2 1
+VCSCompiler_Net users jpu 1
+VCSCompiler_Net users stzhu 1
+VCSCompiler_Net users linhan 1
+VCSCompiler_Net users vwang1 2
+VCSCompiler_Net users ccpregress 22
+VCSCompiler_Net users orlvalid 1
+VCSCompiler_Net users jalexander 1
+VCSCompiler_Net users sbudumur 1
+VCSCompiler_Net users jdepenni 2
+VCSCompiler_Net users sthiagar 3
+VCSCompiler_Net users jajiang 1
+VCSCompiler_Net users jklong 1
+VCSCompiler_Net users grguo 1
+VCSCompiler_Net users pdeepika 2
+VCSCompiler_Net users pkoran 1
+VCSCompiler_Net users mthejasv 1
+VCSCompiler_Net users sgirimaj 1
+VCSCompiler_Net users petng 5
+VCSCompiler_Net users leezhang 1
+infacteng_c	used_total_licences	0
+infacteng_c	issued_total_licences	5
+genesis	used_total_licences	0
+genesis	issued_total_licences	1
+edapcad	used_total_licences	0
+edapcad	issued_total_licences	1
+calibrelvs	issued_total_licences	211
+calibrelvs	used_total_licences	76
+calibrelvs users rkannay 1
+calibrelvs users gokrishn 1
+calibrelvs users suttam 9
+calibrelvs users wjung 1
+calibrelvs users schandak 1
+calibrelvs users mvemu 1
+calibrelvs users cyli 13
+calibrelvs users ksugiyam 1
+calibrelvs users mdinh 33
+calibrelvs users taahmed 1
+calibrelvs users skempf 3
+calibrelvs users psukhava 1
+calibrelvs users zhazhang 1
+calibrelvs users vmerugu 1
+calibrelvs users skurada 1
+calibrelvs users ekearney 1
+calibrelvs users vramacha 1
+calibrelvs users sahuynh 1
+calibrelvs users mchiang 1
+calibrelvs users csreedha 2
+calibrelvs users vkonagal 1
+XTENSA_ISS_PIPE	issued_total_licences	20
+XTENSA_ISS_PIPE	used_total_licences	0
+infsckrnl	used_total_licences	0
+infsckrnl	issued_total_licences	2
+enter90	issued_total_licences	1
+enter90	used_total_licences	0
+vistabase_c	used_total_licences	0
+vistabase_c	issued_total_licences	1
+dxdatabook	used_total_licences	0
+dxdatabook	issued_total_licences	3
+calsvrfencrypt	used_total_licences	0
+calsvrfencrypt	issued_total_licences	1
+XT_ISS_BASE	issued_total_licences	10
+XT_ISS_BASE	used_total_licences	0
+dfmcbal	used_total_licences	0
+dfmcbal	issued_total_licences	1
+msimprofile	issued_total_licences	101
+msimprofile	used_total_licences	0
+lmsusernt	used_total_licences	0
+lmsusernt	issued_total_licences	15
+znformalseed	used_total_licences	5
+znformalseed users smittal 4
+znformalseed users xinguan 1
+znformalseed	issued_total_licences	60
+sptvipapb3	issued_total_licences	1
+sptvipapb3	used_total_licences	0
+designarchnt_c	used_total_licences	0
+designarchnt_c	issued_total_licences	13
+lmsmgrnt_c	used_total_licences	0
+lmsmgrnt_c	issued_total_licences	3
+znprove	issued_total_licences	60
+znprove	used_total_licences	10
+znprove users smittal 4
+znprove users xinguan 1
+znprove users danyee 3
+znprove users dan 2
+accusim2kernent	used_total_licences	0
+accusim2kernent	issued_total_licences	1
+znautocheckfe	used_total_licences	0
+znautocheckfe	issued_total_licences	60
+zncwcompiler	used_total_licences	0
+zncwcompiler	issued_total_licences	41
+reqtracer_c	issued_total_licences	1
+reqtracer_c	used_total_licences	0
+catapultlb_c	used_total_licences	0
+catapultlb_c	issued_total_licences	1
+falconfw_s	issued_total_licences	25
+falconfw_s	used_total_licences	4
+falconfw_s users galagan 1
+falconfw_s users wangling 1
+falconfw_s users mborsch 1
+falconfw_s users jtalbert 1
+vhamsmod	issued_total_licences	1
+vhamsmod	used_total_licences	0
+dxvariantmgr	issued_total_licences	3
+dxvariantmgr	used_total_licences	0
+VT_Testbench	issued_total_licences	50300
+VT_Testbench users pkoran 1
+VT_Testbench users marmei 2
+VT_Testbench users jklong 1
+VT_Testbench users pphan 4
+VT_Testbench users sbudumur 1
+VT_Testbench users sthiagar 3
+VT_Testbench users petng 5
+VT_Testbench users jdepenni 1
+VT_Testbench users mthejasv 1
+VT_Testbench users jalexander 1
+VT_Testbench users sgirimaj 1
+VT_Testbench users ccpregress 7
+VT_Testbench users vwang1 3
+VT_Testbench	used_total_licences	31
+flomcad	issued_total_licences	1
+flomcad	used_total_licences	0
+phytestmgr	issued_total_licences	4
+phytestmgr	used_total_licences	0
+znpsl	used_total_licences	0
+znpsl	issued_total_licences	121
+pnreroute	issued_total_licences	1
+pnreroute	used_total_licences	0
+sptviplli	used_total_licences	0
+sptviplli	issued_total_licences	1
+flextest	issued_total_licences	1
+flextest	used_total_licences	1
+enter76	used_total_licences	0
+enter76	issued_total_licences	1
+zncwmbase	used_total_licences	0
+zncwmbase	issued_total_licences	142
+infscintf	issued_total_licences	3
+infscintf	used_total_licences	0
+pnrxtan users cyali 1
+pnrxtan users zhjin 2
+pnrxtan users pduvvuru 1
+pnrxtan users vcui 1
+pnrxtan users ligao 1
+pnrxtan users wjung 1
+pnrxtan users lsarwiga 1
+pnrxtan users csong 1
+pnrxtan users kkhilwan 1
+pnrxtan users drxu 1
+pnrxtan users aimmadi 1
+pnrxtan users dcwang 1
+pnrxtan users vixiao 1
+pnrxtan users soyang 2
+pnrxtan users xyhou 2
+pnrxtan users cgzhou 1
+pnrxtan users fulee 1
+pnrxtan users gchalapa 2
+pnrxtan users sgunda 1
+pnrxtan users yanwang1 1
+pnrxtan users kmallavr 1
+pnrxtan users lli2 1
+pnrxtan	used_total_licences	26
+pnrxtan	issued_total_licences	111
+wfmview	issued_total_licences	6
+wfmview	used_total_licences	0
+pcbboardstation	used_total_licences	0
+pcbboardstation	issued_total_licences	3
+znformal	issued_total_licences	60
+znformal users xinguan 1
+znformal users asegaran 2
+znformal users dan 2
+znformal users danyee 3
+znformal users svarma 1
+znformal users smittal 6
+znformal users spai 2
+znformal users kchamaku 2
+znformal users rbartolo 1
+znformal	used_total_licences	20
+wgautobasic	issued_total_licences	1
+wgautobasic	used_total_licences	0
+spttransformer	issued_total_licences	1
+spttransformer	used_total_licences	0
+svverification users shecht 1
+svverification	used_total_licences	1
+svverification	issued_total_licences	101
+infsyintf	issued_total_licences	2
+infsyintf	used_total_licences	0
+infsykrnl	used_total_licences	0
+infsykrnl	issued_total_licences	2
+calopcpro	issued_total_licences	1
+calopcpro	used_total_licences	0
+out356d	used_total_licences	0
+out356d	issued_total_licences	1
+vhamsrt	issued_total_licences	1
+vhamsrt	used_total_licences	0
+eldorfic	used_total_licences	0
+eldorfic	issued_total_licences	1
+sptvipusb20	used_total_licences	0
+sptvipusb20	issued_total_licences	1
+icgraphcde	used_total_licences	0
+icgraphcde	issued_total_licences	19
+VCSTools_Net	used_total_licences	1
+VCSTools_Net users regrsys 1
+VCSTools_Net	issued_total_licences	50300
+XT_XPLORER_SE users joqia 1
+XT_XPLORER_SE	used_total_licences	1
+XT_XPLORER_SE	issued_total_licences	10
+variantmgrsch	used_total_licences	0
+variantmgrsch	issued_total_licences	3
+pnrmcore	used_total_licences	0
+pnrmcore	issued_total_licences	1
+daicbundle_c	used_total_licences	0
+daicbundle_c	issued_total_licences	13
+zncompckl	used_total_licences	0
+zncompckl	issued_total_licences	151
+calibrehdrc	issued_total_licences	650
+calibrehdrc	used_total_licences	370
+calibrehdrc users cyali 2
+calibrehdrc users mvemu 7
+calibrehdrc users skempf 4
+calibrehdrc users cpeura 7
+calibrehdrc users nnkumar 2
+calibrehdrc users benchan 1
+calibrehdrc users gsinghal 1
+calibrehdrc users wjung 3
+calibrehdrc users jiyang 4
+calibrehdrc users asingla 4
+calibrehdrc users cgzhou 2
+calibrehdrc users kirapak 7
+calibrehdrc users sjan 1
+calibrehdrc users rthayana 4
+calibrehdrc users jiyee 30
+calibrehdrc users ngummi 3
+calibrehdrc users jgardiol 3
+calibrehdrc users lewei 1
+calibrehdrc users ppedired 1
+calibrehdrc users pnarinde 1
+calibrehdrc users ldong 2
+calibrehdrc users ksugiyam 1
+calibrehdrc users csong 3
+calibrehdrc users cmusumec 1
+calibrehdrc users vegupta 4
+calibrehdrc users rkannay 43
+calibrehdrc users lboda 3
+calibrehdrc users puneetgu 2
+calibrehdrc users eswanson 1
+calibrehdrc users nchava 2
+calibrehdrc users hprasad 3
+calibrehdrc users tlin 12
+calibrehdrc users rseahra 5
+calibrehdrc users psukhava 1
+calibrehdrc users parlagad 1
+calibrehdrc users hinguyen 1
+calibrehdrc users jkalapur 1
+calibrehdrc users vmerugu 4
+calibrehdrc users ndalvi 3
+calibrehdrc users jeluca 4
+calibrehdrc users chambers 2
+calibrehdrc users mstampli 1
+calibrehdrc users mdinh 33
+calibrehdrc users kmandadi 5
+calibrehdrc users mpatidar 1
+calibrehdrc users abuch 1
+calibrehdrc users gokrishn 10
+calibrehdrc users skethire 2
+calibrehdrc users nlance 1
+calibrehdrc users csreedha 4
+calibrehdrc users nmetla 2
+calibrehdrc users ebancala 1
+calibrehdrc users cbatra 1
+calibrehdrc users dchun 3
+calibrehdrc users mchung 9
+calibrehdrc users jipatel 1
+calibrehdrc users bdatta 2
+calibrehdrc users cyli 51
+calibrehdrc users schandak 16
+calibrehdrc users rkoliset 9
+calibrehdrc users skondapa 4
+calibrehdrc users gthomas 2
+calibrehdrc users vveerepa 2
+calibrehdrc users jjlindne 1
+calibrehdrc users vkonagal 3
+calibrehdrc users vemaheswa 1
+calibrehdrc users skurada 10
+calibrehdrc users skaipa 4
+catapultlbfarm_c	used_total_licences	0
+catapultlbfarm_c	issued_total_licences	5
+hypbswsighz_c	issued_total_licences	3
+hypbswsighz_c	used_total_licences	0
+edazpws	used_total_licences	0
+edazpws	issued_total_licences	1
+pcbbaupgrade_c	used_total_licences	0
+pcbbaupgrade_c	issued_total_licences	1
+inpment	used_total_licences	0
+inpment	issued_total_licences	1
+lmsmgr_c	used_total_licences	0
+lmsmgr_c	issued_total_licences	3
+papoulis	issued_total_licences	1
+papoulis	used_total_licences	0
+calibrelfdmt	issued_total_licences	25
+calibrelfdmt	used_total_licences	0
+genieartist	used_total_licences	0
+genieartist	issued_total_licences	3
+testkomp users grguo 3
+testkomp users nithyak 4
+testkomp users chicheng 4
+testkomp users sswamy 8
+testkomp users ppears 1
+testkomp users jbosco 19
+testkomp users vprakash 6
+testkomp users mreddypo 3
+testkomp users lindli 5
+testkomp users nraveend 29
+testkomp users gbrener 2
+testkomp users glli 3
+testkomp users rashukla 6
+testkomp users hawhuang 1
+testkomp users xcfeng 1
+testkomp users agoli 2
+testkomp users sdodda 1
+testkomp users kenpham 1
+testkomp users schadala 4
+testkomp users vwang1 1
+testkomp users lewei 1
+testkomp users cradu 1
+testkomp users hrajeswa 3
+testkomp users bagarwal 15
+testkomp users adeepak 1
+testkomp users saswamy 3
+testkomp users shosur 12
+testkomp users kevinli 2
+testkomp users ychen 2
+testkomp users brxu 1
+testkomp users hezhao 9
+testkomp users nitinraj 1
+testkomp users dzhang1 1
+testkomp users kmisbahu 1
+testkomp users avarma 3
+testkomp users vimittal 4
+testkomp	used_total_licences	168
+testkomp	issued_total_licences	300
+hyplswsighz_c	issued_total_licences	3
+hyplswsighz_c	used_total_licences	0
+scdebug	issued_total_licences	1
+scdebug	used_total_licences	0
+vhamsdevhs	issued_total_licences	1
+vhamsdevhs	used_total_licences	0
+XTENSA_ISS_XTMP	used_total_licences	0
+XTENSA_ISS_XTMP	issued_total_licences	20
+znsva	used_total_licences	1
+znsva users jxia 1
+znsva	issued_total_licences	121
+LMCSwift_Net	used_total_licences	0
+LMCSwift_Net	issued_total_licences	50300
+vistaescppc440_c	used_total_licences	0
+vistaescppc440_c	issued_total_licences	1
+mgswrite	issued_total_licences	1
+mgswrite	used_total_licences	0
+dxcse	issued_total_licences	3
+dxcse	used_total_licences	0
+papoulishdlpwr_c	issued_total_licences	1
+papoulishdlpwr_c	used_total_licences	0
+sptgui	used_total_licences	0
+sptgui	issued_total_licences	1
+hypfasteyes	used_total_licences	0
+hypfasteyes	issued_total_licences	1
+VCSPostProcDebugger_Net	issued_total_licences	50300
+VCSPostProcDebugger_Net	used_total_licences	0
+icassemble	issued_total_licences	2
+icassemble	used_total_licences	0
+znhiercdc users vsribha 1
+znhiercdc users sskma 1
+znhiercdc users prakkumar 1
+znhiercdc users tireland 1
+znhiercdc users etian 2
+znhiercdc users gavli 2
+znhiercdc	used_total_licences	8
+znhiercdc	issued_total_licences	110
+enter81	issued_total_licences	1
+enter81	used_total_licences	0
+subpano	used_total_licences	0
+subpano	issued_total_licences	1
+sptvipddr3	used_total_licences	0
+sptvipddr3	issued_total_licences	1
+shrlist	issued_total_licences	1
+shrlist	used_total_licences	0
+icshortchecker	issued_total_licences	17
+icshortchecker	used_total_licences	0
+vistaarchitect_c	issued_total_licences	1
+vistaarchitect_c	used_total_licences	0
+catapultsl_c	used_total_licences	0
+catapultsl_c	issued_total_licences	1
+hyplswsiext_c	issued_total_licences	6
+hyplswsiext_c	used_total_licences	0
+XTENSA_ISS_BASE	issued_total_licences	20
+XTENSA_ISS_BASE	used_total_licences	0
+pcbhispeednt	issued_total_licences	4
+pcbhispeednt	used_total_licences	0
+wgascentl4	issued_total_licences	1
+wgascentl4	used_total_licences	0
+pcbhispeed	used_total_licences	0
+pcbhispeed	issued_total_licences	4
+inp356d	issued_total_licences	1
+inp356d	used_total_licences	0
+sptvipddr2	issued_total_licences	1
+sptvipddr2	used_total_licences	0
+outhpgl	issued_total_licences	1
+outhpgl	used_total_licences	0
+aditturbo	used_total_licences	0
+aditturbo	issued_total_licences	1
+sptvipdsi	used_total_licences	0
+sptvipdsi	issued_total_licences	1
+pcbbaupgradent_c	used_total_licences	0
+pcbbaupgradent_c	issued_total_licences	1
+lchp2filter	issued_total_licences	2
+lchp2filter	used_total_licences	0
+lbistarchitect_c	issued_total_licences	26
+lbistarchitect_c users dzhang1 1
+lbistarchitect_c	used_total_licences	1
+zncompcsl	used_total_licences	3
+zncompcsl users mapicket 2
+zncompcsl users jxia 1
+zncompcsl	issued_total_licences	231
+yieldaedtdiag	used_total_licences	8
+yieldaedtdiag users jacheng 4
+yieldaedtdiag users nmailava 1
+yieldaedtdiag users wpyeong 1
+yieldaedtdiag users awang1 1
+yieldaedtdiag users jcarosel 1
+yieldaedtdiag	issued_total_licences	45
+pnrmcoretiming users ligao 2
+pnrmcoretiming users cherchen 5
+pnrmcoretiming users smiddi 8
+pnrmcoretiming users pduvvuru 2
+pnrmcoretiming users zhjin 2
+pnrmcoretiming users yaxu 3
+pnrmcoretiming users cyali 3
+pnrmcoretiming users arnath 1
+pnrmcoretiming users rmurillo 2
+pnrmcoretiming users pexu 2
+pnrmcoretiming users naking 1
+pnrmcoretiming users lli2 1
+pnrmcoretiming users anuthi 4
+pnrmcoretiming users mengtie 1
+pnrmcoretiming users drxu 2
+pnrmcoretiming users aimmadi 1
+pnrmcoretiming users cgzhou 2
+pnrmcoretiming users soyang 2
+pnrmcoretiming users guliang 4
+pnrmcoretiming users tiatian 1
+pnrmcoretiming users xfeng 1
+pnrmcoretiming users csong 2
+pnrmcoretiming users lsarwiga 1
+pnrmcoretiming users khuh 2
+pnrmcoretiming users uprakash 1
+pnrmcoretiming users zhqi 1
+pnrmcoretiming users ntieu 1
+pnrmcoretiming users vcui 1
+pnrmcoretiming users zli1 7
+pnrmcoretiming users lewei 2
+pnrmcoretiming users bpaladug 1
+pnrmcoretiming users averma 1
+pnrmcoretiming users sgunda 8
+pnrmcoretiming users gchalapa 2
+pnrmcoretiming users fulee 5
+pnrmcoretiming users mvijay 2
+pnrmcoretiming users yanwang1 1
+pnrmcoretiming users vixiao 1
+pnrmcoretiming users kkhilwan 1
+pnrmcoretiming users dcwang 1
+pnrmcoretiming users eergin 1
+pnrmcoretiming users xyhou 1
+pnrmcoretiming users vnethula 7
+pnrmcoretiming	used_total_licences	100
+pnrmcoretiming	issued_total_licences	100
+aspire_c	used_total_licences	0
+aspire_c	issued_total_licences	1
+qvman	issued_total_licences	101
+qvman	used_total_licences	0
+znmnpcixprs	used_total_licences	0
+znmnpcixprs	issued_total_licences	41
+hypimport_c	issued_total_licences	7
+hypimport_c	used_total_licences	0
+infactsdm	issued_total_licences	2
+infactsdm	used_total_licences	0
+viewbase	used_total_licences	0
+viewbase	issued_total_licences	3
+dftadvisor	used_total_licences	0
+dftadvisor	issued_total_licences	33
+hp2filter	used_total_licences	0
+hp2filter	issued_total_licences	2
+XTENSA_SDK	issued_total_licences	10
+XTENSA_SDK	used_total_licences	2
+XTENSA_SDK users joqia 1
+XTENSA_SDK users sdandu 1
+sptvipspi42	issued_total_licences	1
+sptvipspi42	used_total_licences	0
+calibreadp	issued_total_licences	35
+calibreadp	used_total_licences	13
+calibreadp users schandak 1
+calibreadp users mvemu 2
+calibreadp users mchiang 1
+calibreadp users skurada 2
+calibreadp users vmerugu 2
+calibreadp users csreedha 4
+calibreadp users ekearney 1
+wgascentlx	used_total_licences	0
+wgascentlx	issued_total_licences	1
+sptvipi2c	issued_total_licences	1
+sptvipi2c	used_total_licences	0
+icgraph users bobw 1
+icgraph	used_total_licences	1
+icgraph	issued_total_licences	17
+sptvipeth	issued_total_licences	1
+sptvipeth	used_total_licences	0
+calyieldenhance	issued_total_licences	80
+calyieldenhance	used_total_licences	2
+calyieldenhance users vegupta 2
+XTENSA_XCC_TIE	used_total_licences	0
+XTENSA_XCC_TIE	issued_total_licences	20
+chkopen	issued_total_licences	1
+chkopen	used_total_licences	0
+qpasim	issued_total_licences	101
+qpasim	used_total_licences	0
+wgreport	used_total_licences	0
+wgreport	issued_total_licences	1
+eldoforhyp	used_total_licences	0
+eldoforhyp	issued_total_licences	1
+odbviewer	issued_total_licences	2
+odbviewer	used_total_licences	0
+VT_Coverage	used_total_licences	0
+VT_Coverage	issued_total_licences	50300
+wgpcb	issued_total_licences	1
+wgpcb	used_total_licences	0
+variantmgrpads	used_total_licences	0
+variantmgrpads	issued_total_licences	3
+out274x	issued_total_licences	1
+out274x	used_total_licences	0
+vhamsusrhs	issued_total_licences	1
+vhamsusrhs	used_total_licences	0
+sptvipdgrf	issued_total_licences	1
+sptvipdgrf	used_total_licences	0
+phytestmgrnt	issued_total_licences	4
+phytestmgrnt	used_total_licences	0
+pcbba_c	used_total_licences	0
+pcbba_c	issued_total_licences	1
+hdlart	issued_total_licences	1
+hdlart	used_total_licences	0
+verilogacomp	issued_total_licences	1
+verilogacomp	used_total_licences	0

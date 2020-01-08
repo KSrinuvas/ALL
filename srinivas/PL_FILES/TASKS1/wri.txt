@@ -1,0 +1,5 @@
+A - This is a vowel
+E - This is a vowel
+I - This is a vowel
+O - This is a vowel
+U - This is a vowel

@@ -1,0 +1,11 @@
+error: syntax error at a.pl line 5, near "print"
+Error: Execution of a.pl aborted due to compilation errors.
+ERROR: syntax error at a.pl line 8, at EOF
+error: Missing right curly or square bracket at a.pl line 8, at end of line 
+warning: syntax error at a.pl line 8, at EOF
+warn: Can't find string terminator '"' anywhere before EOF at a.pl line 25.
+WARNING: Can't find string terminator '"' anywhere before EOF at a.pl line 25.
+warning: Can't find string terminator '"' anywhere before EOF at a.pl line 25.
+ERROr: syntax error at a.pl line 8, at EOF
+warning: Can't find string terminator '"' anywhere before EOF at a.pl line 15.
+warn : Can't find string terminator '"' anywhere before EOF at a.pl line 10.

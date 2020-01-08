@@ -1,0 +1,32 @@
+#!/usr/bin/perl -w
+use strict;
+
+my $dir = '.';
+
+opendir (DIR,$dir) || die "Not able to open '$dir' $!";
+
+while (my $data = readdir DIR)	{
+		#print"$data\n";
+		if (-d $data)	{
+				print"$data\n";
+		} else {
+		#		print"$data\n";
+		}
+}
+
+closedir(DIR)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

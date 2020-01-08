@@ -1,0 +1,15 @@
+summary=[RTG_AutoJira] Standalone Jira Testing
+issuetype=ActionItem(TODO)
+priority=P-Medium
+components=LibGen
+project=SwiftMp_A
+rundir=/home/RTGDev/subba/libgen/RTG_Start_MULTITRACK__Apr
+description=Hello,
+
+
+
+Please validate the RTG run errors with the below details.
+
+
+Regards,
+subbareddyb

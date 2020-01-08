@@ -1,0 +1,37 @@
+Error: Can't locate object method "esle" via package "1" 
+warniNG: "my" variable $a masks earlier declaration in same scope at aa.pl line 5.
+ErRor:Can't locate object method "esle" via package "2"
+waRNIng:"my" variable $a masks earlier declaration in same scope at aa.pl line 4.
+ErrOr:Can't locate object method "esle" via package "3"
+warNing:"my" variable $a masks earlier declaration in same scope at aa.pl line 7.
+ERror:Can't locate object method "esle" via package "4"
+waRnIng:"my" variable $a masks earlier declaration in same scope at aa.pl line 2.
+Error:Can't locate object method "esle" via package "5"
+warNiNg:"my" variable $a masks earlier declaration in same scope at aa.pl line 6.
+Error:Can't locate object method "esle" via package "6"
+warNIng:"my" variable $a masks earlier declaration in same scope at aa.pl line 1.
+error:Can't locate object method "esle" via package "7"
+waRniNg:"my" variable $a masks earlier declaration in same scope at aa.pl line 12.
+Error:Can't locate object method "esle" via package "8"
+warning:"my" variable $a masks earlier declaration in same scope at aa.pl line 16.
+Error:Can't locate object method "esle" via package "9"
+warniNG:"my" variable $a masks earlier declaration in same scope at aa.pl line 4.
+Error:Can't locate object method "esle" via package "10"
+warnIng:"my" variable $a masks earlier declaration in same scope at aa.pl line 46.
+Error:Can't locate object method "esle" via package "11"
+waRNing:"my" variable $a masks earlier declaration in same scope at aa.pl line 9.
+Error:Can't locate object method "esle" via package "12"
+wArning:"my" variable $a masks earlier declaration in same scope at aa.pl line 8.
+ErrOr:Can't locate object method "esle" via package "13"
+Warning:"my" variable $a masks earlier declaration in same scope at aa.pl line 6.
+ErRor:Can't locate object method "esle" via package "14"
+warning:"my" variable $a masks earlier declaration in same scope at aa.pl line 5.
+ErRor:Can't locate object method "esle" via package "15"
+warning:"my" variable $a masks earlier declaration in same scope at aa.pl line 4.
+Error:Can't locate object method "esle" via package "16"
+WARNING:"my" variable $a masks earlier declaration in same scope at aa.pl line 6.
+ERROR:Can't locate object method "esle" via package "17"
+Warning:"my" variable $a masks earlier declaration in same scope at aa.pl line 5.
+Warning:"my" variable $a masks earlier declaration in same scope at aa.pl line 22.
+
+

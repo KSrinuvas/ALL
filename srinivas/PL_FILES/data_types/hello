@@ -1,0 +1,7 @@
+
+/usr/bin/tclsh
+$a = 10;
+$a = 40;
+
+print "$a \n";
+

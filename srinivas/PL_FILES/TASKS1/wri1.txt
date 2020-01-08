@@ -1,0 +1,5 @@
+hello -this is vowel
+hi -this is vowel
+good -this is vowel
+bad -this is vowel
+cool -this is vowel

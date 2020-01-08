@@ -1,0 +1,6 @@
+<python>perl>tcl>mysql>
+<hi>hello>how>
+<what>where>when>who>
+<the>that>there>these>
+<true>false>
+<yse>no>

@@ -1,0 +1,15 @@
+#!/use/bin/perl
+use strict;
+use warnings;
+
+my @arr = (1..10);
+
+my $i = 0;
+
+my $size = @arr;
+
+while ($i < @arr) { 
+
+	print"$arr[$i]\n";
+	$i++;
+}
