@@ -1,0 +1,184 @@
+<html>
+			<head><title>Basic Unix Commands - Unix Tutorial</title><link type="text/css" rel="stylesheet" href="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/wp-content/plugins/pdf-print/css/default.css" media="all" /></head>
+				<body class="pdfprnt_print ltr"><div id="content">						<div class="post">
+							<div class="entry-header"><h1 class="entry-title">Basic Unix Commands</h1></div>							<div class="entry-content"><p><!-- wp:paragraph --></p>
+<p>Knowing <strong>basic Unix commands</strong> should allow you to navigate your Unix or Linux system, confirm current system status and manage files or directories.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>UPDATE 01/2019</strong>: I&#8217;ll be publishing a short <strong>video walkthrough of Basic Unix Commands</strong> here at the top of the page shortly.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>Getting help in Unix</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a title="man command" href="https://www.unixtutorial.org/commands/man"><strong>man</strong></a> &#8211; view manual pages for Unix commands</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Unix Shell Commands</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><a href="/commands/clear">clear</a></strong> &#8211; clear screen</li>
+<li><strong><a href="/commands/history">history</a></strong> &#8211; show history of previous commands</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Time and Date commands</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="/commands/date"><strong>date</strong></a> &#8211; show current date and time</li>
+<li><strong><a href="/commands/sleep">sleep</a></strong> &#8211; wait for a given number of seconds</li>
+<li><a href="https://www.unixtutorial.org/commands/uptime"><strong>uptime</strong></a> &#8211; find out how long the system has been up</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Unix users commands</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>These commands allow you to get basic information about Unix users in your environment.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><a href="/commands/whoami">whoami</a></strong> &#8211; show your username</li>
+<li><strong><a href="https://www.unixtutorial.org/commands/id">id</a></strong> &#8211; print user identity</li>
+<li><strong><a href="/commands/groups">groups</a></strong> &#8211; show which groups user belongs to</li>
+<li><strong><a href="https://www.unixtutorial.org/commands/passwd">passwd</a></strong> &#8211; change user password</li>
+<li><a href="https://www.unixtutorial.org/commands/who"><strong>who</strong></a> &#8211; find out who is logged into the system</li>
+<li><a href="/commands/last"><strong>last</strong></a> &#8211; show history of logins into the system</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Unix file operations</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Navigating filesystem and managing files and access permissions:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="https://www.unixtutorial.org/commands/ls"><strong>ls</strong></a> &#8211; list files and directories</li>
+<li><a href="/commands/cp"><strong>cp</strong></a> &#8211; copy files (work in progress)</li>
+<li><a href="/commands/rm"><strong>rm</strong></a> &#8211; remove files and directories (work in progress)</li>
+<li><a href="/commands/mv"><strong>mv</strong></a> &#8211; rename or move files and directories to another location</li>
+<li><strong><a href="/commands/chmod">chmod</a></strong> &#8211; change file/directory access permissions</li>
+<li><strong><a href="/commands/chown">chown</a> </strong>&#8211; change file/directory ownership</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Text file operations in Unix</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Most of important configuration in Unix is in clear text files, these commands will let you quickly inspect files or view logs:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="https://www.unixtutorial.org/commands/cat"><strong>cat</strong></a> &#8211; concatenate files and show contents to the standard output</li>
+<li><a href="https://www.unixtutorial.org/commands/more"><strong>more</strong></a> &#8211; basic pagination when viewing text files or parsing Unix commands output</li>
+<li><a href="https://www.unixtutorial.org/commands/less"><strong>less</strong></a> &#8211; an improved pagination tool for viewing text files (better than <a href="https://www.unixtutorial.org/commands/more">more command</a>)</li>
+<li><strong><a href="/commands/head">head</a></strong> &#8211; show the first 10 lines of text file (you can specify any number of lines)</li>
+<li><a href="/commands/tail"><strong>tail</strong></a> &#8211; show the last 10 lines of text file (any number can be specified)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Unix directory management commands</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Navigating filesystems and managing directories:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a title="cd - change directory command in Unix" href="https://www.unixtutorial.org/commands/cd"><strong>cd</strong></a> &#8211; change directory</li>
+<li><strong><a title="show your current directory" href="https://www.unixtutorial.org/commands/pwd">pwd</a></strong> &#8211; confirm current directory</li>
+<li><strong><a title="ln - links and symlinks" href="https://www.unixtutorial.org/commands/ln">ln</a></strong> &#8211; make links and symlinks to files and directories</li>
+<li><strong><a href="https://www.unixtutorial.org/commands/mkdir">mkdir</a></strong> &#8211; make new directory</li>
+<li><strong><a href="https://www.unixtutorial.org/commands/rmdir">rmdir</a></strong> &#8211; <a href="https://www.unixtutorial.org/commands/rmdir/" target="_blank" rel="noopener noreferrer">remove directories in Unix</a></li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Unix system status commands</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Most useful commands for reviewing hostname configuration and vital stats:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><a href="/commands/hostname">hostname</a></strong> &#8211; show or set server hostname</li>
+<li><a href="/commands/w"><strong>w</strong></a> &#8211; display system load, who&#8217;s logged in and what they are doing</li>
+<li><a href="https://www.unixtutorial.org/commands/uname"><strong>uname</strong></a> &#8211; print Unix system information</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Networking commands in Unix</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Most useful commands for inspecting network setup and exploring network connections and ports:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><a href="/commands/ifconfig">ifconfig</a> &#8211; show and set IP addresses (found almost everywhere)</strong></li>
+<li><a href="/commands/ip"><strong>ip</strong></a> &#8211; show and set IP addresses (in recent Linux versions)</li>
+<li><a href="/commands/ping"><strong>ping</strong></a> &#8211; check if remote host is reachable via ICMP ping</li>
+<li><a href="/commands/netstat"><strong>netstat</strong></a> &#8211; show network stats and routing information</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Process management</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Listing processes and confirming their status, and stopping processes if needed:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><a href="/commands/ps">ps</a> &#8211; </strong>list processes</li>
+<li><strong><a title="top command" href="https://www.unixtutorial.org/commands/top">top</a> </strong>&#8211; show tasks and system status</li>
+<li><strong><a href="/commands/kill">kill</a></strong> &#8211; kill a process (stop application running)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>Remote access commands</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>ssh is really the only way to go, but it&#8217;s important to know telnet as well:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><a href="/commands/telnet">telnet</a></strong> &#8211; clear-text (insecure) remote access protocol</li>
+<li><strong><a href="https://www.unixtutorial.org/commands/ssh/">ssh</a></strong> &#8211; Secure SHell &#8211; encrypted remote access client
+<ul>
+<li>check out the <a href="/reference/ssh"><strong>SSH reference</strong></a>!</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>File transfers &nbsp;commands</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Always useful to know how to copy files between servers or just download some package from the web:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><a href="/commands/ftp">ftp</a></strong> &#8211; clear-text (insecure!) File Transfer Protocol client</li>
+<li><strong><a href="/commnds/sftp">sftp</a></strong> &#8211; secure (encrypted) version of FTP</li>
+<li><strong><a href="/commands/scp">scp</a></strong> &#8211; secure (encrypted) version of <a href="https://www.unixtutorial.org/commands/cp">cp command</a></li>
+<li><a href="/commands/wget"><strong>wget</strong></a> &#8211; download files from remote servers, HTTP/HTTPS and FTP</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>See also</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><a href="/basic-linux-commands">Basic Linux Commands</a></strong></li>
+<li><strong><a href="https://www.unixtutorial.org/commands">Unix Commands</a></strong></li>
+<li><a href="/linux-commands"><strong>Linux Commands</strong></a></li>
+<li><a href="/macos-commands"><strong>macOS commands</strong></a></li>
+<li><strong><a href="https://www.unixtutorial.org/advanced-unix-commands">Advanced Unix commands </a></strong></li>
+</ul>
+<p><!-- /wp:list --></p>
+</div>
+						</div>
+					</div></body>
+		</html>

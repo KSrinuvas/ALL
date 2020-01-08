@@ -1,0 +1,12 @@
+<root>
+  <EMP>
+    <Details email="james@gmail.com"/>
+    <Details employee_name="James"/>
+    <Details job_profile="Sr. Developer"/>
+  </EMP>
+  <EMP>
+    <Details email="Smith@gmail.com"/>
+    <Details employee_name="Smith"/>
+    <Details job_profile="Project Lead"/>
+  </EMP>
+</root>

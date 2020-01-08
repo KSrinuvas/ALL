@@ -1,0 +1,4 @@
+emp,age,salary
+ss27,10,40k
+pp28,20,50k
+qq29,30,30k

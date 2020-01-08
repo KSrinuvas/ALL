@@ -1,0 +1,366 @@
+<directory PATH="/home/srm/aa">
+  <directory PATH="/home/srm/aa/ref">
+    <file name="/home/srm/aa/ref/aa.pl" />
+  </directory>
+  <file name="/home/srm/aa/bb.csh" />
+  <file name="/home/srm/aa/tt.tcl" />
+  <file name="/home/srm/aa/oo.pl" />
+  <file name="/home/srm/aa/aab.txt.bak" />
+  <file name="/home/srm/aa/eaa.pl" />
+  <file name="/home/srm/aa/file.txt" />
+  <file name="/home/srm/aa/hello.pl" />
+  <file name="/home/srm/aa/aab.txt" />
+  <file name="/home/srm/aa/rr1.tcl" />
+  <file name="/home/srm/aa/aa.txt" />
+  <directory PATH="/home/srm/aa/XML">
+    <directory PATH="/home/srm/aa/XML/ref">
+      <file name="/home/srm/aa/XML/ref/Ori.pl" />
+      <file name="/home/srm/aa/XML/ref/EXP2.pl" />
+      <directory PATH="/home/srm/aa/XML/ref/write">
+        <file name="/home/srm/aa/XML/ref/write/bb.pl" />
+        <file name="/home/srm/aa/XML/ref/write/output.xml" />
+        <file name="/home/srm/aa/XML/ref/write/ex1.pl" />
+        <file name="/home/srm/aa/XML/ref/write/aa.pl" />
+      </directory>
+      <file name="/home/srm/aa/XML/ref/f1" />
+      <file name="/home/srm/aa/XML/ref/Ori1.pl" />
+      <file name="/home/srm/aa/XML/ref/f2" />
+    </directory>
+    <file name="/home/srm/aa/XML/test.pl" />
+    <file name="/home/srm/aa/XML/EXp.pl" />
+    <file name="/home/srm/aa/XML/EXp.p," />
+    <file name="/home/srm/aa/XML/Test.pm" />
+    <file name="/home/srm/aa/XML/aa.xml" />
+    <file name="/home/srm/aa/XML/playlist.xml" />
+    <file name="/home/srm/aa/XML/EXP2.pl" />
+    <file name="/home/srm/aa/XML/EXP4.pl" />
+    <file name="/home/srm/aa/XML/data.xml" />
+    <file name="/home/srm/aa/XML/Test.pl" />
+    <file name="/home/srm/aa/XML/expp.pl" />
+    <file name="/home/srm/aa/XML/ex1.pl" />
+    <file name="/home/srm/aa/XML/ee.pl" />
+    <file name="/home/srm/aa/XML/EXP1.pl" />
+    <file name="/home/srm/aa/XML/EXP3.pl" />
+    <file name="/home/srm/aa/XML/EE.pl" />
+    <file name="/home/srm/aa/XML/Url.pl" />
+    <file name="/home/srm/aa/XML/aa.p" />
+  </directory>
+  <directory PATH="/home/srm/aa/EXCEl">
+    <file name="/home/srm/aa/EXCEl/ex2.pl" />
+    <file name="/home/srm/aa/EXCEl/abc.xlsx" />
+    <file name="/home/srm/aa/EXCEl/data.csv" />
+    <file name="/home/srm/aa/EXCEl/exctodata.pl" />
+    <file name="/home/srm/aa/EXCEl/ex1.pl" />
+    <file name="/home/srm/aa/EXCEl/exp1.pl" />
+    <directory PATH="/home/srm/aa/EXCEl/WRITE">
+      <directory PATH="/home/srm/aa/EXCEl/WRITE/ref">
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/demo.pl" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/intr.pl" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/formats.pl" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/demo.xlsx" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/formats.xlsx" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/Intro.xlsx" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/bb.xlsx" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/a.jpg" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/exp2.pl" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/exp1.xlsx" />
+        <file name="/home/srm/aa/EXCEl/WRITE/ref/exp1.pl" />
+      </directory>
+      <file name="/home/srm/aa/EXCEl/WRITE/example.xlsx" />
+      <file name="/home/srm/aa/EXCEl/WRITE/eep.pl" />
+      <file name="/home/srm/aa/EXCEl/WRITE/exp.pl" />
+      <file name="/home/srm/aa/EXCEl/WRITE/Em1.txt" />
+      <file name="/home/srm/aa/EXCEl/WRITE/Emp.txt" />
+      <file name="/home/srm/aa/EXCEl/WRITE/exp1.xlsx" />
+      <file name="/home/srm/aa/EXCEl/WRITE/exp1.pl" />
+      <file name="/home/srm/aa/EXCEl/WRITE/em1.xlsx" />
+      <file name="/home/srm/aa/EXCEl/WRITE/aa.xlsx" />
+    </directory>
+  </directory>
+  <file name="/home/srm/aa/gg.tcl" />
+  <directory PATH="/home/srm/aa/PROJECT">
+    <directory PATH="/home/srm/aa/PROJECT/EXCEL">
+      <file name="/home/srm/aa/PROJECT/EXCEL/EX1.pl" />
+      <file name="/home/srm/aa/PROJECT/EXCEL/Ex2.pl" />
+    </directory>
+    <directory PATH="/home/srm/aa/PROJECT/XML">
+      <file name="/home/srm/aa/PROJECT/XML/.Ex5.pl.swp" />
+      <file name="/home/srm/aa/PROJECT/XML/.exp1.pl.swp" />
+      <file name="/home/srm/aa/PROJECT/XML/aa.json" />
+      <file name="/home/srm/aa/PROJECT/XML/exp.pl" />
+      <file name="/home/srm/aa/PROJECT/XML/newfile.xml" />
+      <file name="/home/srm/aa/PROJECT/XML/Ex4.pl" />
+      <file name="/home/srm/aa/PROJECT/XML/Ex3.pl" />
+      <file name="/home/srm/aa/PROJECT/XML/Ex1.pl" />
+      <file name="/home/srm/aa/PROJECT/XML/Ex2.pl" />
+      <file name="/home/srm/aa/PROJECT/XML/test.xml" />
+      <file name="/home/srm/aa/PROJECT/XML/Ex5.pl" />
+    </directory>
+    <directory PATH="/home/srm/aa/PROJECT/DBI">
+      <directory PATH="/home/srm/aa/PROJECT/DBI/ref">
+        <file name="/home/srm/aa/PROJECT/DBI/ref/aa.xml" />
+        <file name="/home/srm/aa/PROJECT/DBI/ref/xmltohash.pl" />
+        <file name="/home/srm/aa/PROJECT/DBI/ref/output.xml" />
+        <file name="/home/srm/aa/PROJECT/DBI/ref/ee.pl" />
+        <file name="/home/srm/aa/PROJECT/DBI/ref/hashtoxml.pl" />
+        <file name="/home/srm/aa/PROJECT/DBI/ref/aa.pl" />
+        <file name="/home/srm/aa/PROJECT/DBI/ref/xmlwr.pl" />
+      </directory>
+      <file name="/home/srm/aa/PROJECT/DBI/example.xlsx" />
+      <file name="/home/srm/aa/PROJECT/DBI/file1.csv" />
+      <file name="/home/srm/aa/PROJECT/DBI/.ex1.pl.swp" />
+      <file name="/home/srm/aa/PROJECT/DBI/ex1.pl" />
+      <file name="/home/srm/aa/PROJECT/DBI/exp.json" />
+    </directory>
+    <directory PATH="/home/srm/aa/PROJECT/CSV">
+      <file name="/home/srm/aa/PROJECT/CSV/ex2.pl" />
+      <file name="/home/srm/aa/PROJECT/CSV/Emp_hash.json" />
+      <file name="/home/srm/aa/PROJECT/CSV/file.csv" />
+      <file name="/home/srm/aa/PROJECT/CSV/ex1.pl" />
+      <file name="/home/srm/aa/PROJECT/CSV/Emp.xlsx" />
+      <file name="/home/srm/aa/PROJECT/CSV/Emp1.xlsx" />
+      <file name="/home/srm/aa/PROJECT/CSV/Emp.json" />
+    </directory>
+    <directory PATH="/home/srm/aa/PROJECT/JSON">
+      <file name="/home/srm/aa/PROJECT/JSON/.exp1.pl.swp" />
+      <file name="/home/srm/aa/PROJECT/JSON/exp1.pl" />
+    </directory>
+  </directory>
+  <directory PATH="/home/srm/aa/DBI">
+    <file name="/home/srm/aa/DBI/Dbhhash.pm" />
+    <file name="/home/srm/aa/DBI/aa" />
+    <file name="/home/srm/aa/DBI/exp.pl" />
+    <file name="/home/srm/aa/DBI/exp2.pl" />
+    <file name="/home/srm/aa/DBI/out.csv" />
+  </directory>
+  <file name="/home/srm/aa/check.csh" />
+  <directory PATH="/home/srm/aa/CSV">
+    <file name="/home/srm/aa/CSV/csvtoExc1.pl" />
+    <file name="/home/srm/aa/CSV/Exp3.pl" />
+    <file name="/home/srm/aa/CSV/csvtodata.pl" />
+    <file name="/home/srm/aa/CSV/a_simple.xlsx" />
+    <file name="/home/srm/aa/CSV/abc.xlsx" />
+    <file name="/home/srm/aa/CSV/csvtoExc.pl" />
+    <file name="/home/srm/aa/CSV/jj.pl" />
+    <file name="/home/srm/aa/CSV/Exp2.pl" />
+    <directory PATH="/home/srm/aa/CSV/Write">
+      <file name="/home/srm/aa/CSV/Write/aa.txt" />
+      <file name="/home/srm/aa/CSV/Write/exp.pl" />
+      <file name="/home/srm/aa/CSV/Write/nano.save" />
+      <file name="/home/srm/aa/CSV/Write/new.csv" />
+      <file name="/home/srm/aa/CSV/Write/.aa.csv.swp" />
+      <file name="/home/srm/aa/CSV/Write/exp2.pl" />
+      <file name="/home/srm/aa/CSV/Write/aa.csv.save" />
+      <file name="/home/srm/aa/CSV/Write/aa.csv" />
+      <file name="/home/srm/aa/CSV/Write/bb.csv" />
+      <file name="/home/srm/aa/CSV/Write/out.csv" />
+      <file name="/home/srm/aa/CSV/Write/exp4.pl" />
+      <file name="/home/srm/aa/CSV/Write/dbi_to_csv.pl" />
+      <file name="/home/srm/aa/CSV/Write/exp3.pl" />
+    </directory>
+    <file name="/home/srm/aa/CSV/Exp1.pl" />
+    <file name="/home/srm/aa/CSV/.Exp4.pl.swp" />
+    <file name="/home/srm/aa/CSV/Emp.csv" />
+    <file name="/home/srm/aa/CSV/Exp4.pl" />
+    <file name="/home/srm/aa/CSV/csvtodbi.pl" />
+  </directory>
+  <directory PATH="/home/srm/aa/nn">
+    <file name="/home/srm/aa/nn/de.pl" />
+    <file name="/home/srm/aa/nn/dd.pl" />
+    <file name="/home/srm/aa/nn/ab.pl" />
+    <file name="/home/srm/aa/nn/hello" />
+    <file name="/home/srm/aa/nn/aa" />
+    <file name="/home/srm/aa/nn/error.log" />
+    <directory PATH="/home/srm/aa/nn/cc">
+      <file name="/home/srm/aa/nn/cc/sample.txt" />
+      <file name="/home/srm/aa/nn/cc/rep" />
+      <file name="/home/srm/aa/nn/cc/aa.pl" />
+    </directory>
+    <file name="/home/srm/aa/nn/list" />
+    <file name="/home/srm/aa/nn/aa.pl" />
+  </directory>
+  <file name="/home/srm/aa/ag.tcl" />
+  <file name="/home/srm/aa/a.pl" />
+  <directory PATH="/home/srm/aa/JSON">
+    <file name="/home/srm/aa/JSON/ex2.pl" />
+    <file name="/home/srm/aa/JSON/ex3.pl" />
+    <file name="/home/srm/aa/JSON/exp6.pl" />
+    <file name="/home/srm/aa/JSON/Ex.pm" />
+    <file name="/home/srm/aa/JSON/Ex.pl" />
+    <file name="/home/srm/aa/JSON/exp5.pl" />
+    <file name="/home/srm/aa/JSON/Exp1.pl" />
+    <file name="/home/srm/aa/JSON/ex4.pl" />
+    <file name="/home/srm/aa/JSON/exp7.pl" />
+  </directory>
+  <file name="/home/srm/aa/.aa.csh" />
+  <file name="/home/srm/aa/rr.tcl" />
+  <directory PATH="/home/srm/aa/mod">
+    <file name="/home/srm/aa/mod/Opr.pm" />
+    <file name="/home/srm/aa/mod/zz.pl" />
+    <file name="/home/srm/aa/mod/Fact.pm" />
+    <file name="/home/srm/aa/mod/Avg.pm" />
+    <directory PATH="/home/srm/aa/mod/exp">
+      <directory PATH="/home/srm/aa/mod/exp/ii">
+        <file name="/home/srm/aa/mod/exp/ii/gg.pl" />
+        <file name="/home/srm/aa/mod/exp/ii/Eak.pl" />
+        <directory PATH="/home/srm/aa/mod/exp/ii/rr">
+          <file name="/home/srm/aa/mod/exp/ii/rr/Math.pm" />
+          <file name="/home/srm/aa/mod/exp/ii/rr/Math.pl" />
+        </directory>
+        <directory PATH="/home/srm/aa/mod/exp/ii/cc">
+          <file name="/home/srm/aa/mod/exp/ii/cc/Mm.pm" />
+          <file name="/home/srm/aa/mod/exp/ii/cc/Mm.pl" />
+        </directory>
+        <file name="/home/srm/aa/mod/exp/ii/Var.pl" />
+        <file name="/home/srm/aa/mod/exp/ii/YourModule.pl" />
+      </directory>
+      <file name="/home/srm/aa/mod/exp/YourModule.pm" />
+      <file name="/home/srm/aa/mod/exp/Fg.pl" />
+      <file name="/home/srm/aa/mod/exp/Var.pm" />
+      <file name="/home/srm/aa/mod/exp/Vv.pl" />
+      <file name="/home/srm/aa/mod/exp/Gg.pm" />
+      <file name="/home/srm/aa/mod/exp/Vv.pm" />
+      <file name="/home/srm/aa/mod/exp/Gg.pl" />
+      <file name="/home/srm/aa/mod/exp/Eak.pm" />
+      <file name="/home/srm/aa/mod/exp/Var.pl" />
+      <file name="/home/srm/aa/mod/exp/YourModule.pl" />
+      <file name="/home/srm/aa/mod/exp/Arithmetic.pm" />
+      <file name="/home/srm/aa/mod/exp/Fg.pm" />
+      <file name="/home/srm/aa/mod/exp/Arithmetic.pl" />
+      <file name="/home/srm/aa/mod/exp/Eaa.pm" />
+    </directory>
+    <file name="/home/srm/aa/mod/Tt.pl" />
+    <file name="/home/srm/aa/mod/Tt.pm" />
+    <directory PATH="/home/srm/aa/mod/mod1">
+      <file name="/home/srm/aa/mod/mod1/Rr.pl" />
+      <directory PATH="/home/srm/aa/mod/mod1/rr">
+        <file name="/home/srm/aa/mod/mod1/rr/Rr.pl" />
+        <file name="/home/srm/aa/mod/mod1/rr/Opr.pl" />
+        <file name="/home/srm/aa/mod/mod1/rr/Tt.pl" />
+        <file name="/home/srm/aa/mod/mod1/rr/aa.pl" />
+        <file name="/home/srm/aa/mod/mod1/rr/Arop.pl" />
+      </directory>
+      <file name="/home/srm/aa/mod/mod1/Tt.pl" />
+    </directory>
+    <file name="/home/srm/aa/mod/Arop.pm" />
+  </directory>
+  <directory PATH="/home/srm/aa/pp">
+    <file name="/home/srm/aa/pp/file1.txt" />
+    <file name="/home/srm/aa/pp/hello.pl" />
+    <file name="/home/srm/aa/pp/hh1.txt" />
+    <file name="/home/srm/aa/pp/file2.txt" />
+    <file name="/home/srm/aa/pp/hh2.txt" />
+    <file name="/home/srm/aa/pp/exp.pl" />
+    <file name="/home/srm/aa/pp/aa.pl" />
+  </directory>
+  <directory PATH="/home/srm/aa/EXP">
+    <file name="/home/srm/aa/EXP/system_exp.pl" />
+    <file name="/home/srm/aa/EXP/Backticks.pl" />
+    <file name="/home/srm/aa/EXP/exec.pl" />
+    <file name="/home/srm/aa/EXP/env_varible.pl" />
+    <file name="/home/srm/aa/EXP/ref.pl" />
+    <file name="/home/srm/aa/EXP/env_varible1.pl" />
+    <file name="/home/srm/aa/EXP/try" />
+    <file name="/home/srm/aa/EXP/file2" />
+    <directory PATH="/home/srm/aa/EXP/ll">
+      <file name="/home/srm/aa/EXP/ll/file1" />
+      <file name="/home/srm/aa/EXP/ll/file2" />
+    </directory>
+    <file name="/home/srm/aa/EXP/AA.pl" />
+    <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org">
+      <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/comments">
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/comments/feed" />
+      </directory>
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/5-ways-to-use-nslookup" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/5-things-you-can-do-with-netstat-command" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/linux-commands" />
+      <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/commands">
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/ps" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/top" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/chmod" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/pwd" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/passwd" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/uname" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/tune2fs" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/tail" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/groups" />
+        <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/commands/ssh">
+          <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/ssh/index.html" />
+        </directory>
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/date" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/rm" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/kill" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/uptime" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/mkdir" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/man" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/who" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/du" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/mv" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/sleep" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/id" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/head" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/hostname" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/chown" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/lsb_release" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/ifconfig" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/w" />
+        <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/commands/rmdir">
+          <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/rmdir/index.html" />
+        </directory>
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/netstat" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/ip" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/ln" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/cd" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/cat" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/find" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/cp" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/ls" />
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/commands/whoami" />
+      </directory>
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/project-compile-exfat-fuse-in-rhel-8" />
+      <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/wp-includes">
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/wp-includes/wlwmanifest.xml" />
+      </directory>
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/index.html" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/quickly-finding-files-in-macos-with-mdfind" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/basic-unix-commands?print=pdf" />
+      <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/wp-json">
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/wp-json/index.html" />
+        <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/wp-json/oembed">
+          <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/wp-json/oembed/1.0">
+            <file name="/home/srm/aa/EXP/www.unixtutorial.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unixtutorial.org%2Fbasic-unix-commands" />
+            <file name="/home/srm/aa/EXP/www.unixtutorial.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unixtutorial.org%2Fbasic-unix-commands&amp;format=xml" />
+          </directory>
+        </directory>
+      </directory>
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/basic-linux-commands" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/install-software-with-homebrew-in-ansible" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/books" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/projects" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/macos-commands" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/basic-unix-commands?print=print" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/advanced-unix-commands" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/contact" />
+      <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/feed">
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/feed/index.html" />
+      </directory>
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/robots.txt" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/ubuntu-19-10" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/services" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/basic-unix-commands?share=telegram" />
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/xmlrpc.php?rsd" />
+      <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/reference">
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/reference/ssh" />
+      </directory>
+      <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/test-disk-speed-with-dd">
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/test-disk-speed-with-dd/index.html" />
+      </directory>
+      <directory PATH="/home/srm/aa/EXP/www.unixtutorial.org/basic-unix-commands">
+        <file name="/home/srm/aa/EXP/www.unixtutorial.org/basic-unix-commands/feed" />
+      </directory>
+      <file name="/home/srm/aa/EXP/www.unixtutorial.org/how-to-generate-ed25519-ssh-key" />
+    </directory>
+    <file name="/home/srm/aa/EXP/.env_varible.pl.swp" />
+  </directory>
+  <file name="/home/srm/aa/aa.py" />
+</directory>

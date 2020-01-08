@@ -1,0 +1,12 @@
+12:32 SRMHP2:~/aa/nn/cc> cat sample.txt | grep -i p{2}
+12:33 SRMHP2:~/aa/nn/cc> cat sample.txt | grep -i p\{2}
+12:33 SRMHP2:~/aa/nn/cc> cat sample.txt | grep -E p\{2}
+apple
+12:33 SRMHP2:~/aa/nn/cc> cat sample.txt | grep -E p{2}
+12:33 SRMHP2:~/aa/nn/cc> cat sample.txt | grep -E p\{2}
+apple
+12:33 SRMHP2:~/aa/nn/cc> cat sample.txt | grep -E l\{2}
+ball
+12:33 SRMHP2:~/aa/nn/cc> cat sample.txt | grep -E f\{2}
+office
+

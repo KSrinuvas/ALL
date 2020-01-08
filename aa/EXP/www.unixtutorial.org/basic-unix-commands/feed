@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~files/feed-premium.xsl"?>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedpress="https://feed.press/xmlns" version="2.0">
+  <channel>
+    <feedpress:locale>en</feedpress:locale>
+    <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
+    <title>Unix Tutorial</title>
+    <atom:link href="http://feedpress.me/unixtutorial" rel="self" type="application/rss+xml"/>
+    <link>https://www.unixtutorial.org</link>
+    <description>Unix/Linux tutorials for beginners</description>
+    <lastBuildDate>Sat, 19 Oct 2019 11:32:44 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>
+hourly</sy:updatePeriod>
+    <sy:updateFrequency>
+1</sy:updateFrequency>
+    <generator>https://wordpress.org/?v=5.2.3</generator>
+    <image>
+      <url>https://www.unixtutorial.org/images/cropped-UnixTutorial-Square-Logo-32x32.png</url>
+      <title>Unix Tutorial</title>
+      <link>https://www.unixtutorial.org</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    <site xmlns="com-wordpress:feed-additions:1">153314778</site>
+    <item>
+      <title>Ubuntu 19.10</title>
+      <link>http://tracking.feedpress.it/link/15217/12909649</link>
+      <comments>https://www.unixtutorial.org/ubuntu-19-10#disqus_thread</comments>
+      <pubDate>Sat, 19 Oct 2019 11:28:40 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[News]]></category>
+      <category><![CDATA[Ubuntu]]></category>
+      <category><![CDATA[apt]]></category>
+      <category><![CDATA[raspberry pi]]></category>
+      <category><![CDATA[ssh]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3507</guid>
+      <description><![CDATA[Ubuntu 19.10 Desktop Wallpaper Ubuntu 19.10 was released on October 17th, which means it's time to upgrade Ubuntu on my Dell XPS laptop. Please note this is NOT a long-term support (LTS) release, so 19.10 will only be supported until July 2020. Ubuntu 19.10 &#8211; Eoan Ermine Seems like a pretty solid upgrade: WPA3 support [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/ubuntu-19-10-wallpaper-1024x654.png" alt="Ubuntu 19.10" class="wp-image-3510" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/ubuntu-19-10-wallpaper-1024x654.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/ubuntu-19-10-wallpaper-300x192.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/ubuntu-19-10-wallpaper-768x491.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Ubuntu 19.10 Desktop Wallpaper</strong></figcaption></figure>
+
+
+
+<p style="text-align:left"><strong><a href="https://www.unixtutorial.org/software/ubuntu">Ubuntu 19.10</a></strong> was released on October 17th, which means it's time to upgrade <a href="https://www.unixtutorial.org/projects-install-ubuntu-19-04-on-dell-xps-13-9380">Ubuntu on my Dell XPS laptop</a>. Please note this is NOT a long-term support (LTS) release, so 19.10 will only be supported until July 2020.</p>
+
+
+
+
+
+
+
+<h2>Ubuntu 19.10 &#8211; Eoan Ermine</h2>
+
+
+
+<p>Seems like a pretty solid upgrade:</p>
+
+
+
+<ul><li>WPA3 support for improved wireless security &#8211; need to check if I can upgrade my Ubiquiti equipment to support it</li><li>Linux <a href="https://www.unixtutorial.org/glossary#K">Kernel</a> upgraded to 5.3 &#8211; this is where I expect majority of improvements for my laptop</li><li>Dark Theme &#8211; in a very short space of just a few months I'm now using dark themes on my iPhone, desktop and laptop, plus in as many apps as support it properly</li><li><strong>Ubuntu 19.10</strong> is available for <a href="https://www.unixtutorial.org/raspberry-pi-4-faster-cpu-and-4gb-ram">Raspberry Pi 4</a></li><li>lots of visual improvements in each of the Ubuntu editions &#8211; Xubuntu, Kubuntu, Ubuntu MATE</li></ul>
+
+
+
+<h2>Download Ubuntu 19.10</h2>
+
+
+
+<p>As always, the best place to start with Ubuntu download is <a href="http://releases.ubuntu.com/19.10/">http://releases.ubuntu.com/19.10/</a></p>
+
+
+
+<p>Upgrading to Ubuntu 19.10</p>
+
+
+
+<p>I did the usual sequence to get my laptop upgraded. Except the last step which needed the -d option to recognise that <strong>Ubuntu 19.10</strong> is available. All of these commands were run through <a href="/refernce/sudo">sudo</a>.</p>
+
+
+
+<ul><li>apt update</li><li>apt upgrade</li><li>apt dist-upgrade</li><li>do-release-upgrade -d</li></ul>
+
+
+
+<p>Do you use <strong><a href="/software/ubuntu">Ubuntu</a></strong>? When are you planning to upgrade?</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="https://www.unixtutorial.org/software/ubuntu">Ubuntu Linux</a></li><li><a href="https://www.unixtutorial.org/enable-text-console-support-in-ubuntu">Enable text console in Ubuntu</a></li><li><a href="https://www.unixtutorial.org/projects-install-ubuntu-19-04-on-dell-xps-13-9380">Ubuntu 19.04 on Dell XPS 13 9380 laptop</a></li><li><a href="https://www.unixtutorial.org/ubuntu-ssh-how-to-enable-secure-shell-in-ubuntu">Enable SSH server in Ubuntu</a></li><li><a href="/commands/aot">apt command</a></li><li><a href="https://www.unixtutorial.org/upgrading-ubuntu-with-do-release-upgrade">Upgrade Ubuntu</a></li></ul>
+<img src="http://feedpress.me/15217/12909649.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/ubuntu-19-10/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3507</post-id>
+    </item>
+    <item>
+      <title>Install Software with Homebrew in Ansible</title>
+      <link>http://tracking.feedpress.it/link/15217/12906239</link>
+      <comments>https://www.unixtutorial.org/install-software-with-homebrew-in-ansible#disqus_thread</comments>
+      <pubDate>Thu, 17 Oct 2019 22:59:28 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[Mac OS]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3503</guid>
+      <description><![CDATA[Red Hat Ansible Pretty cool! I started automating my macOS setup and discovered that mighty Ansible ecosystem has even Homebrew automation! Example of Homebrew Cask in Ansible Here's how I can install Brave browser using homebrew_cask module: - name: Install Brave for macOS become_user: greys homebrew_cask: name: brave-browser state: latest tags: - brave when: ansible_os_family [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-08-30-at-17.26.24.png" alt="Red Hat Ansible" class="wp-image-3192" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-08-30-at-17.26.24.png 760w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-08-30-at-17.26.24-300x126.png 300w" sizes="(max-width: 760px) 100vw, 760px" /><figcaption><strong>Red Hat Ansible</strong></figcaption></figure>
+
+
+
+<p>Pretty cool! I started automating my <strong><a href="/software/macos">macOS</a></strong> setup and discovered that mighty <strong>Ansible</strong> ecosystem has even <strong>Homebrew</strong> automation!</p>
+
+
+
+<h2>Example of Homebrew Cask in Ansible</h2>
+
+
+
+<p>Here's how I can install <strong><a href="https://www.unixtutorial.org/install-brave-browser-with-homebrew">Brave browser</a></strong> using <strong>homebrew_cask</strong> module:</p>
+
+
+
+<pre class="wp-block-preformatted">- name: Install Brave for macOS 
+  become_user: greys
+  homebrew_cask: 
+    name: brave-browser
+    state: latest
+  tags:
+    - brave
+  when:
+    ansible_os_family == "Darwin"</pre>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><strong><a href="/software/macos">macOS</a></strong></li><li><a href="https://www.unixtutorial.org/macos-10-15-catalina-released">macOS Catalina</a></li><li><a href="https://www.unixtutorial.org/software/ansible">Ansible</a></li></ul>
+<img src="http://feedpress.me/15217/12906239.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/install-software-with-homebrew-in-ansible/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3503</post-id>
+    </item>
+    <item>
+      <title>Project: Compile exFAT-FUSE in RHEL 8</title>
+      <link>http://tracking.feedpress.it/link/15217/12901050</link>
+      <comments>https://www.unixtutorial.org/project-compile-exfat-fuse-in-rhel-8#disqus_thread</comments>
+      <pubDate>Wed, 16 Oct 2019 07:17:14 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[News]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3497</guid>
+      <description><![CDATA[Compiled ExFAT-FUSE binaries in RHEL 8 I have a large external SSD disk attached to my new desktop, and because I multiboot between Windows and different versions of Linux, I decided to keep it factory formatted with exFAT, which is an extended FAT32 implementation easily accessible from all of the operating systems for both read [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/exfat-binaries-rhel8-1-1024x377.png" alt="" class="wp-image-3500" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-1-1024x377.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-1-300x110.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-1-768x283.png 768w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-1-270x100.png 270w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-1.png 1370w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Compiled ExFAT-FUSE binaries in RHEL 8</strong></figcaption></figure>
+
+
+
+<p>I have a large external SSD disk attached to my new desktop, and because I multiboot between Windows and different versions of Linux, I decided to keep it factory formatted with exFAT, which is an extended FAT32 implementation easily accessible from all of the operating systems for both read and write operations. </p>
+
+
+
+<p>In today's <strong><a href="/projects">Unix Tutorial project</a></strong> I compile <strong>exFAT-FUSE</strong> software to accesse the exFAT partition from that external disk my RHEL 8 PC.</p>
+
+
+
+
+
+
+
+<h2>What is exFAT</h2>
+
+
+
+<p>FAT32 and ExFAT originate from Windows. It's a family of filesystems that are native to Windows but go back to MS-DOS roots so the format is generally well-known, well-documented and widely implemented in moder Unix and Linux systems.</p>
+
+
+
+<h2>What is exFAT-FUSE</h2>
+
+
+
+<p>Usually filesystems require kernel modules to be providing desired functionality. Working with filesystems is considered to be low-level enough functionality that they're done in kernel space (vs regular programs that run in user space).</p>
+
+
+
+<p>But when this functionality is not easily available, it's possible to get some filesystem drivers working in the userspace, by using FUSE technology.</p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Filesystem_in_Userspace">FUSE means Filesystem in USEr space</a>. It requires no kernel module for it to work, provided that functionality is slightly limited.</p>
+
+
+
+<p><strong>exFAT-FUSE</strong> is an example of FUSE implementation of filesystem driver &#8211; you compile binaries and  run commands without any updates to Linux kernel or modules.</p>
+
+
+
+<h2>Installing exFAT Packages from EPEL</h2>
+
+
+
+<p>Usual approach is to use the <strong>EPEL repository</strong> and install exFAT utils from it&#8230; </p>
+
+
+
+<p>Unfortunately, exfat packages are not available in RHEL 8 version of EPEL repository yet:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:~ # <strong>yum --disablerepo="*" --enablerepo="epel" list available | grep exfat</strong>
+root@redhat:~ #</pre>
+
+
+
+<p>This leaves us with the option of compiling exfat-fuse package ourselves.</p>
+
+
+
+<p><strong>IMPORTANT</strong>: you need to have development tools (automake, autoconf, make, gcc and a few other bits and pieces) installed on your <strong><a href="/reference/rhel8">RHEL 8</a></strong> system before going through the rest of procedure. </p>
+
+
+
+<p>You can install these tools using <strong>dnf</strong>:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:~ # <strong>dnf group install "Development Tools"</strong></pre>
+
+
+
+<h2>Compile exFAT-FUSE in RHEL 8</h2>
+
+
+
+<p>Let's download the <strong>exfat-fuse</strong> source code from GitHub:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:~ # <strong>cd /dist</strong>
+root@redhat:/dist # <strong>git clone https://github.com/relan/exfat.git</strong>
+Cloning into 'exfat'…
+remote: Enumerating objects: 3394, done.
+remote: Total 3394 (delta 0), reused 0 (delta 0), pack-reused 3394
+Receiving objects: 100% (3394/3394), 657.61 KiB | 1.58 MiB/s, done.
+Resolving deltas: 100% (2184/2184), done.</pre>
+
+
+
+<p>Now prepare the configuration files for compiling:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/dist # <strong>cd exfat</strong>
+root@redhat:/dist/exfat # <strong>autoreconf --install</strong>
+configure.ac:32: installing './ar-lib'
+configure.ac:29: installing './compile'
+configure.ac:34: installing './config.guess'
+configure.ac:34: installing './config.sub'
+configure.ac:28: installing './install-sh'
+configure.ac:28: installing './missing'
+dump/Makefile.am: installing './depcomp'</pre>
+
+
+
+<p>&#8230; and attempt running the <strong>configure</strong> script:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/dist/exfat # ./configure --prefix=/soft
+checking for a BSD-compatible install… /bin/install -c
+checking whether build environment is sane… yes
+checking for a thread-safe mkdir -p… /bin/mkdir -p
+checking for gawk… gawk
+checking whether make sets $(MAKE)… yes
+checking whether make supports nested variables… yes
+checking for gcc… gcc
+checking whether the C compiler works… yes
+checking for C compiler default output file name… a.out
+checking for suffix of executables… 
+checking whether we are cross compiling… no
+checking for suffix of object files… o
+checking whether we are using the GNU C compiler… yes
+checking whether gcc accepts -g… yes
+checking for gcc option to accept ISO C89… none needed
+checking whether gcc understands -c and -o together… yes
+checking whether make supports the include directive… yes (GNU style)
+checking dependency style of gcc… gcc3
+checking for gcc option to accept ISO C99… none needed
+checking for ranlib… ranlib
+checking for ar… ar
+checking the archiver (ar) interface… ar
+checking for special C compiler options needed for large files… no
+checking for _FILE_OFFSET_BITS value needed for large files… no
+checking build system type… x86_64-pc-linux-gnu
+checking host system type… x86_64-pc-linux-gnu
+checking for pkg-config… /bin/pkg-config
+checking pkg-config is at least version 0.9.0… yes
+checking for UBLIO… no
+checking for FUSE… no
+configure: error: Package requirements (fuse) were not met:
+<strong>Package 'fuse', required by 'virtual:world', not found</strong>
+Consider adjusting the PKG_CONFIG_PATH environment variable if you installed software in a non-standard prefix.
+
+Alternatively, you may set the environment variables FUSE_CFLAGS and FUSE_LIBS to avoid the need to call pkg-config.
+
+See the pkg-config man page for more details.</pre>
+
+
+
+<p>Ok, that didn't work. Need the FUSE development library installed:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/dist/exfat # <strong>yum install fuse-devel</strong>
+Updating Subscription Management repositories.
+Last metadata expiration check: 0:01:03 ago on Tue 15 Oct 2019 08:48:59 IST.
+
+Dependencies resolved.
+
+Package       Arch      Version         Repository                        Size
+
+Installing:
+  fuse-devel    x86_64    2.9.7-12.el8    rhel-8-for-x86_64-baseos-rpms     43 k</pre>
+
+
+
+<p>This time <strong>configure</strong> works:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/dist/exfat # ./configure --prefix=/soft
+checking for a BSD-compatible install… /bin/install -c
+checking whether build environment is sane… yes
+checking for a thread-safe mkdir -p… /bin/mkdir -p
+checking for gawk… gawk
+checking whether make sets $(MAKE)… yes
+checking whether make supports nested variables… yes
+checking for gcc… gcc
+checking whether the C compiler works… yes
+checking for C compiler default output file name… a.out
+checking for suffix of executables… 
+checking whether we are cross compiling… no
+checking for suffix of object files… o
+checking whether we are using the GNU C compiler… yes
+checking whether gcc accepts -g… yes
+checking for gcc option to accept ISO C89… none needed
+checking whether gcc understands -c and -o together… yes
+checking whether make supports the include directive… yes (GNU style)
+checking dependency style of gcc… gcc3
+checking for gcc option to accept ISO C99… none needed
+checking for ranlib… ranlib
+checking for ar… ar
+checking the archiver (ar) interface… ar
+checking for special C compiler options needed for large files… no
+checking for _FILE_OFFSET_BITS value needed for large files… no
+checking build system type… x86_64-pc-linux-gnu
+checking host system type… x86_64-pc-linux-gnu
+checking for pkg-config… /bin/pkg-config
+checking pkg-config is at least version 0.9.0… yes
+checking for UBLIO… no
+checking for FUSE… yes
+checking that generated files are newer than configure… done
+configure: creating ./config.status
+config.status: creating libexfat/Makefile
+config.status: creating dump/Makefile
+config.status: creating fsck/Makefile
+config.status: creating fuse/Makefile
+config.status: creating label/Makefile
+config.status: creating mkfs/Makefile
+config.status: creating Makefile
+config.status: creating libexfat/config.h
+config.status: executing depfiles commands</pre>
+
+
+
+<p>Let's make the software. Make command compiles source codes into binary objects and eventually gives us executable files with commands that we can execute. End result of making exFAT-FUSE will be a number of exFAT specific commands for creating and mounting exFAT filesystems.</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/dist/exfat # make
+Making all in libexfat
+make[1]: Entering directory '/dist/exfat/libexfat'
+(CDPATH="${ZSH_VERSION+.}:" &amp;&amp; cd .. &amp;&amp; /bin/sh /dist/exfat/missing autoheader)
+rm -f stamp-h1
+touch config.h.in
+cd .. &amp;&amp; /bin/sh ./config.status libexfat/config.h
+config.status: creating libexfat/config.h
+config.status: libexfat/config.h is unchanged
+make  all-am
+make[2]: Entering directory '/dist/exfat/libexfat'
+...
+mv -f .deps/mkexfatfs-vbr.Tpo .deps/mkexfatfs-vbr.Po
+gcc  -g -O2   -o mkexfatfs mkexfatfs-cbm.o mkexfatfs-fat.o mkexfatfs-main.o mkexfatfs-mkexfat.o mkexfatfs-rootdir.o mkexfatfs-uct.o mkexfatfs-uctc.o mkexfatfs-vbr.o ../libexfat/libexfat.a 
+make[1]: Leaving directory '/dist/exfat/mkfs'
+make[1]: Entering directory '/dist/exfat'
+make[1]: Nothing to be done for 'all-am'.
+make[1]: Leaving directory '/dist/exfat'</pre>
+
+
+
+<p>That's done. Now we need to install the software, for this we run <strong>make install</strong>:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/dist/exfat # make install
+Making install in libexfat
+make[1]: Entering directory '/dist/exfat/libexfat'
+make[2]: Entering directory '/dist/exfat/libexfat'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/dist/exfat/libexfat'
+make[1]: Leaving directory '/dist/exfat/libexfat'
+Making install in dump
+make[1]: Entering directory '/dist/exfat/dump'
+make[2]: Entering directory '/dist/exfat/dump'
+ /bin/mkdir -p '/soft/sbin'
+  /bin/install -c dumpexfat '/soft/sbin'
+ /bin/mkdir -p '/soft/share/man/man8'
+ /bin/install -c -m 644 dumpexfat.8 '/soft/share/man/man8'
+make[2]: Leaving directory '/dist/exfat/dump'
+make[1]: Leaving directory '/dist/exfat/dump'
+Making install in fsck
+make[1]: Entering directory '/dist/exfat/fsck'
+make[2]: Entering directory '/dist/exfat/fsck'
+ /bin/mkdir -p '/soft/sbin'
+  /bin/install -c exfatfsck '/soft/sbin'
+make  install-exec-hook
+...
+make[3]: Entering directory '/dist/exfat/mkfs'
+ln -sf mkexfatfs /soft/sbin/mkfs.exfat
+make[3]: Leaving directory '/dist/exfat/mkfs'
+ /bin/mkdir -p '/soft/share/man/man8'
+ /bin/install -c -m 644 mkexfatfs.8 '/soft/share/man/man8'
+make[2]: Leaving directory '/dist/exfat/mkfs'
+make[1]: Leaving directory '/dist/exfat/mkfs'
+make[1]: Entering directory '/dist/exfat'
+make[2]: Entering directory '/dist/exfat'
+make[2]: Nothing to be done for 'install-exec-am'.
+make[2]: Nothing to be done for 'install-data-am'.
+make[2]: Leaving directory '/dist/exfat'
+make[1]: Leaving directory '/dist/exfat'</pre>
+
+
+
+<p>We now can go into <strong>/soft/sbin</strong> directory and find new binaries we just installed:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/exfat-binaries-rhel8-1024x377.png" alt="" class="wp-image-3498" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-1024x377.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-300x110.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-768x283.png 768w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8-270x100.png 270w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/exfat-binaries-rhel8.png 1370w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/dist/exfat # cd /soft/sbin
+root@redhat:/soft # ls
+deluge  sbin  share
+root@redhat:/soft # cd s
+-bash: cd: s: No such file or directory
+root@redhat:/soft # cd sbin/
+root@redhat:/soft/sbin # ls
+dumpexfat  exfatlabel  mkexfatfs   mount.exfat
+exfatfsck  fsck.exfat  mkfs.exfat  mount.exfat-fuse
+root@redhat:/soft/sbin # ./m
+mkexfatfs         mkfs.exfat        mount.exfat       mount.exfat-fuse
+
+Transaction Summary
+
+Install  1 Package
+
+Total download size: 43 k
+Installed size: 124 k
+Is this ok [y/N]: y
+Downloading Packages:
+
+fuse-devel-2.9.7-12.el8.x86_64.rpm               17 kB/s |  43 kB     00:02    
+Total                                            17 kB/s |  43 kB     00:02     
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+ Preparing        :                                                        1/1 
+  Installing       : fuse-devel-2.9.7-12.el8.x86_64                         1/1 
+  Running scriptlet: fuse-devel-2.9.7-12.el8.x86_64                         1/1 
+  Verifying        : fuse-devel-2.9.7-12.el8.x86_64                         1/1 
+Installed products updated.
+
+Installed:
+  fuse-devel-2.9.7-12.el8.x86_64                                                Complete!</pre>
+
+
+
+<h2>Mount exFAT Filesystem</h2>
+
+
+
+<p>The moment of truth! </p>
+
+
+
+<p>While in the same <strong>/soft/sbin</strong> directory, let's run the <strong>mount.exfat-fuse</strong> command and attempt to mount the /dev/sdc1 filesystem again:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/soft/sbin # <strong>mkdir /exfat</strong> root@redhat:/soft/sbin # <strong>./mount.exfat-fuse /dev/sdc1 /exfat </strong>FUSE exfat 1.3.0 </pre>
+
+
+
+<p>Success!</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/soft/sbin # <strong>df -h /exfat</strong>
+Filesystem      Size  Used Avail Use% Mounted on 
+/dev/sdc1       932G  556G  377G  60% /exfat</pre>
+
+
+
+<p>That's it! It's been fun <img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/projects"><strong>Unix Tutorial Projects</strong></a></li><li><a href="https://www.unixtutorial.org/project-connect-lg-5k-display-to-pc">Project: Connect LG 5K Dispaly to PC via USB-C Thunderbolt 3</a></li><li><a href="https://www.unixtutorial.org/reference/rhel-8">RHEL 8</a></li><li><a href="https://www.unixtutorial.org/software/redhat-linux">Red Hat Linux</a></li><li><a href="https://www.unixtutorial.org/yum-list-installed-packages">List installed packages with yum</a></li><li><a href="/commands">Unix commands</a></li><li><a href="/commands/mount">mount command</a></li><li><a href="/commands/fsck">fsck command</a></li></ul>
+<img src="http://feedpress.me/15217/12901050.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/project-compile-exfat-fuse-in-rhel-8/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3497</post-id>
+    </item>
+    <item>
+      <title>Quickly Finding files in macOS with mdfind</title>
+      <link>http://tracking.feedpress.it/link/15217/12899995</link>
+      <comments>https://www.unixtutorial.org/quickly-finding-files-in-macos-with-mdfind#disqus_thread</comments>
+      <pubDate>Tue, 15 Oct 2019 22:54:53 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[Mac OS]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3502</guid>
+      <description><![CDATA[macOS Mojave I've just learned about a super cool command in macOS: mdind. It consults a database to find files using type or filename. mdfind is quite similar to locate command, I think, but more powerful? Find file by filename with mdfind macOS comes with Apache webserver pre-installed &#8211; you just need to configure and [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://www.unixtutorial.org/images/MacOS-Mojave.png" alt="" class="wp-image-2122" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/MacOS-Mojave.png 460w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/MacOS-Mojave-300x209.png 300w" sizes="(max-width: 460px) 100vw, 460px" /><figcaption><strong>macOS Mojave</strong></figcaption></figure></div>
+
+
+
+<p>I've just learned about a super cool command in <a href="/software/macos">macOS</a>: <strong>mdind</strong>. It consults a database to find files using type or filename. <strong>mdfind</strong> is quite similar to <a href="/commands/locate">locate command</a>, I think, but more powerful?</p>
+
+
+
+<h2>Find file by filename with mdfind</h2>
+
+
+
+<p><a href="/software/macos">macOS</a> comes with Apache webserver pre-installed &#8211; you just need to configure and active it. It starts with <strong>httpd.conf</strong> file, that is tricky to find unless you know where to look.</p>
+
+
+
+<p><strong>mdfind</strong> instantly solves this challenge:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@maverick:~ $ <strong>mdfind -name httpd.conf</strong>
+/private/etc/apache2/httpd.conf.pre-update
+/private/etc/apache2/original/httpd.conf
+/private/etc/apache2/httpd.conf</pre>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/macos-commands">macOS commands</a></li><li><a href="/basic-unix-commands">Basic Unix commands</a></li><li><a href="/commands/locate">locate command</a></li><li><a href="/commands/find">find command</a></li></ul>
+<img src="http://feedpress.me/15217/12899995.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/quickly-finding-files-in-macos-with-mdfind/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3502</post-id>
+    </item>
+    <item>
+      <title>How To Generate ed25519 SSH Key</title>
+      <link>http://tracking.feedpress.it/link/15217/12896876</link>
+      <comments>https://www.unixtutorial.org/how-to-generate-ed25519-ssh-key#disqus_thread</comments>
+      <pubDate>Mon, 14 Oct 2019 22:57:21 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[How-To]]></category>
+      <category><![CDATA[Security]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3493</guid>
+      <description><![CDATA[Today I'm generating myself a new ed25519 SSH keypair.]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-10-14-at-23.55.07-1024x670.png" alt="" class="wp-image-3494" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-14-at-23.55.07-1024x670.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-14-at-23.55.07-300x196.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-14-at-23.55.07-768x503.png 768w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-14-at-23.55.07.png 1088w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Generating ed25519 SSH Key</strong></figcaption></figure>
+
+
+
+<p>I'm hoping to reinstall my MacBook Pro 15" 2017 with a fresh <a href="/macos-10-15-catalina-released">macOS Catalina</a> sometime soon, and part of preparations is testing my install methods (hello, <a href="/software/homebrew">brew</a>!) and <a href="https://www.unixtutorial.org/manage-settings-with-dotfiles">configuration files</a> migration. Today I decided to <strong>setup a new SSH keypair</strong>.</p>
+
+
+
+<h2>What is ed25519?</h2>
+
+
+
+<p>ed25519 is a relatively new cryptography solution implementing Edwards-curve Digital Signature Algorithm (EdDSA). </p>
+
+
+
+<p>I say relatively, because ed25519 is supported by OpenSSH for about 5 years now &#8211; so it wouldn't be considered a cutting edge. Still, people are such creatures of habits that many IT professionals daily using SSH/SCP haven't even heard of this key type. </p>
+
+
+
+<p>Similarly, not all the software solutions are supporting ed25519 right now &#8211; but SSH implementatinos in most modern Operating Systems certainly support it.</p>
+
+
+
+<h2>Why ed25519 Key is a Good Idea</h2>
+
+
+
+<p>Compared to the most common type of SSH key &#8211; RSA &#8211; ed25519 brings a number of cool improvements:</p>
+
+
+
+<ul><li>it's faster: to generate and to verify</li><li>it's more secure</li><li>collision resilience &#8211; this means that it's more resilient against hash-function collision attacks (types of attacks where large numbers of keys are generated with the hope of getting two different keys have matching hashes)</li><li>keys are smaller &#8211; this, for instance, means that it's easier to transfer and to copy/paste them</li></ul>
+
+
+
+<h2>Generate ed25519 SSH Key</h2>
+
+
+
+<p>Here's the command to generate an ed25519 SSH key:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@mcfly:~ $ <strong>ssh-keygen -t ed25519 -C "gleb@reys.net"</strong>
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/Users/greys/.ssh/id_ed25519):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /Users/greys/.ssh/id_ed25519.
+Your public key has been saved in /Users/greys/.ssh/id_ed25519.pub.
+The key fingerprint is:
+SHA256:FHsTyFHNmvNpw4o7+rp+M1yqMyBF8vXSBRkZtkQ0RKY gleb@reys.net
+The key's randomart image is:
++--[ED25519 256]--+
+|       */Xoo     |
+|  . . .===..o    |
+|   + .Eo+.oo     |
+|    o ..o.+.     |
+|   .   .S  + .   |
+|  . .     . *    |
+|   . . . + o .   |
+|      o O .      |
+|     .*Xo=       |
++----[SHA256]-----+</pre>
+
+
+
+<p>That's it &#8211; this <a href="https://www.unixtutorial.org/deploy-your-ssh-key-to-remote-server">keypair is ready to be deployed to SSH servers</a>, GitHub or any other service that can use them.</p>
+
+
+
+<p>Check out how short the public key is:</p>
+
+
+
+<pre class="wp-block-preformatted">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK0wmN/Cr3JXqmLW7u+g9pTh+wyqDHpSQEIQczXkVx9q gleb@reys.net</pre>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/reference/ssh"><strong>SSH Reference</strong></a></li><li><strong><a href="https://www.unixtutorial.org/passwordless-ssh">Passwordless SSH</a></strong></li><li><a href="https://www.unixtutorial.org/ssh-port-forwarding">SSH Port Forwarding</a></li><li><a href="https://www.unixtutorial.org/ssh-port"><strong>SSH Port</strong></a></li><li><a href="https://www.unixtutorial.org/using-multiple-ssh-ports">Use multiple ports with SSH</a></li><li><a href="https://www.unixtutorial.org/how-to-inspect-ssh-key-fingerprints">Check SSH key fingerprint</a></li><li><a href="https://www.unixtutorial.org/commands/ssh">ssh command</a></li></ul>
+
+
+
+<p></p>
+<img src="http://feedpress.me/15217/12896876.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/how-to-generate-ed25519-ssh-key/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3493</post-id>
+    </item>
+    <item>
+      <title>ZFS on root in Ubuntu 19.10</title>
+      <link>http://tracking.feedpress.it/link/15217/12888844</link>
+      <comments>https://www.unixtutorial.org/zfs-on-root-in-ubuntu-19-10#disqus_thread</comments>
+      <pubDate>Thu, 10 Oct 2019 22:50:01 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[News]]></category>
+      <category><![CDATA[Ubuntu]]></category>
+      <category><![CDATA[zfs]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3491</guid>
+      <description><![CDATA[Ubuntu 19.10 Just read about ZFS making it into Ubuntu 19.10 installer as an experimental feature here, sounds pretty cool! What is ZFS? ZFS (originally called Zettabyte File System) is a revolutionary filesystem introduced by Sun Microsystems in 2005. ZFS took a few years to crystallise and was eventually shipped with Solaris 10 in 2009. [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/ubuntu-linux-logo.png" alt="" class="wp-image-2856" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/ubuntu-linux-logo.png 540w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/ubuntu-linux-logo-300x135.png 300w" sizes="(max-width: 540px) 100vw, 540px" /><figcaption><strong>Ubuntu 19.10</strong></figcaption></figure>
+
+
+
+<p>Just read about ZFS making it into <strong><a href="https://www.unixtutorial.org/software/ubuntu">Ubuntu 19.10</a></strong> installer as an experimental feature <a href="https://ubuntu.com/blog/enhancing-our-zfs-support-on-ubuntu-19-10-an-introduction">here</a>, sounds pretty cool!</p>
+
+
+
+<h2>What is ZFS?</h2>
+
+
+
+<p>ZFS  (originally called Zettabyte File System) is a revolutionary filesystem introduced by Sun Microsystems in 2005. ZFS took a few years to crystallise and was eventually shipped with Solaris 10 in 2009. It brought a number of fresh ideas to the world of enterprise storage and <a href="https://solaris.reys.net/zfs-managing-filesystems/">ZFS management of filesystems</a>:</p>
+
+
+
+<ul><li>new parity checking modes, even more reliable than RAID5/RAID6</li><li>storage pool that can consist of different sized disks (typically you expect all disks to be of the same size and model)</li><li>self-healing </li><li>extra focus on the data consistency on disk &#8211; meaning ZFS caters for typical software and hardware errors</li><li>smart implementation and use of filesystem journaling</li><li>snapshots</li><li>data deduplication </li></ul>
+
+
+
+<h2>ZFS in Ubuntu 19.10</h2>
+
+
+
+<p>To be clear, this is big deal not because ZFS is finally available in Ubuntu &#8211; it's been around for quite some time thanks to the <a href="https://zfsonlinux.org/">ZFS  on Linux</a> project. But this is the first time native support will be available in <strong><a href="https://www.unixtutorial.org/software/ubuntu">Ubuntu</a></strong> installer and also allow you to not just ZFS enable data disks but use it for root partition.</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li>My <strong><a href="https://solaris.reys.net">Solaris Blog</a></strong></li><li><a href="https://solaris.reys.net/basic-zfs-example">ZFS example</a></li><li><a href="https://solaris.reys.net/zfs-managing-filesystems/">Managing ZFS filesystems</a></li><li><a href="https://solaris.reys.net/whats-new-in-solaris-10/">Solaris 10 (which introduced ZFS)</a></li></ul>
+<img src="http://feedpress.me/15217/12888844.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/zfs-on-root-in-ubuntu-19-10/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3491</post-id>
+    </item>
+    <item>
+      <title>How To Install Appimage Software Packages</title>
+      <link>http://tracking.feedpress.it/link/15217/12886243</link>
+      <comments>https://www.unixtutorial.org/how-to-install-appimage-software-packages#disqus_thread</comments>
+      <pubDate>Wed, 09 Oct 2019 22:58:57 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[News]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3482</guid>
+      <description><![CDATA[Unix Tutorial &#8211; Facebook Group You may have seen that some software is distributed not as RPM (native Red Hat/Fedora/CentOS), not as DEB file (Debian, Ubuntu, Linux Mint) but as Appimage files. Today's post shows how to install software from Appimage. Attempting to Open Appimage File Typically you would download an Appimage file and try [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/unix-tutorial-website-logo-1-1024x243.png" alt="Unix Tutorial - Facebook Group" class="wp-image-2007" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/unix-tutorial-website-logo-1-1024x243.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/unix-tutorial-website-logo-1-300x71.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/unix-tutorial-website-logo-1-768x182.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Unix Tutorial &#8211; Facebook Group</figcaption></figure>
+
+
+
+<p>You may have seen that some software is distributed not as RPM (native Red Hat/Fedora/CentOS), not as DEB file (Debian, Ubuntu, Linux Mint) but as Appimage files. Today's post shows how to install software from Appimage.</p>
+
+
+
+<h2>Attempting to Open Appimage File</h2>
+
+
+
+<p>Typically you would download an Appimage file and try to open it from the file manager of your choice. In Ubuntu 19.04 I got the following when double-clicking the freshly downloaded Appimage file:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/attempting-to-run-appimage-1024x239.png" alt="" class="wp-image-3483" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/attempting-to-run-appimage-1024x239.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/attempting-to-run-appimage-300x70.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/attempting-to-run-appimage-768x179.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>How To Run Appimage File</h2>
+
+
+
+<p>The thing is, you need to make the downloaded Appimage file executable using chmod command. Open the Terminal app, find the file (in my case it's in /home/greys/Downloads), check its current permissions:</p>
+
+
+
+<p>Now make the file executable:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@xps:~/Downloads $ <strong>ls -la *AppImage</strong>
+-rw-rw-r-- 1 greys 80446710 Oct  9 23:26 standard-notes-3.0.17-x86_64.AppImage</pre>
+
+
+
+<p>&#8230; and run it:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@xps:~/Downloads $ <strong>chmod a+rx standard-notes-3.0.17-x86_64.AppImage</strong></pre>
+
+
+
+<p>I got the following prompt shown:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/integrating-appimage.png" alt="" class="wp-image-3485" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/integrating-appimage.png 484w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/integrating-appimage-182x300.png 182w" sizes="(max-width: 484px) 100vw, 484px" /></figure>
+
+
+
+<p>And that was it, the app (<strong>Standard Notes</strong>) ran:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/running-standard-note-from-appimage-1024x745.png" alt="" class="wp-image-3487" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/running-standard-note-from-appimage-1024x745.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/running-standard-note-from-appimage-300x218.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/running-standard-note-from-appimage-768x559.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Standard Note app in Linux</figcaption></figure>
+
+
+
+<p>&#8230; and started showing output in the console:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@xps:~/Downloads $ ./standard-notes-3.0.17-x86_64.AppImage 
+Unable to read JSON file /home/greys/.config/Standard Notes/Updates/settings.json
+Checking for updates…
+[20:36:03:0082] [info] Checking for update
+[20:36:03:0674] [info] Generated new staging user ID: c3f01e63-16bb-543e-90c1-dae92caa5488
+Finished checking for updates. Latest version: 3.0.17 Current version: 3.0.17
+[20:36:05:0388] [info] Update for version 3.0.17 is not available (latest version: 3.0.17, downgrade is disallowed).
+Syncing components: 1
+Syncing components: 1
+Syncing components: 1
+Data backup succesfully saved:  2019-10-09T20-36-15.181Z.txt
+Syncing components: 1t</pre>
+
+
+
+<p>So, to sum up, the way to use Appimage files is to download them, make them executable and then run. I imagine there usual security measures of double-checking checksums should apply, otherwise there's a risk of downloading and running something that's not a package but a malicious software only pretenting to be one.</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li>Debian Linux</li><li>Ubuntu Linux</li><li>Linux Mint</li><li>Red Hat Linux</li><li>CentOS Linux</li></ul>
+<img src="http://feedpress.me/15217/12886243.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/how-to-install-appimage-software-packages/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3482</post-id>
+    </item>
+    <item>
+      <title>chown example: recursive update</title>
+      <link>http://tracking.feedpress.it/link/15217/12882834</link>
+      <comments>https://www.unixtutorial.org/chown-example-recursive-update#disqus_thread</comments>
+      <pubDate>Tue, 08 Oct 2019 22:12:07 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[Basic stuff]]></category>
+      <category><![CDATA[chown]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3480</guid>
+      <description><![CDATA[chown is a basic Unix command, super useful and very powerful. I have provided a chown example earlier, but would like to show another common way it's used.]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/chown-user-group-file-1.jpg-1.jpg" alt="" class="wp-image-2550" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/chown-user-group-file-1.jpg-1.jpg 712w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/chown-user-group-file-1.jpg-1-300x169.jpg 300w" sizes="(max-width: 712px) 100vw, 712px" /><figcaption><strong>chown command</strong></figcaption></figure>
+
+
+
+<p><strong><a href="/commands/chown">chown</a></strong> is a <a href="/basic-unix-command">basic Unix command</a>, super useful and very powerful. I have provided a <strong><a href="https://www.unixtutorial.org/chown-example">chown example</a></strong> earlier, but would like to show another common way it's used.</p>
+
+
+
+<h2>chown: update ownership recursively</h2>
+
+
+
+<p><a href="https://www.unixtutorial.org/chown-example">chown command</a> uses -R option to apply changes recursively.</p>
+
+
+
+<p>For example, if I have a <strong>/Users/greys/unixtutorial</strong> directory with the following layout:</p>
+
+
+
+<pre class="wp-block-preformatted">file1<br>file2<br>dir1/file3</pre>
+
+
+
+<p>&#8230; then it's very easy to show the difference between chown and chown -R commands.</p>
+
+
+
+<p>Let's go to the <strong>/Users/greys/unixtutorial</strong> directory:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@maverick:~ $ cd /Users/greys/unixtutorial<br>greys@maverick:~/unixtutorial $</pre>
+
+
+
+<p>Now, let's look at the files with the <strong><a href="/commands/ls">ls command</a></strong>:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@maverick:~/unixtutorial $ ls -al *
+ -rw-r--r--  1 greys  staff  0  8 Oct 22:55 <strong>file1</strong>
+ -rw-r--r--  1 greys  staff  0  8 Oct 22:55 <strong>file2</strong>
+<strong>dir1</strong>:
+ total 0
+ drwxr-xr-x  3 greys  staff   96  8 Oct 22:55 .
+ drwxr-xr-x  5 greys  staff  160  8 Oct 22:55 ..
+ -rw-r--r--  1 greys  staff    0  8 Oct 22:55 <strong>file3</strong></pre>
+
+
+
+<p>Everything belongs to my own user, <strong>greys</strong> and my primary group: <strong>staff</strong>.</p>
+
+
+
+<p>Time to change ownership of everything in the current directory:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@maverick:~/unixtutorial $ <strong>sudo chown root:wheel *</strong></pre>
+
+
+
+<p>Checking files with <strong><a href="/commands/ls">ls </a></strong>again, I can see that immediate contents of the /Users/greys/unixtutorial directory (where I was at the time of running chown) got updated ownership: file1 and file2, along with dir1, now belong to root:wheel. </p>
+
+
+
+<p>But <strong>file3</strong> was in a <strong>dir1</strong> subdirectory, so it stayed intact and still belongs to greys:staff:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@maverick:~/unixtutorial $ ls -al *
+
+-rw-r--r--  1 root  wheel  0  8 Oct 22:55 file1
+
+-rw-r--r--  1 root  wheel  0  8 Oct 22:55 file2
+dir1:
+ total 0
+ drwxr-xr-x  3 root   wheel   96  8 Oct 22:55 .
+ drwxr-xr-x  5 root   wheel  160  8 Oct 22:55 ..
+ -<strong>rw-r--r--  1 greys  staff    0  8 Oct 22:55 file3</strong></pre>
+
+
+
+<p>That's because without the -R (recursive) option, <strong><a href="/commands/chown">chown</a></strong> will only inspect and update files in the current directory, but not in any of its subdirectories (or their subdirectories, and so on).</p>
+
+
+
+<p>Running the same command with -R option does the trick:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@maverick:~/unixtutorial $ <strong>sudo chown -R root:wheel *</strong>
+greys@maverick:~/unixtutorial $ ls -al *
+-rw-r--r--  1 root  wheel  0  8 Oct 22:55 file1
+-rw-r--r--  1 root  wheel  0  8 Oct 22:55 file2
+dir1:
+total 0
+drwxr-xr-x  3 root  wheel   96  8 Oct 22:55 .
+drwxr-xr-x  5 root  wheel  160  8 Oct 22:55 ..
+<strong>-rw-r--r--  1 root  wheel    0  8 Oct 22:55 file3</strong></pre>
+
+
+
+<p>Hope you learned something new, come back for more!</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/basic-unix-commands"><strong>Unix Basic Commands</strong></a></li><li><strong><a href="/commands/ls">ls</a></strong></li><li><a href="/commands/chown">chown command</a></li><li><a href="https://www.unixtutorial.org/difference-between-chmod-and-chown">chmod vs chown</a></li><li><a href="https://www.unixtutorial.org/sudo-chown">Running chown with sudo</a></li></ul>
+<img src="http://feedpress.me/15217/12882834.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/chown-example-recursive-update/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3480</post-id>
+    </item>
+    <item>
+      <title>macOS 10.15 – Catalina Released</title>
+      <link>http://tracking.feedpress.it/link/15217/12880114</link>
+      <comments>https://www.unixtutorial.org/macos-10-15-catalina-released#disqus_thread</comments>
+      <pubDate>Mon, 07 Oct 2019 22:30:16 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[Mac OS]]></category>
+      <category><![CDATA[News]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3475</guid>
+      <description><![CDATA[macOS 10.15 codenamed Catalina is finally here, available for download and install. ]]></description>
+      <content:encoded><![CDATA[
+<p>Hurray! <strong>macOS 10.15 codenamed Catalina</strong> is finally here, available for download and install. In my case, as you can see from the screenshot, it's ready to be installed any minute.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/capto_-2019-10-07_11-07-14_p.m..png" alt="" class="wp-image-3476" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/capto_-2019-10-07_11-07-14_p.m..png 800w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/capto_-2019-10-07_11-07-14_p.m.-300x233.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/capto_-2019-10-07_11-07-14_p.m.-768x597.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>macOS Catalina Installe</figcaption></figure>
+
+
+
+<p>I've watched some <a href="/software/macos">macOS</a> <a href="https://www.apple.com/ie/macos/catalina/">Catalina</a> reviews based on beta but didn't want to risk installing it on my only work laptop until the final release.</p>
+
+
+
+<h2>macOS Catalina Improvements</h2>
+
+
+
+<ul><li><strong>New separate apps for managing music, podcasts and movies</strong> &#8211; wonder what the minimised music player is like</li><li><strong>Screen Time is now managed from macOS</strong> &#8211; that's a super powerful feature for controlling what apps everyone in your familiy (kids, especially) is allowed to run at chosen time intervals</li><li><strong>Photos improvements</strong> &#8211; every version brings new things to Photos app, so I'm going to revisit it for sure</li><li><strong>Notes improvements</strong> &#8211; I've just been thinking to give Apple Notes another try for daily to-do lists cause I need interoperability with Linux (will use iCloud.com based notes on Dell XPS laptop)</li><li><strong>Voice improvements</strong> &#8211; a lot has improved even in macOS Mojave, but Catalina is meant to bring things to a whole new level. I really like what Apple is doing with voice recognition and interaction</li></ul>
+
+
+
+<h2>Notable Changes in macOS Catalina</h2>
+
+
+
+<ul><li><strong>iTunes is gone</strong> &#8211; there are now separate apps for managing music and movies</li><li><strong>Integration with Apple account</strong> &#8211; you can see Apple ID and related settings right in your System Preferences now (used to be hidden in iTunes, I think)</li><li><strong>Use your iPad as second screen</strong> &#8211; this should be fun if you have a relatively recent model of iPad and iOS &#8211; think iPad's screen is perfect for some text editing or text console for them <a href="/reference/ssh">SSH</a> sessions</li></ul>
+
+
+
+<p>That's it for now! I'm off to finish the <strong>Catalina</strong> install!</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><strong><a href="/software/macos">macOS</a></strong></li><li><a href="https://www.apple.com/ie/macos/catalina/">Official macOS Catalina page</a></li><li><a href="https://www.unixtutorial.org/install-brave-browser-with-homebrew">install Brave in macOS</a></li><li><a href="https://www.unixtutorial.org/software/homebrew">Homebrew &#8211; package manager for macOS</a></li><li><a href="https://www.unixtutorial.org/get-your-mac-to-speak-up">Make your Mac read text in different voices</a></li></ul>
+<img src="http://feedpress.me/15217/12880114.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/macos-10-15-catalina-released/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3475</post-id>
+    </item>
+    <item>
+      <title>preserve-root flag for rm command</title>
+      <link>http://tracking.feedpress.it/link/15217/12876478</link>
+      <comments>https://www.unixtutorial.org/preserve-root-flag-for-rm-command#disqus_thread</comments>
+      <pubDate>Sat, 05 Oct 2019 22:45:18 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[Advanced topics]]></category>
+      <category><![CDATA[Linux]]></category>
+      <category><![CDATA[Troubleshooting]]></category>
+      <category><![CDATA[rm]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3461</guid>
+      <description><![CDATA[rm will warn you instead of removing everything in / recursively rm command, the one used to delete files and directories, can be very dangerous if used with root privileges. It's comforting to know that most modern rm implementations attempt to help you avoid a complete disaster (of deleting everything on your OS disk). What [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-10-05-at-23.43.50.png" alt="" class="wp-image-3462" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-05-at-23.43.50.png 858w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-05-at-23.43.50-300x51.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-05-at-23.43.50-768x131.png 768w" sizes="(max-width: 858px) 100vw, 858px" /><figcaption>rm will warn you instead of removing everything in / recursively</figcaption></figure>
+
+
+
+<p><strong><a rel="noreferrer noopener" href="https://www.unixtutorial.org/commands/rm" target="_blank">rm command</a></strong>, the one used to delete files and directories, can be very dangerous if used with root privileges. It's comforting to know that most modern rm implementations attempt to help you avoid a complete disaster (of deleting everything on your OS disk).</p>
+
+
+
+<h2>What preserve-root Flag Does</h2>
+
+
+
+<p>Default behaviour of <strong><a rel="noreferrer noopener" href="https://www.unixtutorial.org/commands/rm" target="_blank">rm command</a></strong> in Linux for quite some time, <strong>preserve-root</strong> flag means that if you attempt to recursively remove the root (/) directory you would get a warning:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@stream:/ $ <strong>rm -rf /</strong><br> rm: it is dangerous to operate recursively on '/'<br> rm: use --no-preserve-root to override this failsafe</pre>
+
+
+
+<p>Why would this be dangerous? Because every directory and filesystem in Unix and Linux is mounted off root (/) path. So if you remove files/directories there recursively, you may wipe out your entire operating system (and quite a bit of mounted filesystems, if your'e really out of luck).</p>
+
+
+
+<p>Now, I'm running this command as my own regular user in the example above. So even if rm wasn't protecting me, I would still be unable to do any real harm to the OS due to core OS files being protected from accidental removal by regular users. But if I was running as root, it would have been really dangerous.<br></p>
+
+
+
+<h2>Why preserve-root is Really Useful</h2>
+
+
+
+<p>Of course, most of us would never consciously attempt removing everything under /, but here's a very typical scenario that is quite common with beginners: using unitialised variables (empty values).</p>
+
+
+
+<pre class="wp-block-preformatted">greys@stream:/ $ <strong>MYDIR=mydir</strong>
+greys@stream:/ $ <strong>echo rm -rf /${MYDIR}</strong>
+rm -rf /mydir
+greys@stream:/ $ <strong>rm -rf /${MYDIR}</strong></pre>
+
+
+
+<p>In this example above, I have a variable called MYDIR, which points to a directory. I'm runnign echo command first to verify what <strong><a rel="noreferrer noopener" href="https://www.unixtutorial.org/commands/rm" target="_blank">rm command </a></strong>will look like &#8211; and it seems correct, so I attempt it.<br><br>But if I forget to initialise the <strong>MYDIR</strong> variable, its value will be empty, meaning my command will become much more dangerous:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@stream:/ $ <strong>MYDIR=</strong>
+greys@stream:/ $ <strong>echo rm -rf /${MYDIR}</strong>
+rm -rf /
+greys@stream:/ $ <strong>rm -rf /${MYDIR}</strong>
+rm: it is dangerous to operate recursively on '/'
+rm: use --no-preserve-root to override this failsafe</pre>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/commands/rm"><strong>rm command</strong></a></li><li><a href="/commands/ls"><strong>ls command</strong></a></li><li><a href="/commands/rmdir"><strong>rmdir command</strong></a></li><li><a href="/basic-unix-commands"><strong>Basic Unix commands</strong></a></li></ul>
+<img src="http://feedpress.me/15217/12876478.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/preserve-root-flag-for-rm-command/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3461</post-id>
+    </item>
+    <item>
+      <title>Show Process Limits Using /proc Filesystem</title>
+      <link>http://tracking.feedpress.it/link/15217/12873352</link>
+      <comments>https://www.unixtutorial.org/show-process-limits-using-proc-filesystem#disqus_thread</comments>
+      <pubDate>Fri, 04 Oct 2019 13:17:48 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[Advanced topics]]></category>
+      <category><![CDATA[How-To]]></category>
+      <category><![CDATA[Linux]]></category>
+      <category><![CDATA[News]]></category>
+      <category><![CDATA[lsof]]></category>
+      <category><![CDATA[ps]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3456</guid>
+      <description><![CDATA[I think I mentioned the special /proc filesystem before, it's available in Linux distros and helps you obtain system and process information via normal files created in a special structure.  Today I'd like to show you another cool trick /proc has.]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-10-04-at-14.15.10-1024x532.png" alt="" class="wp-image-3457" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-04-at-14.15.10-1024x532.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-04-at-14.15.10-300x156.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-04-at-14.15.10-768x399.png 768w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-04-at-14.15.10.png 1254w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Show process limits with /proc filesystem</strong></figcaption></figure>
+
+
+
+<p>I think I mentioned the special <strong>/proc filesystem</strong> before, it's available in Linux distros and helps you obtain system and process information via normal files created in a special structure.  Today I'd like to show you another cool trick <strong>/proc</strong> has.</p>
+
+
+
+<h2>Show Process Info Using /proc</h2>
+
+
+
+<p>Just to remind you, here's what I mean: on my Red Hat PC I have this <strong>sshd</strong> daemon process running:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/ # <strong>ps -aef | grep [o]penssh</strong><br> root      <strong>5130</strong>     1  0 Oct03 ?        00:00:00 /usr/sbin/sshd -D -oCiphers=aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes256-ctr,aes256-cbc,aes128-gcm@openssh.com,aes128-ctr,aes128-cbc -oMACs=hmac-sha2-256-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha1,umac-128@openssh.com,hmac-sha2-512 -oGSSAPIKexAlgorithms=gss-gex-sha1-,gss-group14-sha1- -oKexAlgorithms=curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1 -oHostKeyAlgorithms=rsa-sha2-256,ecdsa-sha2-nistp256,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384,ecdsa-sha2-nistp384-cert-v01@openssh.com,rsa-sha2-512,ecdsa-sha2-nistp521,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519,ssh-ed25519-cert-v01@openssh.com,ssh-rsa,ssh-rsa-cert-v01@openssh.com -oPubkeyAcceptedKeyTypes=rsa-sha2-256,ecdsa-sha2-nistp256,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384,ecdsa-sha2-nistp384-cert-v01@openssh.com,rsa-sha2-512,ecdsa-sha2-nistp521,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519,ssh-ed25519-cert-v01@openssh.com,ssh-rsa,ssh-rsa-cert-v01@openssh.com</pre>
+
+
+
+<p>So the <strong>sshd</strong> process ID (PID) is 5130. That means I can use <strong>/proc</strong> filesystem to learn quite a bit about the process:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/ # <strong>cd /proc/5130</strong>
+root@redhat:/proc/5130 # <strong>ls</strong>
+ attr        cmdline          environ  io         mem         ns             pagemap      sched      smaps_rollup  syscall        wchan
+ autogroup   comm             exe      limits     mountinfo   numa_maps      patch_state  schedstat  stack         task
+ auxv        coredump_filter  fd       loginuid   mounts      oom_adj        personality  sessionid  stat          timers
+ cgroup      cpuset           fdinfo   map_files  mountstats  oom_score      projid_map   setgroups  statm         timerslack_ns
+ clear_refs  cwd              gid_map  maps       net         oom_score_adj  root         smaps      status        uid_map</pre>
+
+
+
+<p>Each file or directory in this /proc/5130 location shows some information specific to this PID 5130.</p>
+
+
+
+<p>For instance, if we list files in the <strong>fd</strong> directory there, we'll see all the files and sockets open by <strong>sshd</strong> at the moment:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/proc/5130 # <strong>ls -al fd/*</strong><br> lr-x------. 1 root root 64 Oct  3 14:10 fd/0 -> /dev/null<br> lrwx------. 1 root root 64 Oct  3 14:10 fd/1 -> 'socket:[39555]'<br> lrwx------. 1 root root 64 Oct  3 14:10 fd/2 -> 'socket:[39555]'<br> lr-x------. 1 root root 64 Oct  3 14:10 fd/3 -> /dev/urandom<br> lr-x------. 1 root root 64 Oct  3 14:10 fd/4 -> /var/lib/sss/mc/passwd<br> lrwx------. 1 root root 64 Oct  3 14:10 fd/5 -> 'socket:[45446]'<br> lrwx------. 1 root root 64 Oct  3 14:10 fd/6 -> 'socket:[45450]'<br> lr-x------. 1 root root 64 Oct  3 14:10 fd/7 -> /var/lib/sss/mc/group<br> lrwx------. 1 root root 64 Oct  3 14:10 fd/8 -> 'socket:[45452]'</pre>
+
+
+
+<p><strong>TODO</strong>: I'll be sure to write a separate post on the /proc filesystem with more thorough walkthrough.</p>
+
+
+
+<h2>Show Process Limits Using /proc</h2>
+
+
+
+<p>One of the files in /proc subdirectories is file called limits, and it's super useful for confirming the current OS limits applied to the process in question.</p>
+
+
+
+<p>So for the sshd process with PID 5130, here's what we can see:</p>
+
+
+
+<pre class="wp-block-preformatted">root@redhat:/proc/5130 # <strong>cat limits</strong><br> Limit                     Soft Limit           Hard Limit           Units<br> Max cpu time              unlimited            unlimited            seconds<br> Max file size             unlimited            unlimited            bytes<br> Max data size             unlimited            unlimited            bytes<br> Max stack size            8388608              unlimited            bytes<br> Max core file size        unlimited            unlimited            bytes<br> Max resident set          unlimited            unlimited            bytes<br> Max processes             127372               127372               processes<br> Max open files            1024                 4096                 files<br> Max locked memory         16777216             16777216             bytes<br> Max address space         unlimited            unlimited            bytes<br> Max file locks            unlimited            unlimited            locks<br> Max pending signals       127372               127372               signals<br> Max msgqueue size         819200               819200               bytes<br> Max nice priority         0                    0<br> Max realtime priority     0                    0<br> Max realtime timeout      unlimited            unlimited            us</pre>
+
+
+
+<p>Basically, this confirms that I haven't fine-tuned anything on this new desktop just yet &#8211; open files count of 1024 is small cause it's not a server that requires serving multiple files simultaneously.</p>
+
+
+
+<p>Hope you find this useful!</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/commands/ps">ps command</a></li><li><a href="https://www.unixtutorial.org/commands/lsof">lsof</a></li><li><a href="https://www.unixtutorial.org/show-all-tcp-connections-with-lsof">Show TCP connections with lsof</a></li><li><a href="https://www.unixtutorial.org/how-to-show-a-processes-tree-in-unix">Process tree</a></li><li><a href="https://www.unixtutorial.org/how-to-use-lsof-command">How To Use lsof command</a></li><li><a href="/basic-unix-commands"><strong>Basic Unix Commands</strong></a></li><li><a href="https://www.unixtutorial.org/how-to-check-raid-progress-with-proc-mdstat">Using /proc/mdstat</a></li><li><a href="https://www.unixtutorial.org/monitor-processes-cpu-and-memory-with-htop">Monitor processes with htop</a></li></ul>
+<img src="http://feedpress.me/15217/12873352.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/show-process-limits-using-proc-filesystem/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3456</post-id>
+    </item>
+    <item>
+      <title>Project: Connect LG 5K Display to PC</title>
+      <link>http://tracking.feedpress.it/link/15217/12871104</link>
+      <comments>https://www.unixtutorial.org/project-connect-lg-5k-display-to-pc#disqus_thread</comments>
+      <pubDate>Thu, 03 Oct 2019 15:01:50 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[Unix Tutorial Projects]]></category>
+      <category><![CDATA[lg 5k]]></category>
+      <category><![CDATA[redhat]]></category>
+      <category><![CDATA[rhel8]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3435</guid>
+      <description><![CDATA[As I mentioned, I'm building a new Linux based desktop PC &#8211; currently running RHEL 8. Since I'm planning it as a primary desktop system for my home lab, I want to eventually migrate workflows from MacBook Pro to the new PC &#8211; and this means I want to use my existging LG 5K UltraFine [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<p>As I mentioned, I'm building a new Linux based desktop PC &#8211; currently running <a href="/reference/rhel-8">RHEL 8</a>. Since I'm planning it as a primary desktop system for my home lab, I want to eventually migrate workflows from MacBook Pro to the new PC &#8211; and this means I want to use my existging LG 5K UltraFine 27" display. This seemed like an interesting <a href="/projects"><strong>Unix Tutorial Project</strong></a> from the very start!</p>
+
+
+
+<h3>Work In Progress</h3>
+
+
+
+<p><strong>WARNING</strong>: this is a work in progress article, I plan to revisit and update it in the next few weeks/months. </p>
+
+
+
+<h2>LG 5K UltraFine Display</h2>
+
+
+
+<p>This is a great 5K display that's still one of the only few options available for getting 5K resolution display in macOS without buying an iMac or iMac Pro from Apple.</p>
+
+
+
+<p>It's great for photography and excellent for day-to-day use cause all the browser, documents and terminal windows are super crisp. You'll get similar results on 4K displays available for PCs but LG 5K UltraFine has better colour gamut and screen brightness than most. </p>
+
+
+
+<p>Here's how it looks:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-10-03-at-15.18.06-1024x882.png" alt="" class="wp-image-3436" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.18.06-1024x882.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.18.06-300x258.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.18.06-768x662.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>&#8230; on the back, as you can see, there are only USB-C format ports: 1 for input and 3 for additional devices:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-10-03-at-15.18.24-1024x801.png" alt="" class="wp-image-3438" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.18.24-1024x801.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.18.24-300x235.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.18.24-768x601.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p></p>
+
+
+
+<h2>Why Using LG 5K on a PC is Tricky</h2>
+
+
+
+<p><strong>LG 5K </strong>is a stunning monitor, created by LG in collaboration with Apple, specifically for use with Apple laptops. This poses four complications for anyone planning to use LG 5K with non-Apple hardware:</p>
+
+
+
+<ol><li>You need Thunderbolt over USB-C Connectivity</li><li>You need drivers for supporting camera, microphone and ambient light sensor that are installed in the LG 5K display</li><li>You need software support for LG 5K brightness controls (there are no control buttons on this display &#8211; I kid you not!)</li><li>You need software/drivers support for the 5K display &#8211; it's called display tiling support</li></ol>
+
+
+
+<h2>LG 5K display in Linux</h2>
+
+
+
+<p>So far, I figured out Issue 1, kind of started looking into Issue 2, ignored Issue 3 altogether and spent considerable amount of time with no result on Issue 4.</p>
+
+
+
+<p>WARNING: I haven't completed this project yet, meaning I get output via USB-C connector into LG 5K Display, but it's not 5K resolution yet.</p>
+
+
+
+<h3>Display Tiling for 5K+ resolutions</h3>
+
+
+
+<p>Because many interfaces simply don't have the bandwidth to push all these 5K+ pixels at acceptable (30Hz or 60Hz) rates, there's a commmon workaround in hi-res displays, called display tiling. Resolution of 5120&#215;2880 pixels is very bandwidth hungry when it comes to video cable connection.</p>
+
+
+
+<p>Display tiling means you connect your hi-res display over multiple ports. Each port appears to be a separate display of typically half the resolution of your screen. Each of these virtual displays is called a tile, and your graphics adapter, its driver and possibly OS software should all support this tiling concept for a seamless experience &#8211; meaning your display appears to have 5K resolution, with software cleverly stitching tiles together into a single image you see. </p>
+
+
+
+<p>In LG 5K case, half the display is driven by one tile of 2560&#215;2880 pixels and another half is driven by 2nd cable and 2nd tile over it. Combined together, they give you the 5K resolution: 5120&#215;2880 pixesl. But if you have old software or driver, you may see just half the screen image or sub-5K resolution.</p>
+
+
+
+<h2>Connecting LG 5K to PC over Thunderbolt 3</h2>
+
+
+
+<p>In short, Issue 1 is: this monitor has only one input: USB-C cable that actually acts as a Thuderbolt 3 cable. The idea behind it is great: you plug this cable into a MacBook, and magic happens:</p>
+
+
+
+<ul><li>MacBook shows output onto beautiful 5K display, with HiDPI support etc</li><li>Display devices like camera start working for video calls, etc. </li><li>Any devices you have plugged via USB-C ports on the back of the LG 5K display are presented to MacBook &#8211; so 5K display becomes a USB-C hub</li><li>Best of all: MacBook is getting charged over the same cable</li></ul>
+
+
+
+<p>In practice, this is super useful: no messy cables, all the stationery devices like USB drives and printers are plugged neatly into the back ports of the display and don't even have to be touched. I plug a single cable from monitor into laptop and it all just works together!</p>
+
+
+
+<p>But if I want the same functionality from a non-Apple PC, there's immediately quite a few issues:</p>
+
+
+
+<ol><li>USB-C ports your PC has are not going to work &#8211; they're most likely USB 3.1 ports for connecting storage devices, meaning they don't have DisplayPort functionality &#8211; so you have the correct port but it doesn't have the correct functionality &#8211; no picture will be shown on the display</li><li>There are not that many graphics cards that have USB-C form-factor output that will work with such displays</li><li>There are even fewer graphics cards that can drive 5K over a single port</li></ol>
+
+
+
+<h2>Thunderbolt 3 Add-In Cards</h2>
+
+
+
+<p>So what is the solution? You need to get one of them Thunderbolt 3 Add-In Cards (AIC). This here is the one I got, <strong>Gigabyte GC-TITAN RIDGE AIC</strong>:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/titan-ridge-1024x918.jpg" alt="" class="wp-image-3444" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/titan-ridge-1024x918.jpg 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/titan-ridge-300x269.jpg 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/titan-ridge-768x689.jpg 768w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/titan-ridge.jpg 1034w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Gigabyte GC-TITAN RIDGE rev1.0 AIC</strong></figcaption></figure>
+
+
+
+<p>Specifically, there are ASUS, ASrock and Gigabyte ones that I could find:</p>
+
+
+
+<ul><li>Asus</li><li>Gigabyte</li><li>ASrock</li></ul>
+
+
+
+<h2>What Does Titan Ridge TB3 AIC Card Do?</h2>
+
+
+
+<p>AIC card provides full Thunderbolt 3 functionality &#8211; multiple 40Gbit/sec connectivity channels via USB-C ports. It's mostly meant to be a storage adapter (similar to SCSI or RAID expansion cards), in a sense that you can connect high-speed directly-attached storage (DAS) units to it like small or large disk arrays.</p>
+
+
+
+<p>BUT as it turns out, most of Thunderbolt 3 Add-In Cards also help with graphics output via USB-C interface. So you have two USB-C outputs and even a DisplayPort on my model:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/IMG_2903-1-1024x768.jpg" alt="" class="wp-image-3452" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2903-1.jpg 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2903-1-300x225.jpg 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2903-1-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>DisplayPort output on the left, 2 USB-C outputs, 2 minDisplayPort inputs</strong></figcaption></figure>
+
+
+
+<p>The way Titan Ridge TB3 card works for graphics output is that it takes one or two miniDisplayPort inputs, converts the signal (up to 8K resolution is supported, apparently!) and outputs it via USB-C cable to a compatible  display. </p>
+
+
+
+<p>What this approach means is you still need a proper graphics card (GPU) installed in your desktop, but instead of plugging display into it (which you can't do for USB-C), you do the next best thing:</p>
+
+
+
+<ol><li>you plug TB3 adapter into graphics card (most likely over 2 cables)</li><li>you plug your fancy USB-C connected monitor into the Titan Ridge TB3 card</li></ol>
+
+
+
+<p>Here's how connectors work (showing just 1 DisplayPort input for now):</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/IMG_2905-1024x768.jpg" alt="" class="wp-image-3440" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2905.jpg 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2905-300x225.jpg 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2905-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>On the left is the USB-C Thunderbolt cable going to LG 5K Display</strong></figcaption></figure>
+
+
+
+<p><strong>For LG 5K, you need to be sure to get Thunderbolt 3 card and not Thunderbolt 2 card</strong> &#8211; again, older card would have correct ports but incorrect functionality for 5K display. So it must be Thunderbold 3 card. And you definitely need 2 DisplayPort connectors going from graphics card into the Thunderbolt 3 AIC card, otherwise you'll be limited to 4K resolution.</p>
+
+
+
+<p>If you're shopping, look by the technology name, introduced by Intel. Alpine Ridge is the older model (not suitable for 5K), Titan Ridge is the one you need.</p>
+
+
+
+<p>I got myself the <strong>Gigabyte GC-Titan Ridge TB3</strong> card, because my new desktop PC has a Gigabyte motherboard.</p>
+
+
+
+<h2>Installing Titan Ridge AIC for LG 5K</h2>
+
+
+
+<p>Here are the steps I took to configure this TB3 AIC card in my desktop:</p>
+
+
+
+<p>Inspect external ports on the card to confirm their order &#8211; where 1st miniDisplayPort goes, where 1st USB-C/Thunderbolt output is, etc:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/IMG_2903-1024x768.jpg" alt="" class="wp-image-3450" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2903.jpg 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2903-300x225.jpg 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2903-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>IMPORTANT</strong>: for 5K signal you need 2 DisplayPort connectors, so it's important that you get 1st DP output on GPU into 1st DP input on the TB3 AIC card, and 2nd DP output into 2nd DP input.</p>
+
+
+
+<p>On the AIC card itself, you have a bunch of ports.:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/IMG_2906-1024x768.jpg" alt="" class="wp-image-3442" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2906.jpg 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2906-300x225.jpg 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2906-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>From left to right on this photo:</p>
+
+
+
+<ul><li>Thunderbold USB-C header (goes to your motherboard)</li><li>USB 3 header (goes to another port on your motherboard)</li><li>2 PCIe type Power connectors</li></ul>
+
+
+
+<p>I suggest you connect all of them if your motherboard and power supply allow, but in my case I ended up disabling Thunderbolt support in BIOS and letting the AIC card figure things out.</p>
+
+
+
+<h3>Put TB3 AIC Card into PCIx4 Port</h3>
+
+
+
+<p>Don't know why, but most motherboards as super picky about where you should put your Thunderbolt 3 Add-In Card: it may work anywhere, but best is to check which port is recommended. </p>
+
+
+
+<p>For my <strong>Gigabyte Titan Ridge TB3 AIC</strong>, there's this reference suggesting PCIe slot for each Gigabyte motherboard supporting it:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-10-03-at-15.42.05-1024x567.png" alt="" class="wp-image-3446" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.42.05-1024x567.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.42.05-300x166.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-03-at-15.42.05-768x426.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Motherboards with GC-TITAN RIDGE support</strong></figcaption></figure>
+
+
+
+<p>Based on the above, I actually realised my GPU was installed in the PCIe x4 slot so I moved it closer to CPU, into the fasted x16 slot available. TB3 AIC card took the place in the leftmost slot, PCIe x4:</p>
+
+
+
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/IMG_2918-768x1024.jpg" alt="" class="wp-image-3448" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2918.jpg 768w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/IMG_2918-225x300.jpg 225w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>GC-Titan Ridge card in the left PCIe x4 slot, Radeon RX580 in the PCIe x16 slot on the right</figcaption></figure>
+
+
+
+<h3>Double-check BIOS Version</h3>
+
+
+
+<p>You may need to upgrade BIOS on your motherboard for TB3 support &#8211; check manual or <a href="/contact">get in touch with me if you need help</a>.</p>
+
+
+
+<h3>Fine-Tune BIOS Settings</h3>
+
+
+
+<p>I ended up disabling Thunderbolt support (it's called Discrete Thunderbolt) in my BIOS altogether. With it enabled I could get DisplayPort output from the TB3 AIC, but not over USB-C. So after disabling support in BIOS, things started working.</p>
+
+
+
+<h2>Current Results of LG 5K to Desktop Project</h2>
+
+
+
+<ul><li>Video output works and image shows on the LG 5K display</li><li>Windows 10 fully supports 5K resolution</li><li>RHEL 8 still only shows 3K resolution &#8211; work in progress</li></ul>
+
+
+
+<p>That's it for now! Hope you learned something new &#8211; I know I did! This whole buisiness of connecting my 2 year old 5K display to a brand new PC turned out to be way more involving and educational than I expected.</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/projecs"><strong>Unix Tutorial Projects</strong></a></li><li><a href="/reference/rhel-8">RHEL 8</a></li><li><a href="https://www.unixtutorial.org/projects-install-ubuntu-19-04-on-dell-xps-13-9380">Ubuntu 19.04 on Dell XPS laptop</a></li><li><a href="https://www.unixtutorial.org/show-monitor-resolutions-with-xrandr">Show available resolutions with xrandr</a></li></ul>
+<img src="http://feedpress.me/15217/12871104.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/project-connect-lg-5k-display-to-pc/feed</wfw:commentRss>
+      <slash:comments>1</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3435</post-id>
+    </item>
+    <item>
+      <title>Run Ansible Tasks Based on OS Distribution</title>
+      <link>http://tracking.feedpress.it/link/15217/12869200</link>
+      <comments>https://www.unixtutorial.org/run-ansible-tasks-based-on-os-distribution#disqus_thread</comments>
+      <pubDate>Wed, 02 Oct 2019 20:35:28 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[CentOS]]></category>
+      <category><![CDATA[How-To]]></category>
+      <category><![CDATA[Red Hat]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3426</guid>
+      <description><![CDATA[Skipping Tasks Based on Ansible Conditionals I'm actively refreshing my Ansible setup for both servers and desktops, running mostly Red Hat Enterprise Linux and CentOS Linux. Today's quick tip is about the functionality that Ansible has for precise control of configuration management in such closely related distros. How To Run Ansible Task In Specific OS [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-10-02-at-21.20.32-1024x267.png" alt="" class="wp-image-3427" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-02-at-21.20.32-1024x267.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-02-at-21.20.32-300x78.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-02-at-21.20.32-768x200.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Skipping Tasks Based on Ansible Conditionals</strong></figcaption></figure>
+
+
+
+<p>I'm actively refreshing my <strong><a href="/software/ansible">Ansible</a></strong> setup for both servers and desktops, running mostly <a href="/software/redhat-linux">Red Hat Enterprise Linux</a> and <a href="/software/centos">CentOS Linux</a>. Today's quick tip is about the functionality that <strong>Ansible</strong> has for precise control of configuration management in such closely related distros.</p>
+
+
+
+<h2>How To Run Ansible Task In Specific OS Distribution</h2>
+
+
+
+<p><strong><a href="/software/ansible">Ansible</a></strong> has quite a few facts it collects about each managed system, they are usually established (collected) at the very start of running any playbook (unless you decide to <a href="/skip-gathering-facts-in-ansible">skip gathering facts</a>).</p>
+
+
+
+<p>A whole group of <strong>Ansible</strong> facts talks about OS distribution. Here they are as confirmed form the freshly deployed <a href="/centos-8-and-centos-stream-released">CentOS 8 Stream</a> VM:</p>
+
+
+
+<p>One of these facts is <strong>ansible_distribution</strong>:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@maverick:~/proj/ansible $ <strong>ansible stream -m setup| grep distribution</strong><br><strong>         "ansible_distribution": "CentOS",</strong><br>         "ansible_distribution_file_parsed": true,<br>         "ansible_distribution_file_path": "/etc/redhat-release",<br>         "ansible_distribution_file_variety": "RedHat",<br>         "ansible_distribution_major_version": "8",<br>         "ansible_distribution_release": "Core",<br>         "ansible_distribution_version": "8.0",</pre>
+
+
+
+<p>We can use the very first one, called ansible_distribution. For CentOS, it says "CentOS", but for <a href="/software/redhat-linux">Red Hat Enterprise Linux</a>, it will be "RedHat".</p>
+
+
+
+<h2>Example of using ansible_distribution</h2>
+
+
+
+<p>I have the following task below. It's activating <a href="/reference/rhel-8">RHEL 8</a> subscription using my account, but obviously should only be doing this for Red Hat systems. For <strong><a href="/software/centos">CentOS</a></strong>, I simply want to skip this task. </p>
+
+
+
+<p>That's why I'm checking for ansible_distribution, and as per below &#8211; the code will only run if and when the distribution is speficially <strong><a href="/software/redhat-linux">RedHat</a></strong>, and not <strong><a href="/software/centos">CentOS</a></strong> as my "<strong>stream</strong>" VM:</p>
+
+
+
+<pre class="wp-block-preformatted">- name: Register RHEL 8 against Tech Stack
+  shell: "subscription-manager register --activationkey=rhel8 --org=100XXXXX --force"
+  tags: 
+    - rhel
+  when:
+    ansible_distribution == "RedHat" </pre>
+
+
+
+<p>That's it! Even if I specify the <strong>tags=rhel</strong> filter, <strong>ansible-playbook</strong> will skip this task based on the collected facts (<strong>stream</strong> is the VM hostname):</p>
+
+
+
+<pre class="wp-block-preformatted">greys@maverick:~/proj/ansible $ ansible-playbook --tags=rhel vm.yaml
+PLAY [Tech Stack baseline] ***
+TASK [Gathering Facts] *
+ok: [stream]
+TASK [techstack : Register RHEL 8 against Tech Stack] 
+<strong>skipping: [stream]</strong>
+PLAY RECAP *
+<strong>stream</strong>                     : ok=1    changed=0    unreachable=0    failed=0    skipped=1    rescued=0    ignored=0</pre>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/software/ansible">Ansible</a></li><li><a href="/getting-started-with-ansible">Getting Started with Ansible</a></li><li><a href="/reference/rhel-8">RHEL8</a></li><li><a href="https://www.unixtutorial.org/ansible-2-0">Ansible 2.0</a></li><li><a href="/how-to-create-a-unix-group-with-ansible">Create a Unix group with Ansible</a></li><li><a href="/specify-user-per-task-in-ansible">Specify User per task in Ansible</a></li><li><a href="/running-ansible-scripts-in-dry-run-mode">Running Ansible scripts without making changes</a></li></ul>
+<img src="http://feedpress.me/15217/12869200.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/run-ansible-tasks-based-on-os-distribution/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3426</post-id>
+    </item>
+    <item>
+      <title>Up For a Telegram Chat?</title>
+      <link>http://tracking.feedpress.it/link/15217/12865758</link>
+      <comments>https://www.unixtutorial.org/up-for-a-telegram-chat#disqus_thread</comments>
+      <pubDate>Tue, 01 Oct 2019 16:43:28 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[News]]></category>
+      <category><![CDATA[telegram]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3419</guid>
+      <description><![CDATA[Unix Tutorial Chat &#8211; powered by Telegram Hi guys, just want to let you know that I've set up news feeds and chats for Unix Tutorial on Telegram. Stop by if you have a question or simply want to say hello: Unix Tutorial ChatUnix Tutorial Chat &#8211; In Russian (по-русски) If you think there's an [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-10-01-at-17.37.16-1024x664.png" alt="" class="wp-image-3422" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-01-at-17.37.16-1024x664.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-01-at-17.37.16-300x195.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-10-01-at-17.37.16-768x498.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Unix Tutorial Chat &#8211; powered by Telegram</strong></figcaption></figure>
+
+
+
+<p>Hi guys, just want to let you know that I've set up news feeds and chats for <a href="https://www.unixtutorial.org"><strong>Unix Tutorial</strong></a> on <a href="https://telegram.org">Telegram</a>.</p>
+
+
+
+<p>Stop by if you have a question or simply want to say hello:</p>
+
+
+
+<ul><li><a href="https://t.me/unixtutorial_chat">Unix Tutorial Chat</a></li><li><a href="https://t.me/unixtutorial_ru_chat">Unix Tutorial Chat &#8211; In Russian (по-русски)</a></li></ul>
+
+
+
+<p>If you think there's an easier way to stay in touch or perhaps want to help me start and maintain an online community on Slack, Riot or Discord &#8211; <a href="/contact">please let me know</a>.</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><a href="/projects">Unix Tutorial Projects</a></li><li><a href="/digest">Unix Tutorial Digest</a></li><li><a href="/commands">Unix Commands</a></li><li><a href="/reference">Unix Reference</a></li></ul>
+<img src="http://feedpress.me/15217/12865758.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/up-for-a-telegram-chat/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3419</post-id>
+    </item>
+    <item>
+      <title>How To Resume wget Downloads</title>
+      <link>http://tracking.feedpress.it/link/15217/12862402</link>
+      <comments>https://www.unixtutorial.org/how-to-resume-wget-downloads#disqus_thread</comments>
+      <pubDate>Mon, 30 Sep 2019 14:47:44 +0000</pubDate>
+      <dc:creator><![CDATA[Gleb Reys]]></dc:creator>
+      <category><![CDATA[How-To]]></category>
+      <category><![CDATA[centos]]></category>
+      <category><![CDATA[centos stream]]></category>
+      <category><![CDATA[wget]]></category>
+      <guid isPermaLink="false">https://www.unixtutorial.org/?p=3416</guid>
+      <description><![CDATA[Resume wget download I'm downloading CentOS 8 Stream as we speak, and it's a large enough ISO file &#8211; standard 8GB DVD image. I stopped download because I wanted to restart it in a tmux session, and realised that it's a good opportunity to explain how this works. How To Start Wget Download Assuming you [&#8230;]]]></description>
+      <content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://www.unixtutorial.org/images/Screen-Shot-2019-09-30-at-15.34.59-1024x181.png" alt="" class="wp-image-3417" srcset="https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-09-30-at-15.34.59-1024x181.png 1024w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-09-30-at-15.34.59-300x53.png 300w, https://34hkt337byg024dljl2cquwz-wpengine.netdna-ssl.com/images/Screen-Shot-2019-09-30-at-15.34.59-768x136.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><strong>Resume wget download</strong></figcaption></figure>
+
+
+
+<p>I'm downloading <strong><a href="https://www.unixtutorial.org/centos-8-and-centos-stream-released">CentOS 8 Stream</a></strong> as we speak, and it's a large enough ISO file &#8211; standard 8GB DVD image. I stopped download because I wanted to restart it in a <a href="https://www.unixtutorial.org/preview-windows-and-sessions-in-tmux">tmux session</a>, and realised that it's a good opportunity to explain how this works.</p>
+
+
+
+<h2>How To Start Wget Download</h2>
+
+
+
+<p>Assuming you go to the <a href="http://isoredirect.centos.org/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso">CentOS Stream Download</a> page and pick an image to download, you'll end up with a download URL like this:</p>
+
+
+
+<pre class="wp-block-preformatted">http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso</pre>
+
+
+
+<p>Using <strong>wget</strong>, here's how you can start downloading it:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@redhat:/dist/iso $ <strong>wget http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso</strong>
+--2019-09-30 14:35:36--  http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso
+Resolving ftp.heanet.ie (ftp.heanet.ie)… 87.44.34.235
+Connecting to ftp.heanet.ie (ftp.heanet.ie)|87.44.34.235|:80… connected.
+HTTP request sent, awaiting response… 200 OK
+Length: 8572108800 (8.0G) [application/octet-stream]
+Saving to: 'CentOS-Stream-x86_64-dvd1.iso'
+CentOS-Stream-x86_64-dvd1.iso  1%[+      ] 100.83M  1.77MB/s    eta 73m 43s
+^C</pre>
+
+
+
+<p>At any time you can press Ctlr+C to stop the process. A file with unfinished download will be left in the current directory:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@redhat:/dist/iso $ <strong>ls -ald *iso</strong>
+-rw-rw-r--. 1 greys <strong>118453636</strong> Sep 30 14:37 <strong>CentOS-Stream-x86_64-dvd1.iso</strong>
+</pre>
+
+
+
+<p>And if you just re-run the same <strong>wget command</strong>, your download will actually restart:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@redhat:/dist/iso $ <strong>wget http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso</strong>
+--2019-09-30 14:44:08--  http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso
+Resolving ftp.heanet.ie (ftp.heanet.ie)… 87.44.34.235
+Connecting to ftp.heanet.ie (ftp.heanet.ie)|87.44.34.235|:80… connected.
+HTTP request sent, awaiting response… 200 OK
+Length: 8572108800 (8.0G) [application/octet-stream]
+Saving to: '<strong>CentOS-Stream-x86_64-dvd1.iso.1</strong>'
+<strong>CentOS-Stream-x86_64-dvd1.iso.1</strong>  0%[+      ]  24.88M   775KB/s    eta 2h 13m
+^C</pre>
+
+
+
+<p>If you notice though, the download restarts with a different filename: <strong>CentOS-Stream-x86_64-dvd1.iso.1</strong> in my case. So wget kept your previous download attempt and started a new one:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@redhat:/dist/iso $ <strong>ls -ald iso</strong>
+-rw-rw-r--. 1 greys 118453636 Sep 30 14:37 CentOS-Stream-x86_64-dvd1.iso
+-rw-rw-r--. 1 greys  26088163 Sep 30 14:44 CentOS-Stream-x86_64-dvd1.iso.1</pre>
+
+
+
+<h2>How To Resume wget Download</h2>
+
+
+
+<p>Assuming we want to resume download, you need to use the <strong>wget -c</strong> option:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@redhat:/dist/iso $ <strong>wget -c http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso</strong>
+--2019-09-30 14:45:27--  http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso
+Resolving ftp.heanet.ie (ftp.heanet.ie)… 87.44.34.235
+Connecting to ftp.heanet.ie (ftp.heanet.ie)|87.44.34.235|:80… connected.
+HTTP request sent, awaiting response… 206 Partial Content
+Length: 8572108800 (8.0G), 8453655164 (7.9G) remaining [application/octet-stream]
+Saving to: 'CentOS-Stream-x86_64-dvd1.iso'
+CentOS-Stream-x86_64-dvd1.iso  1%[+      ] 120.68M  1.49MB/s    eta 91m 20s
+^C</pre>
+
+
+
+<p>So it picked up the original 100MB or so downloaded file and resumed downloading from 100MB+ location.</p>
+
+
+
+<p>If we stop this with Ctlr+C again, we'll see the following:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@redhat:/dist/iso $ <strong>ls -ald iso</strong>
+-rw-rw-r--. 1 greys 126668812 Sep 30 14:45 CentOS-Stream-x86_64-dvd1.iso
+-rw-rw-r--. 1 greys  26088163 Sep 30 14:44 CentOS-Stream-x86_64-dvd1.iso.1
+greys@redhat:/dist/iso $ du -sh <em>iso</em>
+121M    CentOS-Stream-x86_64-dvd1.iso
+25M    CentOS-Stream-x86_64-dvd1.iso.1</pre>
+
+
+
+<p>So yes, it's clearly the first file that is slightly larger down &#8211; meaning if we continue downloading, it will start from about 126MB location:</p>
+
+
+
+<pre class="wp-block-preformatted">greys@redhat:/dist/iso $ <strong>wget -c http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso</strong>
+--2019-09-30 14:47:08--  http://ftp.heanet.ie/pub/centos/8-stream/isos/x86_64/CentOS-Stream-x86_64-dvd1.iso
+Resolving ftp.heanet.ie (ftp.heanet.ie)… 87.44.34.235
+Connecting to ftp.heanet.ie (ftp.heanet.ie)|87.44.34.235|:80… connected.
+HTTP request sent, awaiting response… 206 Partial Content
+Length: 8572108800 (8.0G), 8445439988 (7.9G) remaining [application/octet-stream]
+Saving to: '<strong>CentOS-Stream-x86_64-dvd1.iso</strong>'
+
+CentOS-Stream-x86_64-dvd1.iso  1%[+      ] <strong>127.76M</strong>  1.63MB/s    eta 98m 41s
+</pre>
+
+
+
+<p>And that's how you resume wget downloads and continue when previous wget download left off.</p>
+
+
+
+<h2>See Also</h2>
+
+
+
+<ul><li><strong>wget command</strong></li><li><a href="https://www.unixtutorial.org/how-to-use-wget-and-curl">wget vs curl</a></li><li><a href="https://www.unixtutorial.org/test-tcp-connectivity-with-curl">Test TCP connectivity with curl</a></li></ul>
+
+
+
+<p></p>
+<img src="http://feedpress.me/15217/12862402.gif" height="1" width="1"/>]]></content:encoded>
+      <wfw:commentRss>https://www.unixtutorial.org/how-to-resume-wget-downloads/feed</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">3416</post-id>
+    </item>
+  </channel>
+</rss>

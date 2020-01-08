@@ -1,0 +1,67 @@
+#!/usr/bin/python3
+import re
+
+from lxml import etree
+
+
+def Read_xml(file):    
+   #fobj = open("book.xml","r")
+    fobj = open(file,"r")
+    ee = fobj.read()
+    root = etree.fromstring(ee)
+   #print (root.tag)
+    
+    book = root.find('.//book')
+    
+    #print (book)
+    
+    #print (book.get('id'))
+    
+    ##print(root.xpath("string()"))
+    ##print(root.xpath("//text()"))
+    
+    #for appt in root.getchildren():
+    result = (root.xpath("./*"))
+    
+    ##print (result)
+    
+    ll = []
+    
+    for book in result:
+        #print (book.tag)
+        
+        id = book.get('id')
+    #   print (id)
+        dict = {}
+        dict['id'] = id 
+    #   if (id == "bk103"):
+        if re.match(r'\w+\d+',id):
+           ##print (id)
+            bb = book.xpath("./*") 
+     #      print (bb)
+            key = ''
+            val = ''
+            for i in bb:
+               ##print (i.tag)
+                key = i.tag
+                val = i.text
+               ##print (val)
+                #print ("tag {} => {} ".format(key,val)) 
+                dict[key] = val
+        print (dict,"\n")
+        ll.append(dict)
+    #print (ll)   
+
+
+
+
+
+
+if __name__ == "__main__":
+    Read_xml("book.xml")
+
+
+
+
+
+

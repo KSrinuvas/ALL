@@ -1,0 +1,16 @@
+<Item>
+  <Realm>self.Realm</Realm>
+  <ActiveState>self.ActiveState</ActiveState>
+  <Name>self.Name</Name>
+  <Type>self.Type</Type>
+  <Level>self.Level</Level>
+  <Quality>self.Quality</Quality>
+  <Bonus>self.Bonus</Bonus>
+  <AFDPS>self.AFDPS</AFDPS>
+  <Speed>self.Speed</Speed>
+  <Origin>self.Origin</Origin>
+  <DamageType>self.DamageType</DamageType>
+  <LeftHand>self.LeftHand</LeftHand>
+  <Requirement>self.Requirement</Requirement>
+  <Notes>self.Notes</Notes>
+</Item>

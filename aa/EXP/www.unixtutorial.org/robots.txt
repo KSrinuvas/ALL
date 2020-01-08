@@ -1,0 +1,7 @@
+User-Agent: Googlebot
+Disallow: /page/
+Disallow: /feed/
+Disallow: /feed
+Disallow: /contact
+
+Sitemap: /sitemap.xml.gz
