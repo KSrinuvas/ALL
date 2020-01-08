@@ -1,0 +1,65 @@
+##Install Pymysql Module by executing the below command.
+sudo apt-get install python3-pymysql
+
+
+##SAMPLE SCRIPT 
+
+
+#!/usr/bin/python3
+import pymysql;
+from pprint import pprint;
+
+# Connect to the database.
+connection = pymysql.connect(host='localhost',
+                             user='root',
+                             password='srm',
+                             db='srm',
+                             charset='utf8mb4',
+                             cursorclass=pymysql.cursors.DictCursor)
+
+#print ("connect successful!!")
+
+cursor = connection.cursor();
+#cursor1 = connection.cursor();
+# Execute query.
+tablename = "employees";
+cursor.execute("select * from employees");
+#cursor.execute("select * from " + tablename);
+#query = "select * from " + tablename;
+#cursor.execute(query);
+#sql = "select ";
+#sql += " * from employees";
+
+d1 = {};
+
+for row in cursor:
+  eid = row['id'];
+  ph = row['phone'];
+  fname = row['fir stname'];
+  lname = row['lastname'];
+  d1[eid] = {'phone':ph, 'firstname':fname, 'lastname':lname};
+  print(row);
+
+try:
+  ##insert rows.
+  ##commit;
+except:
+  ##rollback;
+finally:
+  ##end statements
+
+
+print(sys.exc_info());
+print(sys.exc_info()[1]);
+
+
+##only for insert or update or delete
+#connection.commit();
+
+##only for insert or update or delete
+#connection.commit();
+
+##
+##connection.rollback();
+
+pprint(d1);

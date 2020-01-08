@@ -1,0 +1,36 @@
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+## git commands 
+
+git init
+
+## single file
+
+git add file
+
+## multiple file 
+
+git add -all file1 file2 file3
+
+## git commit master
+
+git commit -m "message"
+
+git remote add origin master -f (or) --force
+
+## check the remote repos 
+git remote -v
+
+## remove the repos
+
+git remote rm origin
+

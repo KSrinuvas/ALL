@@ -1,0 +1,37 @@
+#!/usr/bin/perl
+
+use strict; 
+use warnings;
+use DBI;
+use Data::Dumper;
+
+# Connect to the database.
+my $dbh = DBI->connect("DBI:mysql:database=srm;host=localhost",
+                       "root", "srm",
+                       {'RaiseError' => 1}); 
+
+#print Dumper($dbh),"\n";
+# INSERT some data into 'foo'. We are using $dbh->quote() for
+# quoting the name.
+#$dbh->do("INSERT INTO foo VALUES (1, " . $dbh->quote("Tim") . ")"); 
+
+# same thing, but using placeholders (recommended!)
+#$dbh->do("INSERT INTO foo VALUES (?, ?)", undef, 2, "Jochen");
+
+# now retrieve data from the table.
+my $sth = $dbh->prepare("SELECT * FROM employees");
+$sth->execute();
+while (my $ref = $sth->fetchrow_hashref()) {
+  print Dumper($ref),"\n";
+  #print "Found a row: id = $ref->{'id'}, name = $ref->{'firstname'}\n";
+}
+$sth->finish();
+
+#
+#$dbh->commit;  
+#or call $dbh->rollback; to undo changes 
+
+
+# Disconnect from the database.
+$dbh->disconnect();
+

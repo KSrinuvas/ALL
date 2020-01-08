@@ -1,0 +1,33 @@
+#!/usr/bin/python3
+import pymysql;
+from pprint import pprint;
+
+# Connect to the database.
+connection = pymysql.connect(host='localhost',
+                             user='root',
+                             password='srm',
+                             db='srm',
+                             charset='utf8mb4',
+                             cursorclass=pymysql.cursors.DictCursor)
+
+print ("connect successful!!")
+
+cursor = connection.cursor();
+# Execute query.
+cursor.execute("select * from employees");
+
+d1 = {};
+
+for row in cursor:
+  eid = row['id'];
+  ph = row['phone'];
+  fname = row['firstname'];
+  lname = row['lastname'];
+  d1[eid] = {'phone':ph, 'firstname':fname, 'lastname':lname};
+  print(row);
+
+##
+##close connection.
+connection.close()
+
+pprint(d1);

@@ -1,0 +1,116 @@
+﻿
+ 				First week text Documentation
+##Tasks :-
+
+  	1)  Read the below text file and parse it. Build the hash appropriately.
+  
+    	path :-  /home/srm/srinivas/Practice/VLSI_tasks/new/data.pl
+
+
+	2)  Read the below text file and parse it. Build the hash appropriately.
+  
+	path : -     /home/srm/srinivas/Practice/VLSI_tasks/new/jira_task.pl
+
+
+## Do the same tasks in tcl :-
+
+	1) path : -  using dict       /home/srm/srinivas/TCL_FILES/VLSI_tasks/data1.tcl
+		      using hash     /home/srm/srinivas/TCL_FILES/VLSI_tasks/data2.tcl
+	2) path : - 	/home/srm/srinivas/TCL_FILES/VLSI_tasks/jira1.tcl
+
+
+## VLSI Concepts :-
+
+	1) All combination gates?
+	2) Find the total resistance in a series and parallel resistance formulas?
+	3) Find the total capacitance in a  series and parallel capacitance formulas?
+	4) Voltage and current and resistance relation?
+	5) Cmos concepts of Pmos and Nmos working?
+	6) Working of cmos inverter?
+	7) What is the buffer gate?
+	8) Threshold volatege?
+	9) Convertion of decimal to binary?
+	10) Convertion of decimal to octal?
+	11) Convertion of decimal to hexa?
+	12) Convertion of binary to decinal?
+	13) Convertion of binary to octal?
+	14) Convertion of binary to hexa?
+	15) Convertion of octal to hexa?
+	16) Convertion of hexa to octal?
+	17) differance of combinational and sequencal circuits
+	18) S-R flip-flop 
+	19) D flip flop
+	20) J-K flip-flop
+	21) T flip-flop
+	22) Greedy and Nongreedy?
+	23) lookahead and lookbehind?
+	
+
+
+
+
+## questions :-
+	1) how can i find the tcl varibles which data type?
+	2) what is the differnce in dict and hash in a tcl?
+	3) 
+
+
+
+
+
+### English  : -
+
+	I’m sorry, I couldn’t make it that day.
+	I’m sorry, I couldn’t make it in time. 
+	Please convey my apologies.
+	It was all by mistake. Please excuse me.
+	I’m very sorry.
+	Sorry to have disturbed you.
+	I bag your pardon.
+	May I have your attention,please?
+	It’s all yours.
+	Will you please permit me to speak?
+	Let me also help you.
+	Will you please move a bit.
+	Could you spare a few moments for me?
+	As you please.
+	Please make yourself comfortable.
+	Sorry for the inconvenience.
+	Please help yourself.
+	Thanks for your kind valuable advice.
+	I will try my level best.
+	Glad to meet you
+	
+	## Use Everyday Conversation
+	I'd like to bye a bottle of water.
+	I understand everything.
+	Wait a little bit.
+	Where is the ATM?
+	How peaceful!
+	Keep your word.
+	The books are expensive.
+	I'm really pleased.
+	Not a single one.
+	I know how to do it.
+	Winter is about to be over.
+	Call me once.
+	I am extremely sorry.
+	I want to bye something.
+	Do you have anything to say about it?
+	I have only 10 dollars.
+	I shall not be able to come.
+	It doesn't make any sense.
+	The village is covered with clouds.
+	
+
+
+
+
+
+
+
+
+
+
+
+

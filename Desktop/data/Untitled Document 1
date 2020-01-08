@@ -1,0 +1,7 @@
+findnodes('//movie')
+
+findnodes('//movie[@id='']')
+
+findnodes(//movie[@id="tt0307479"])
+
+
